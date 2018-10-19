@@ -1,0 +1,1131 @@
+﻿Log file open, 10/19/18 12:10:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Sofas_pack
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1929531373) SRandInit(-1929531373).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.159421
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.19-09.10.56:026][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.19-09.10.56:026][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.19-09.10.56:037][  0]LogInit: Computer: DESKTOP-ETQCBRG
+[2018.10.19-09.10.56:037][  0]LogInit: User: EvgeniyNuts
+[2018.10.19-09.10.56:037][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.19-09.10.56:037][  0]LogInit: High frequency timer resolution =3.234374 MHz
+[2018.10.19-09.10.56:037][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.10.19-09.10.56:037][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.19-09.10.56:037][  0]LogMemory: Process Physical Memory: 277.97 MB used, 277.97 MB peak
+[2018.10.19-09.10.56:037][  0]LogMemory: Process Virtual Memory: 274.09 MB used, 274.09 MB peak
+[2018.10.19-09.10.56:037][  0]LogMemory: Physical Memory: 10350.90 MB used,  22369.67 MB free, 32720.57 MB total
+[2018.10.19-09.10.56:037][  0]LogMemory: Virtual Memory: 4798.97 MB used,  22369.67 MB free, 134217728.00 MB total
+[2018.10.19-09.10.56:140][  0]LogInit: Using OS detected language (ru-RU).
+[2018.10.19-09.10.56:140][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.10.19-09.10.56:142][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.10.19-09.10.56:143][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.10.19-09.10.56:745][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.19-09.10.56:786][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.10.19-09.10.56:786][  0]LogD3D11RHI:       4043/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.19-09.10.56:787][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.19-09.10.56:787][  0]LogD3D11RHI:       0/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.19-09.10.56:787][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.19-09.10.56:793][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.19-09.10.56:793][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.19-09.10.56:793][  0]LogWindows: EnumDisplayDevices:
+[2018.10.19-09.10.56:793][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.10.19-09.10.56:793][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.10.19-09.10.56:794][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.10.19-09.10.56:794][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.10.19-09.10.56:794][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.19-09.10.56:794][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.10.19-09.10.56:794][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.19-09.10.56:794][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.19-09.10.56:794][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.10.19-09.10.56:823][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.19-09.10.56:855][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.19-09.10.56:857][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Intermediate/Shaders/WorkingDirectory/11340/).
+[2018.10.19-09.10.56:857][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/EvgeniyNuts/AppData/Local/Temp/UnrealShaderWorkingDir/47A5122F4E72C9F93E4971B968F12FCB/'.
+[2018.10.19-09.10.56:857][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.19-09.10.57:584][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.19-09.10.57:619][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.19-09.10.57:653][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.19-09.10.57:689][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.19-09.10.57:724][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.19-09.10.57:763][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.19-09.10.57:805][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.19-09.10.57:844][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.19-09.10.57:875][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.19-09.10.57:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-09.10.57:947][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.19-09.10.57:981][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.19-09.10.58:015][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.19-09.10.58:051][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.19-09.10.58:087][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.19-09.10.58:160][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.19-09.10.58:160][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.19-09.10.58:187][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.19-09.10.58:260][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.19-09.10.58:281][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.19-09.10.58:315][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.19-09.10.58:349][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.19-09.10.58:381][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.19-09.10.58:416][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.19-09.10.58:416][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.19-09.10.58:722][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.19-09.10.58:794][  0]LogDerivedDataCache: Loaded boot cache 0.07s 93MB C:/Users/EvgeniyNuts/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.10.19-09.10.58:794][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/EvgeniyNuts/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.10.19-09.10.58:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.19-09.10.58:794][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.19-09.10.58:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.19-09.10.58:794][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.19-09.10.58:809][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.19-09.10.58:820][  0]LogDerivedDataCache: Using Local data cache path C:/Users/EvgeniyNuts/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.19-09.10.58:828][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.19-09.10.58:829][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.19-09.10.58:829][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.19-09.10.58:829][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.19-09.10.59:060][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.10.19-09.10.59:157][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.19-09.10.59:267][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.10.19-09.10.59:488][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.19-09.10.59:515][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.19-09.10.59:515][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.19-09.10.59:515][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.19-09.10.59:515][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.19-09.10.59:515][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.19-09.10.59:799][  0]LogNetVersion: Sofas_pack , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 629342691)
+[2018.10.19-09.10.59:946][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.019748 seconds
+[2018.10.19-09.10.59:952][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.10.19-09.10.59:952][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.10.19-09.10.59:952][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.19-09.10.59:993][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.10.19-09.11.01:994][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.19-09.11.02:032][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.19-09.11.02:520][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.10.19-09.11.02:792][  0]SourceControl: Source control is disabled
+[2018.10.19-09.11.02:792][  0]SourceControl: Source control is disabled
+[2018.10.19-09.11.02:821][  0]SourceControl: Source control is disabled
+[2018.10.19-09.11.02:850][  0]SourceControl: Source control is disabled
+[2018.10.19-09.11.03:211][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.19-09.11.03:412][  0]LogOcInput: OculusInput pre-init called
+[2018.10.19-09.11.03:593][  0]LogEngine: Initializing Engine...
+[2018.10.19-09.11.03:594][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.19-09.11.03:783][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.19-09.11.03:783][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.19-09.11.03:882][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.19-09.11.03:898][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.19-09.11.03:916][  0]LogInit: FAudioDevice initialized.
+[2018.10.19-09.11.04:054][  0]LogDerivedDataCache: Saved boot cache 0.14s 93MB C:/Users/EvgeniyNuts/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.10.19-09.11.04:063][  0]LogInit: Texture streaming: Enabled
+[2018.10.19-09.11.04:145][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.19-09.11.04:311][  0]LogInit: Transaction tracking system initialized
+[2018.10.19-09.11.04:549][  0]BlueprintLog: New page: Editor Load
+[2018.10.19-09.11.05:208][  0]LocalizationService: Localization service is disabled
+[2018.10.19-09.11.05:708][  0]LogConsoleResponse: Display: 
+[2018.10.19-09.11.05:853][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.19-09.11.05:853][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.19-09.11.05:853][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.19-09.11.06:546][  0]LogFileCache: Scanning file cache for directory 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/' took 0.01s
+[2018.10.19-09.11.06:546][  0]SourceControl: Source control is disabled
+[2018.10.19-09.11.06:546][  0]Cmd: MAP LOAD FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.19-09.11.06:546][  0]LightingResults: New page: Lighting Build
+[2018.10.19-09.11.06:573][  0]MapCheck: New page: Map Check
+[2018.10.19-09.11.06:574][  0]LightingResults: New page: Lighting Build
+[2018.10.19-09.11.06:819][  0]LogAIModule: Creating AISystem for world Studio
+[2018.10.19-09.11.06:825][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.19-09.11.06:836][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.19-09.11.06:876][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40.304ms to complete.
+[2018.10.19-09.11.06:876][  0]LogFileHelpers: Loading map 'Studio' took 0.331
+[2018.10.19-09.11.07:014][  0]LogCollectionManager: Loaded 0 collections in 0.000813 seconds
+[2018.10.19-09.11.07:079][  0]LogFileCache: Scanning file cache for directory 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Collections/' took 0.01s
+[2018.10.19-09.11.07:079][  0]LogFileCache: Scanning file cache for directory 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Developers/EvgeniyNuts/Collections/' took 0.01s
+[2018.10.19-09.11.07:079][  0]LogFileCache: Scanning file cache for directory 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Collections/' took 0.01s
+[2018.10.19-09.11.07:079][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.19-09.11.07:087][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2386 classes and 500 folders.
+[2018.10.19-09.11.07:129][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.19-09.11.07:159][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.19-09.11.07:186][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.10.19-09.11.07:249][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.19-09.11.07:252][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.19-09.11.07:253][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.19-09.11.07:323][  0]LogRenderer: Reallocating scene render targets to support 1384x760 Format 10 NumSamples 1 (Frame:1).
+[2018.10.19-09.11.07:462][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.10.19-09.11.07:462][  0]LogLoad: (Engine Initialization) Total time: 12.63 seconds
+[2018.10.19-09.11.07:462][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.19-09.11.07:462][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.10.19-09.11.07:820][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.19-09.11.07:864][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.19-09.11.08:139][  1]LogAssetRegistry: Asset discovery search completed in 9.1021 seconds
+[2018.10.19-09.11.08:141][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.19-09.11.08:141][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2018.10.19-09.11.08:804][  3]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.19-09.11.47:452][721]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.19-09.11.47:452][721]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.19-09.15.15:472][272]Cmd: DELETE
+[2018.10.19-09.15.15:472][272]Cmd: ACTOR DELETE
+[2018.10.19-09.15.15:473][272]LogEditorActor: Deleted Actor: BP_Sofa_C
+[2018.10.19-09.15.15:487][272]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2018.10.19-09.15.18:967][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_d)
+[2018.10.19-09.15.19:150][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_m)
+[2018.10.19-09.15.19:871][743]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.19-09.15.19:923][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-09.15.19:975][743]LogSavePackage: Save=38.59ms
+[2018.10.19-09.15.19:975][743]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Studio41432DAF4D53F44A72210BB31977748E.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2018.10.19-09.15.20:002][743]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2018.10.19-09.15.20:021][743]LogFileHelpers: Saving map 'Studio' took 0.141
+[2018.10.19-09.19.41:388][939]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.19-09.19.41:388][939]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.19-09.33.15:378][406]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\SM_Sofa_a_type1.fbx)
+[2018.10.19-09.33.15:388][406]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.10.19-09.33.15:388][406]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.10.19-09.33.15:388][406]LogFbx: ItemName: Model, ItemCount : 1
+[2018.10.19-09.33.15:388][406]LogFbx: ItemName: Deformer, ItemCount : 3
+[2018.10.19-09.33.15:388][406]LogFbx: ItemName: Material, ItemCount : 2
+[2018.10.19-09.33.15:388][406]LogFbx: ItemName: Collection, ItemCount : 1
+[2018.10.19-09.33.15:388][406]LogFbx: ItemName: SelectionNode, ItemCount : 1
+[2018.10.19-09.33.15:392][406]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\SM_Sofa_a_type1.fbx
+[2018.10.19-09.33.15:468][406]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-09.33.25:177][406]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\SM_Sofa_a_type2.fbx)
+[2018.10.19-09.33.25:180][406]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\SM_Sofa_a_type3.fbx)
+[2018.10.19-09.33.25:196][406]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\T_Sofa_b_type1_AO.tga)
+[2018.10.19-09.33.25:232][406]LogTexture: Display: Building textures: T_Sofa_b_type1_AO (G8, 2048X2048)
+[2018.10.19-09.33.25:628][406]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\T_Sofa_b_type1_N.tga)
+[2018.10.19-09.33.25:987][406]LogTexture: Display: Building textures: T_Sofa_b_type1_N (BC5, 4096X4096)
+[2018.10.19-09.33.27:945][406]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\T_Sofa_b_type1_SM.tga)
+[2018.10.19-09.33.28:321][406]LogTexture: Display: Building textures: T_Sofa_b_type1_SM (AutoDXT, 4096X4096)
+[2018.10.19-09.33.29:550][406]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\T_Sofa_b_type2_AO.tga)
+[2018.10.19-09.33.29:650][406]LogTexture: Display: Building textures: T_Sofa_b_type2_AO (AutoDXT, 2048X2048)
+[2018.10.19-09.33.30:994][406]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\T_Sofa_b_type2_N.tga)
+[2018.10.19-09.33.31:321][406]LogTexture: Display: Building textures: T_Sofa_b_type2_N (BC5, 4096X4096)
+[2018.10.19-09.33.33:545][406]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\T_Sofa_b_type2_SM.tga)
+[2018.10.19-09.33.33:832][406]LogTexture: Display: Building textures: T_Sofa_b_type2_SM (AutoDXT, 4096X4096)
+[2018.10.19-09.33.35:741][406]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\T_Sofa_b_type3_AO.tga)
+[2018.10.19-09.33.35:758][406]LogTexture: Display: Building textures: T_Sofa_b_type3_AO (G8, 2048X2048)
+[2018.10.19-09.33.36:118][406]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\T_Sofa_b_type3_N.tga)
+[2018.10.19-09.33.36:453][406]LogTexture: Display: Building textures: T_Sofa_b_type3_N (BC5, 4096X4096)
+[2018.10.19-09.33.38:390][406]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\T_Sofa_b_type3_SM.tga)
+[2018.10.19-09.33.38:715][406]LogTexture: Display: Building textures: T_Sofa_b_type3_SM (AutoDXT, 4096X4096)
+[2018.10.19-09.33.43:260][417]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Sofas_pack/Maps/Studio' took 0.012
+[2018.10.19-09.33.43:262][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/temp/T_Sofa_b_type1_AO] ([1] browsable assets)...
+[2018.10.19-09.33.43:270][417]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/temp/T_Sofa_b_type1_AO.T_Sofa_b_type1_AO]
+[2018.10.19-09.33.43:270][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/temp/T_Sofa_b_type1_AO]
+[2018.10.19-09.33.43:338][417]LogSavePackage: Save=10.93ms
+[2018.10.19-09.33.43:338][417]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type1_AO_Auto19EFAAE8C4A9EC087312CA1886F6270C8.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type1_AO_Auto1.uasset'
+[2018.10.19-09.33.43:338][417]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type1_AO_Auto1.uasset
+[2018.10.19-09.33.43:339][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/temp/T_Sofa_b_type1_N] ([1] browsable assets)...
+[2018.10.19-09.33.43:346][417]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/temp/T_Sofa_b_type1_N.T_Sofa_b_type1_N]
+[2018.10.19-09.33.43:346][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/temp/T_Sofa_b_type1_N]
+[2018.10.19-09.33.43:346][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/T_Sofa_b_type1_N" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type1_N_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.19-09.33.43:781][417]LogSavePackage: Save=434.37ms
+[2018.10.19-09.33.43:781][417]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type1_N_Auto1922DAD5B4DB5774F220FD0ACF120F55F.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type1_N_Auto1.uasset'
+[2018.10.19-09.33.43:781][417]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type1_N_Auto1.uasset
+[2018.10.19-09.33.43:782][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/temp/T_Sofa_b_type1_SM] ([1] browsable assets)...
+[2018.10.19-09.33.43:787][417]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/temp/T_Sofa_b_type1_SM.T_Sofa_b_type1_SM]
+[2018.10.19-09.33.43:787][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/temp/T_Sofa_b_type1_SM]
+[2018.10.19-09.33.44:309][417]LogSavePackage: Save=501.28ms
+[2018.10.19-09.33.44:309][417]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type1_SM_Auto1C09E446346AE03C60CEA37A5D75D06EF.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type1_SM_Auto1.uasset'
+[2018.10.19-09.33.44:309][417]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type1_SM_Auto1.uasset
+[2018.10.19-09.33.44:310][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/temp/T_Sofa_b_type2_AO] ([1] browsable assets)...
+[2018.10.19-09.33.44:318][417]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/temp/T_Sofa_b_type2_AO.T_Sofa_b_type2_AO]
+[2018.10.19-09.33.44:318][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/temp/T_Sofa_b_type2_AO]
+[2018.10.19-09.33.44:333][417]LogSavePackage: Save=13.64ms
+[2018.10.19-09.33.44:333][417]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type2_AO_Auto17C43A817445B3CA4A6F980BF3DD842A4.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type2_AO_Auto1.uasset'
+[2018.10.19-09.33.44:334][417]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type2_AO_Auto1.uasset
+[2018.10.19-09.33.44:334][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/temp/T_Sofa_b_type2_N] ([1] browsable assets)...
+[2018.10.19-09.33.44:342][417]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/temp/T_Sofa_b_type2_N.T_Sofa_b_type2_N]
+[2018.10.19-09.33.44:342][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/temp/T_Sofa_b_type2_N]
+[2018.10.19-09.33.44:342][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/T_Sofa_b_type2_N" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type2_N_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.19-09.33.44:742][417]LogSavePackage: Save=399.10ms
+[2018.10.19-09.33.44:742][417]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type2_N_Auto125A29C0C4BEEC2658E78028958F079F8.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type2_N_Auto1.uasset'
+[2018.10.19-09.33.44:743][417]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type2_N_Auto1.uasset
+[2018.10.19-09.33.44:743][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/temp/T_Sofa_b_type2_SM] ([1] browsable assets)...
+[2018.10.19-09.33.44:748][417]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/temp/T_Sofa_b_type2_SM.T_Sofa_b_type2_SM]
+[2018.10.19-09.33.44:748][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/temp/T_Sofa_b_type2_SM]
+[2018.10.19-09.33.45:295][417]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.19-09.33.45:304][417]LogSavePackage: Save=554.85ms
+[2018.10.19-09.33.45:304][417]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type2_SM_Auto1BEDB4387471FF33DBE012191BAEBBA05.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type2_SM_Auto1.uasset'
+[2018.10.19-09.33.45:304][417]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type2_SM_Auto1.uasset
+[2018.10.19-09.33.45:305][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/temp/T_Sofa_b_type3_AO] ([1] browsable assets)...
+[2018.10.19-09.33.45:312][417]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/temp/T_Sofa_b_type3_AO.T_Sofa_b_type3_AO]
+[2018.10.19-09.33.45:312][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/temp/T_Sofa_b_type3_AO]
+[2018.10.19-09.33.45:326][417]LogSavePackage: Save=12.39ms
+[2018.10.19-09.33.45:326][417]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type3_AO_Auto1DD5F26234F0007AFC3222489F6DDEB01.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type3_AO_Auto1.uasset'
+[2018.10.19-09.33.45:327][417]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type3_AO_Auto1.uasset
+[2018.10.19-09.33.45:327][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/temp/T_Sofa_b_type3_N] ([1] browsable assets)...
+[2018.10.19-09.33.45:335][417]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/temp/T_Sofa_b_type3_N.T_Sofa_b_type3_N]
+[2018.10.19-09.33.45:335][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/temp/T_Sofa_b_type3_N]
+[2018.10.19-09.33.45:335][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/T_Sofa_b_type3_N" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type3_N_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.19-09.33.45:788][417]LogSavePackage: Save=451.24ms
+[2018.10.19-09.33.45:788][417]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type3_N_Auto14B18E4C74BD3FB70901694B87BBA6D0C.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type3_N_Auto1.uasset'
+[2018.10.19-09.33.45:789][417]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type3_N_Auto1.uasset
+[2018.10.19-09.33.45:789][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/temp/T_Sofa_b_type3_SM] ([1] browsable assets)...
+[2018.10.19-09.33.45:793][417]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/temp/T_Sofa_b_type3_SM.T_Sofa_b_type3_SM]
+[2018.10.19-09.33.45:793][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/temp/T_Sofa_b_type3_SM]
+[2018.10.19-09.33.46:189][417]LogSavePackage: Save=394.52ms
+[2018.10.19-09.33.46:189][417]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type3_SM_Auto15D4BD6D7411FEC0C3E76CEBC05A400E3.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type3_SM_Auto1.uasset'
+[2018.10.19-09.33.46:190][417]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/temp/T_Sofa_b_type3_SM_Auto1.uasset
+[2018.10.19-09.33.46:190][417]LogFileHelpers: Auto-saving content packages took 2.929
+[2018.10.19-09.33.46:586][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_a)
+[2018.10.19-09.33.49:318][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_a2)
+[2018.10.19-09.33.50:062][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sphere)
+[2018.10.19-09.33.50:497][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b)
+[2018.10.19-09.33.53:047][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_h)
+[2018.10.19-09.35.06:013][805]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\SM_Sofa_a_type1.fbx)
+[2018.10.19-09.35.06:021][805]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.10.19-09.35.06:021][805]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.10.19-09.35.06:021][805]LogFbx: ItemName: Model, ItemCount : 1
+[2018.10.19-09.35.06:021][805]LogFbx: ItemName: Deformer, ItemCount : 3
+[2018.10.19-09.35.06:021][805]LogFbx: ItemName: Material, ItemCount : 2
+[2018.10.19-09.35.06:021][805]LogFbx: ItemName: Collection, ItemCount : 1
+[2018.10.19-09.35.06:021][805]LogFbx: ItemName: SelectionNode, ItemCount : 1
+[2018.10.19-09.35.06:028][805]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\SM_Sofa_a_type1.fbx
+[2018.10.19-09.35.06:112][805]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-09.35.08:178][805]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\SM_Sofa_a_type1.fbx
+[2018.10.19-09.35.08:237][805]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-09.35.08:238][805]LogFbx: Warning: Triangulating static mesh Mesh
+[2018.10.19-09.35.08:880][805]LogStaticMesh: Building static mesh SM_Sofa_a_type1...
+[2018.10.19-09.35.08:933][805]LogStaticMesh: Built static mesh [0.05s] /Game/temp/SM_Sofa_a_type1.SM_Sofa_a_type1
+[2018.10.19-09.35.08:999][805]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\SM_Sofa_a_type2.fbx)
+[2018.10.19-09.35.09:008][805]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\SM_Sofa_a_type2.fbx
+[2018.10.19-09.35.09:065][805]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-09.35.09:065][805]LogFbx: Warning: Triangulating static mesh Mesh
+[2018.10.19-09.35.09:695][805]LogStaticMesh: Building static mesh SM_Sofa_a_type2...
+[2018.10.19-09.35.09:750][805]LogStaticMesh: Built static mesh [0.05s] /Game/temp/SM_Sofa_a_type2.SM_Sofa_a_type2
+[2018.10.19-09.35.09:797][805]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\SM_Sofa_a_type3.fbx)
+[2018.10.19-09.35.09:807][805]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\LP_ready\Glammy\SM_Sofa_a_type3.fbx
+[2018.10.19-09.35.09:857][805]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-09.35.09:858][805]LogFbx: Warning: Triangulating static mesh Mesh
+[2018.10.19-09.35.10:418][805]LogStaticMesh: Building static mesh SM_Sofa_a_type3...
+[2018.10.19-09.35.10:468][805]LogStaticMesh: Built static mesh [0.05s] /Game/temp/SM_Sofa_a_type3.SM_Sofa_a_type3
+[2018.10.19-09.35.17:728][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/SM_Sofa_b_type1" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/SM_Sofa_b_type1.uasset" SILENT=true
+[2018.10.19-09.35.17:742][654]LogSavePackage: Save=13.12ms
+[2018.10.19-09.35.17:742][654]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_Sofa_b_type1D3FDDA5A47BD1B7ACCE611A2D4A7EB7E.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/SM_Sofa_b_type1.uasset'
+[2018.10.19-09.35.17:744][654]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/SM_Sofa_b_type1.uasset
+[2018.10.19-09.35.22:374][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/SM_Sofa_b_type3" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/SM_Sofa_b_type3.uasset" SILENT=true
+[2018.10.19-09.35.22:389][192]LogSavePackage: Save=13.17ms
+[2018.10.19-09.35.22:389][192]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_Sofa_b_type33BEB6196478874A2F46E83978D01E8DA.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/SM_Sofa_b_type3.uasset'
+[2018.10.19-09.35.22:390][192]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/SM_Sofa_b_type3.uasset
+[2018.10.19-09.35.27:735][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/SM_Sofa_b_type2" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/SM_Sofa_b_type2.uasset" SILENT=true
+[2018.10.19-09.35.27:750][814]LogSavePackage: Save=14.35ms
+[2018.10.19-09.35.27:750][814]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_Sofa_b_type2E7FA4F3A4485FC562B8C3DB16E7F5EC2.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/SM_Sofa_b_type2.uasset'
+[2018.10.19-09.35.27:752][814]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/SM_Sofa_b_type2.uasset
+[2018.10.19-09.35.33:658][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_n)
+[2018.10.19-09.35.33:932][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_d)
+[2018.10.19-09.35.42:722][559]LogEditorViewport: Clicking on Actor (LMB): LightmassCharacterIndirectDetailVolume (LightmassCharacterIndirectDetailVolume)
+[2018.10.19-09.35.45:964][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sphere)
+[2018.10.19-09.35.56:403][149]Cmd: POLY SELECT ALL
+[2018.10.19-09.35.57:535][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-09.35.57:608][272]LogSavePackage: Save=36.53ms
+[2018.10.19-09.35.57:608][272]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Studio45948931486494ED48245B891DD87122.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2018.10.19-09.35.57:614][272]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2018.10.19-09.35.57:637][272]LogFileHelpers: Saving map 'Studio' took 0.140
+[2018.10.19-09.35.57:646][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/T_Sofa_b_type1_AO" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type1_AO.uasset" SILENT=true
+[2018.10.19-09.35.57:806][272]LogSavePackage: Save=159.15ms
+[2018.10.19-09.35.57:807][272]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type1_AO0EE85DD4454080DBFE5E24AD40971BF3.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type1_AO.uasset'
+[2018.10.19-09.35.57:813][272]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type1_AO.uasset
+[2018.10.19-09.35.57:824][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/T_Sofa_b_type1_N" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type1_N.uasset" SILENT=true
+[2018.10.19-09.35.58:778][272]LogSavePackage: Save=950.87ms
+[2018.10.19-09.35.58:778][272]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type1_NB520AD034706B23E1FE69A9E93CF3E91.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type1_N.uasset'
+[2018.10.19-09.35.58:784][272]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type1_N.uasset
+[2018.10.19-09.35.58:793][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/T_Sofa_b_type1_SM" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type1_SM.uasset" SILENT=true
+[2018.10.19-09.35.59:374][272]LogSavePackage: Save=579.36ms
+[2018.10.19-09.35.59:374][272]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type1_SM030C99D4466FD1F546AFA59EBBF2FFB5.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type1_SM.uasset'
+[2018.10.19-09.35.59:381][272]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type1_SM.uasset
+[2018.10.19-09.35.59:391][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/T_Sofa_b_type2_AO" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type2_AO.uasset" SILENT=true
+[2018.10.19-09.35.59:702][272]LogSavePackage: Save=309.32ms
+[2018.10.19-09.35.59:703][272]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type2_AOE92965A846E4168551D2D18E4A9B7444.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type2_AO.uasset'
+[2018.10.19-09.35.59:710][272]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type2_AO.uasset
+[2018.10.19-09.35.59:720][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/T_Sofa_b_type2_N" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type2_N.uasset" SILENT=true
+[2018.10.19-09.36.00:641][272]LogSavePackage: Save=919.02ms
+[2018.10.19-09.36.00:641][272]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type2_N391A18EE46E94F6E2A8C8799A033E859.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type2_N.uasset'
+[2018.10.19-09.36.00:648][272]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type2_N.uasset
+[2018.10.19-09.36.00:655][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/T_Sofa_b_type2_SM" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type2_SM.uasset" SILENT=true
+[2018.10.19-09.36.01:192][272]LogSavePackage: Save=535.30ms
+[2018.10.19-09.36.01:192][272]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type2_SM2ABA3C024875B693CB47B7A258822890.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type2_SM.uasset'
+[2018.10.19-09.36.01:200][272]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type2_SM.uasset
+[2018.10.19-09.36.01:210][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/T_Sofa_b_type3_AO" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type3_AO.uasset" SILENT=true
+[2018.10.19-09.36.01:352][272]LogSavePackage: Save=141.01ms
+[2018.10.19-09.36.01:352][272]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type3_AO4112456A42832206A5A1F0ACF18B8646.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type3_AO.uasset'
+[2018.10.19-09.36.01:357][272]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type3_AO.uasset
+[2018.10.19-09.36.01:367][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/T_Sofa_b_type3_N" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type3_N.uasset" SILENT=true
+[2018.10.19-09.36.02:276][272]LogSavePackage: Save=906.51ms
+[2018.10.19-09.36.02:276][272]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type3_N034A930341C02A038B4C70A839A54CD1.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type3_N.uasset'
+[2018.10.19-09.36.02:281][272]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type3_N.uasset
+[2018.10.19-09.36.02:288][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp/T_Sofa_b_type3_SM" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type3_SM.uasset" SILENT=true
+[2018.10.19-09.36.02:806][272]LogSavePackage: Save=516.41ms
+[2018.10.19-09.36.02:806][272]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type3_SM9937F4AA499CDBEBEF82F89F7E3E55F6.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type3_SM.uasset'
+[2018.10.19-09.36.02:808][272]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/temp/T_Sofa_b_type3_SM.uasset
+[2018.10.19-09.36.05:760][622]LogActorFactory: Actor Factory created SM_Sofa_b_type1
+[2018.10.19-09.36.05:924][638]LogActorFactory: Actor Factory created SM_Sofa_b_type1
+[2018.10.19-09.36.06:751][732]Cmd: TRANSACTION UNDO
+[2018.10.19-09.36.06:751][732]LogEditorTransaction: Undo Create Actors
+[2018.10.19-09.36.07:555][820]LogActorFactory: Actor Factory created SM_Sofa_b_type1
+[2018.10.19-09.36.07:660][828]LogActorFactory: Actor Factory created SM_Sofa_b_type1
+[2018.10.19-09.36.07:931][856]Cmd: TRANSACTION UNDO
+[2018.10.19-09.36.07:931][856]LogEditorTransaction: Undo Create Actors
+[2018.10.19-09.36.33:791][748]LogSavePackage: Save=14.36ms
+[2018.10.19-09.36.33:791][748]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_Sofa_b_type17D1388304CB5345179F67BBDCBD1361E.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_b/SM_Sofa_b_type1.uasset'
+[2018.10.19-09.36.33:793][748]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_b/SM_Sofa_b_type1.uasset
+[2018.10.19-09.36.33:825][748]LogSavePackage: Save=14.98ms
+[2018.10.19-09.36.33:825][748]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_Sofa_b_type2F7C7721A468D9992DB032E917D044D03.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_b/SM_Sofa_b_type2.uasset'
+[2018.10.19-09.36.33:826][748]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_b/SM_Sofa_b_type2.uasset
+[2018.10.19-09.36.33:855][748]LogSavePackage: Save=13.69ms
+[2018.10.19-09.36.33:855][748]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_Sofa_b_type3303C87DA43AE11960329038378043A81.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_b/SM_Sofa_b_type3.uasset'
+[2018.10.19-09.36.33:857][748]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_b/SM_Sofa_b_type3.uasset
+[2018.10.19-09.36.46:727][252]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.10.19-09.36.54:401][118]LogActorFactory: Actor Factory created SM_Sofa_b_type1
+[2018.10.19-09.36.54:842][167]LogActorFactory: Actor Factory created SM_Sofa_b_type1
+[2018.10.19-09.36.55:132][197]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.19-09.37.13:643][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b)
+[2018.10.19-09.37.21:610][152]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2018.10.19-09.37.21:739][152]LogRenderer: Reallocating scene render targets to support 1384x892 Format 10 NumSamples 1 (Frame:1).
+[2018.10.19-09.37.22:576][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type1)
+[2018.10.19-09.38.02:671][620]Cmd: TRANSACTION UNDO
+[2018.10.19-09.38.02:671][620]LogEditorTransaction: Undo Reset To Default
+[2018.10.19-09.38.03:854][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type1)
+[2018.10.19-09.38.07:435][118]Cmd: TRANSACTION UNDO
+[2018.10.19-09.38.07:435][118]LogEditorTransaction: Undo Reset To Default
+[2018.10.19-09.38.25:530][896]Cmd: TRANSACTION UNDO
+[2018.10.19-09.38.25:530][896]LogEditorTransaction: Undo Edit Contrast
+[2018.10.19-09.38.38:733][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-09.38.38:781][237]LogSavePackage: Save=37.53ms
+[2018.10.19-09.38.38:781][237]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Studio82DBC718490E2B14A6A60D8F7CC79C03.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2018.10.19-09.38.38:783][237]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2018.10.19-09.38.38:804][237]LogFileHelpers: Saving map 'Studio' took 0.111
+[2018.10.19-09.38.38:831][237]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_c, compiling. 
+[2018.10.19-09.38.39:300][237]TextureStreamingBuild: Display: Compiling optional shaders took 0.473 seconds.
+[2018.10.19-09.38.39:335][237]LogSavePackage: Save=15.36ms
+[2018.10.19-09.38.39:335][237]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/M_fabrick_c60504FC9460D5503EA4C37BC57F50255.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Materials/Fabrick/M_fabrick_c.uasset'
+[2018.10.19-09.38.39:375][237]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Materials/Fabrick/M_fabrick_c.uasset
+[2018.10.19-09.38.43:529][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b)
+[2018.10.19-09.38.46:159][942]Cmd: DELETE
+[2018.10.19-09.38.46:159][942]Cmd: ACTOR DELETE
+[2018.10.19-09.38.46:159][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.19-09.38.46:168][942]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2018.10.19-09.38.48:581][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type1)
+[2018.10.19-09.38.51:795][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_h)
+[2018.10.19-09.38.52:271][580]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Sofa_g)
+[2018.10.19-09.38.52:740][627]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Sofa_n)
+[2018.10.19-09.38.53:026][655]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Sofa_d)
+[2018.10.19-09.38.53:255][676]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Sofa_m)
+[2018.10.19-09.38.53:577][708]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Sofa_a)
+[2018.10.19-09.38.53:924][741]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Sofa_a2)
+[2018.10.19-09.38.54:253][773]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Sofa_e)
+[2018.10.19-09.38.54:524][799]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Sofa_f)
+[2018.10.19-09.38.54:817][827]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Sofa_f_2)
+[2018.10.19-09.38.55:100][854]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Sofa_c)
+[2018.10.19-09.38.58:443][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sphere)
+[2018.10.19-09.39.00:959][399]Cmd: TRANSACTION UNDO
+[2018.10.19-09.39.00:959][399]LogEditorTransaction: Undo Move Actors
+[2018.10.19-09.39.05:895][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type1)
+[2018.10.19-09.39.13:882][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-09.39.13:928][738]LogSavePackage: Save=36.88ms
+[2018.10.19-09.39.13:928][738]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Studio96BE9F3F47D774CB0E97A880856E6910.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2018.10.19-09.39.13:930][738]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2018.10.19-09.39.13:954][738]LogFileHelpers: Saving map 'Studio' took 0.112
+[2018.10.19-09.39.13:964][738]LogSavePackage: Save=6.84ms
+[2018.10.19-09.39.13:964][738]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/M_fabrick_c014F10E2427D29BE011981BE6579DE55.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Materials/Fabrick/M_fabrick_c.uasset'
+[2018.10.19-09.39.13:966][738]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Materials/Fabrick/M_fabrick_c.uasset
+[2018.10.19-09.39.47:433][254]LogSavePackage: Save=26.79ms
+[2018.10.19-09.39.47:433][254]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type1_AO3141D72A48FF0020DB29629D2ADEA60F.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type1_AO.uasset'
+[2018.10.19-09.39.47:434][254]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type1_AO.uasset
+[2018.10.19-09.39.47:515][254]LogSavePackage: Save=67.30ms
+[2018.10.19-09.39.47:515][254]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type1_N5C7EB0D243D3204995E446B4D9A21FA5.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type1_N.uasset'
+[2018.10.19-09.39.47:517][254]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type1_N.uasset
+[2018.10.19-09.39.47:537][254]LogSavePackage: Save=12.43ms
+[2018.10.19-09.39.47:537][254]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type1_SM6A3E2A7047CFF7F031A690BBD59F6739.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type1_SM.uasset'
+[2018.10.19-09.39.47:539][254]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type1_SM.uasset
+[2018.10.19-09.39.47:588][254]LogSavePackage: Save=38.14ms
+[2018.10.19-09.39.47:588][254]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type2_AO0E9FB7FE466EBA0086A3BE8412F2E6C1.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type2_AO.uasset'
+[2018.10.19-09.39.47:590][254]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type2_AO.uasset
+[2018.10.19-09.39.47:667][254]LogSavePackage: Save=66.08ms
+[2018.10.19-09.39.47:667][254]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type2_N79CC90F34C904FAA861F86B818E8E141.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type2_N.uasset'
+[2018.10.19-09.39.47:668][254]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type2_N.uasset
+[2018.10.19-09.39.47:688][254]LogSavePackage: Save=11.67ms
+[2018.10.19-09.39.47:688][254]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type2_SMEDFC6C6E44F393194BE02390861FB15B.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type2_SM.uasset'
+[2018.10.19-09.39.47:689][254]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type2_SM.uasset
+[2018.10.19-09.39.47:726][254]LogSavePackage: Save=26.53ms
+[2018.10.19-09.39.47:726][254]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type3_AO814D9F3846B489231A273D88040CCDDE.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type3_AO.uasset'
+[2018.10.19-09.39.47:728][254]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type3_AO.uasset
+[2018.10.19-09.39.47:806][254]LogSavePackage: Save=68.72ms
+[2018.10.19-09.39.47:806][254]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type3_NA8D74BD74DDCE2DB849812980753C5F0.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type3_N.uasset'
+[2018.10.19-09.39.47:808][254]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type3_N.uasset
+[2018.10.19-09.39.47:826][254]LogSavePackage: Save=10.99ms
+[2018.10.19-09.39.47:826][254]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/T_Sofa_b_type3_SM92FF6D09485AE6684BEF29B81D411DBD.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type3_SM.uasset'
+[2018.10.19-09.39.47:828][254]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Textures/Sofa_b/T_Sofa_b_type3_SM.uasset
+[2018.10.19-09.39.48:192][254]LogSavePackage: Save=5.98ms
+[2018.10.19-09.39.48:192][254]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/M_fabrick_c4FA17B9D47E82726F30B94AA34C21475.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Materials/Fabrick/M_fabrick_c.uasset'
+[2018.10.19-09.39.48:192][254]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Materials/Fabrick/M_fabrick_c.uasset
+[2018.10.19-09.39.48:201][254]LogSavePackage: Save=5.22ms
+[2018.10.19-09.39.48:201][254]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/M_fabrick_c6E663B474C2224057CCEB1AE16B57A80.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Materials/Fabrick/M_fabrick_c.uasset'
+[2018.10.19-09.39.48:202][254]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Materials/Fabrick/M_fabrick_c.uasset
+[2018.10.19-09.39.52:170][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type1)
+[2018.10.19-09.39.58:664][447]LogActorFactory: Actor Factory created SM_Sofa_b_type2
+[2018.10.19-09.40.00:462][651]LogActorFactory: Actor Factory created SM_Sofa_b_type2
+[2018.10.19-09.40.01:133][719]LogActorFactory: Actor Factory created SM_Sofa_b_type3
+[2018.10.19-09.40.01:943][804]LogActorFactory: Actor Factory created SM_Sofa_b_type3
+[2018.10.19-09.40.03:680][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sphere)
+[2018.10.19-09.40.04:125][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type2)
+[2018.10.19-09.40.05:916][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type3)
+[2018.10.19-09.40.15:932][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type1)
+[2018.10.19-09.40.16:232][402]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Sofa_b_type2)
+[2018.10.19-09.40.16:504][422]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Sofa_b_type3)
+[2018.10.19-09.40.23:290][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_h)
+[2018.10.19-09.40.23:587][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_d)
+[2018.10.19-09.40.23:817][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_m)
+[2018.10.19-09.40.24:911][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-09.40.24:960][358]LogSavePackage: Save=38.58ms
+[2018.10.19-09.40.24:960][358]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/StudioA670075B48708CCDCC1878B8962C028A.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2018.10.19-09.40.24:962][358]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2018.10.19-09.40.24:983][358]LogFileHelpers: Saving map 'Studio' took 0.114
+[2018.10.19-09.40.25:016][358]LogSavePackage: Save=15.23ms
+[2018.10.19-09.40.25:016][358]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/M_fabrick_g16B88243946D0F1DAD3927B93971442BA.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Materials/Fabrick/M_fabrick_g1.uasset'
+[2018.10.19-09.40.25:040][358]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Materials/Fabrick/M_fabrick_g1.uasset
+[2018.10.19-09.40.25:043][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/BP_Sofa" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/BP_Sofa.uasset" SILENT=true
+[2018.10.19-09.40.25:216][358]LogSavePackage: Save=165.70ms
+[2018.10.19-09.40.25:216][358]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/BP_Sofa342B5C04430514E88E790B9919C6427A.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/BP_Sofa.uasset'
+[2018.10.19-09.40.25:218][358]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/BP_Sofa.uasset
+[2018.10.19-09.40.29:702][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_d)
+[2018.10.19-09.40.31:289][ 40]Cmd: TRANSACTION UNDO
+[2018.10.19-09.40.31:289][ 40]LogEditorTransaction: Undo Move Actors
+[2018.10.19-09.40.36:142][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type1)
+[2018.10.19-09.40.36:458][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type2)
+[2018.10.19-09.40.42:630][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-09.40.42:676][158]LogSavePackage: Save=37.69ms
+[2018.10.19-09.40.42:676][158]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/StudioE60E78124003F4C2C15D8A902CDE5BA8.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2018.10.19-09.40.42:679][158]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2018.10.19-09.40.42:700][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio_BuiltData.uasset" SILENT=true
+[2018.10.19-09.40.45:665][158]LogSavePackage: Save=2887.82ms
+[2018.10.19-09.40.45:665][158]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Studio_BuiltData03C693ED438C9222E1640EA4B6FEDD5A.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio_BuiltData.uasset'
+[2018.10.19-09.40.45:674][158]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio_BuiltData.uasset
+[2018.10.19-09.41.11:072][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_a)
+[2018.10.19-09.41.15:676][805]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.19-09.42.08:224][433]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.19-09.42.08:224][433]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.19-09.42.55:392][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type2)
+[2018.10.19-09.45.26:424][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_a)
+[2018.10.19-09.45.26:691][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_a2)
+[2018.10.19-09.45.28:501][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type2)
+[2018.10.19-09.45.28:978][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type1)
+[2018.10.19-09.45.29:205][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type3)
+[2018.10.19-09.45.29:971][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-09.45.30:030][591]LogSavePackage: Save=42.34ms
+[2018.10.19-09.45.30:030][591]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Studio5577A17D4362A9C11BC8C59B21FA7FA7.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2018.10.19-09.45.30:032][591]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2018.10.19-09.45.30:054][591]LogFileHelpers: Saving map 'Studio' took 0.124
+[2018.10.19-09.45.32:056][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sphere)
+[2018.10.19-09.45.32:522][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_d)
+[2018.10.19-09.45.36:611][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_g)
+[2018.10.19-09.45.39:254][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_h)
+[2018.10.19-09.45.40:551][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_d)
+[2018.10.19-09.45.51:266][919]LogSavePackage: Save=14.52ms
+[2018.10.19-09.45.51:266][919]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_Sofa_d92A1190748FB59466A9FA08ACEC3AA2F.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d.uasset'
+[2018.10.19-09.45.51:268][919]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d.uasset
+[2018.10.19-09.45.51:271][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Static_meshes/SM_Sofa_d" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_d.uasset" SILENT=true
+[2018.10.19-09.45.51:282][919]LogSavePackage: Save=4.23ms
+[2018.10.19-09.45.51:282][919]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_Sofa_dAA36362A494AA891C1A691ABB8E97680.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_d.uasset'
+[2018.10.19-09.45.51:304][919]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_d.uasset
+[2018.10.19-09.45.53:341][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/BP_Sofa" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/BP_Sofa.uasset" SILENT=true
+[2018.10.19-09.45.53:501][144]LogSavePackage: Save=153.62ms
+[2018.10.19-09.45.53:501][144]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/BP_Sofa6E4798D94D97154E73C1838633FBCB84.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/BP_Sofa.uasset'
+[2018.10.19-09.45.53:503][144]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/BP_Sofa.uasset
+[2018.10.19-09.45.53:554][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-09.45.53:606][144]LogSavePackage: Save=40.61ms
+[2018.10.19-09.45.53:606][144]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Studio0E8F2DAA488C09CAEEAE7B974C4CF4AF.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2018.10.19-09.45.53:608][144]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2018.10.19-09.45.53:631][144]LogFileHelpers: Saving map 'Studio' took 0.124
+[2018.10.19-09.45.58:202][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-09.45.58:253][645]LogSavePackage: Save=41.54ms
+[2018.10.19-09.45.58:253][645]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Studio31C3E23843836B7E0370A3B9322CB21D.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2018.10.19-09.45.58:254][645]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2018.10.19-09.45.58:277][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio_BuiltData.uasset" SILENT=true
+[2018.10.19-09.46.01:297][645]LogSavePackage: Save=2951.28ms
+[2018.10.19-09.46.01:297][645]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Studio_BuiltDataEEDE9C1E4D4825D87AE5169C262B11A2.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio_BuiltData.uasset'
+[2018.10.19-09.46.01:306][645]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio_BuiltData.uasset
+[2018.10.19-09.54.15:802][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type1)
+[2018.10.19-09.54.18:315][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type2)
+[2018.10.19-09.54.18:877][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type3)
+[2018.10.19-09.54.21:943][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type1)
+[2018.10.19-09.54.32:425][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_d)
+[2018.10.19-09.54.32:928][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type1)
+[2018.10.19-09.54.33:701][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-09.54.33:762][414]LogSavePackage: Save=41.80ms
+[2018.10.19-09.54.33:762][414]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Studio456179A44ECB4FF3EBC4F79CCF35E27F.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2018.10.19-09.54.33:764][414]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2018.10.19-09.54.33:799][414]LogFileHelpers: Saving map 'Studio' took 0.140
+[2018.10.19-09.55.16:115][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_d)
+[2018.10.19-10.07.37:124][672]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.19-10.07.37:124][672]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.19-10.07.39:004][882]LogSavePackage: Save=13.32ms
+[2018.10.19-10.07.39:004][882]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_Sofa_d_type1BEEA2BC748560D7BF5E44CBFDC161E13.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type1.uasset'
+[2018.10.19-10.07.39:008][882]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type1.uasset
+[2018.10.19-10.07.39:030][882]LogSavePackage: Save=13.58ms
+[2018.10.19-10.07.39:030][882]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_Sofa_dD8DA4E3545A809040AE52F9010CB0B13.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d.uasset'
+[2018.10.19-10.07.39:032][882]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d.uasset
+[2018.10.19-10.08.04:134][880]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Sofas_pack/Maps/Studio' took 0.008
+[2018.10.19-10.08.04:135][880]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sofas_pack/BP_Sofa] ([1] browsable assets)...
+[2018.10.19-10.08.04:136][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sofas_pack/BP_Sofa]
+[2018.10.19-10.08.04:136][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/BP_Sofa" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/Sofas_pack/BP_Sofa_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.10.19-10.08.04:294][880]LogSavePackage: Save=137.77ms
+[2018.10.19-10.08.04:294][880]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/BP_Sofa_Auto257A2D0C94EC7E00F412979BEBB5EE3A2.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/Sofas_pack/BP_Sofa_Auto2.uasset'
+[2018.10.19-10.08.04:294][880]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/Sofas_pack/BP_Sofa_Auto2.uasset
+[2018.10.19-10.08.04:294][880]LogFileHelpers: Auto-saving content packages took 0.160
+[2018.10.19-10.08.43:199][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sphere)
+[2018.10.19-10.08.44:687][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_d)
+[2018.10.19-10.08.51:673][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-10.08.51:748][514]LogSavePackage: Save=59.82ms
+[2018.10.19-10.08.51:748][514]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Studio8AC923F74773AB2DBA4695B057BDABC3.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2018.10.19-10.08.51:750][514]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2018.10.19-10.08.51:773][514]LogFileHelpers: Saving map 'Studio' took 0.662
+[2018.10.19-10.08.51:775][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/BP_Sofa" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/BP_Sofa.uasset" SILENT=true
+[2018.10.19-10.08.51:917][514]LogSavePackage: Save=140.86ms
+[2018.10.19-10.08.51:917][514]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/BP_Sofa5EF0669D4E53DA88EC59E2A8FB28531F.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/BP_Sofa.uasset'
+[2018.10.19-10.08.51:919][514]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/BP_Sofa.uasset
+[2018.10.19-10.08.58:243][632]LogEditorFactories: Performing atomic reimport of [D:/PROJECT/MarketPlace/Sofas/Sweet/SM_Sofa_d_type1.FBX]
+[2018.10.19-10.08.58:299][632]LogFbx: Loading FBX Scene from D:/PROJECT/MarketPlace/Sofas/Sweet/SM_Sofa_d_type1.FBX
+[2018.10.19-10.08.58:343][632]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-10.08.58:365][632]LogFbx: Warning: Triangulating static mesh SM_Sofa_d_type1
+[2018.10.19-10.08.58:935][632]LogStaticMesh: Building static mesh SM_Sofa_d_type1...
+[2018.10.19-10.08.58:977][632]LogStaticMesh: Built static mesh [0.04s] /Game/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type1.SM_Sofa_d_type1
+[2018.10.19-10.08.59:011][632]LogEditorFactories: -- imported successfully
+[2018.10.19-10.08.59:014][632]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.19-10.09.09:127][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-10.09.09:176][633]LogSavePackage: Save=38.11ms
+[2018.10.19-10.09.09:176][633]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Studio6A6B03674B2E5C1030035D85595319C6.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2018.10.19-10.09.09:177][633]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2018.10.19-10.09.09:198][633]LogFileHelpers: Saving map 'Studio' took 0.112
+[2018.10.19-10.09.09:230][633]LogSavePackage: Save=13.74ms
+[2018.10.19-10.09.09:230][633]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_Sofa_d_type160EC96094C1F0C720EAE53A718A24DB6.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type1.uasset'
+[2018.10.19-10.09.09:232][633]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type1.uasset
+[2018.10.19-10.19.11:420][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_d)
+[2018.10.19-10.19.11:892][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sphere)
+[2018.10.19-10.19.12:283][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_d)
+[2018.10.19-10.19.21:299][302]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Sofa_d)
+[2018.10.19-10.21.55:878][616]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type2.FBX)
+[2018.10.19-10.21.55:885][616]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.10.19-10.21.55:885][616]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.10.19-10.21.55:885][616]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.10.19-10.21.55:885][616]LogFbx: ItemName: Model, ItemCount : 1
+[2018.10.19-10.21.55:885][616]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.10.19-10.21.55:885][616]LogFbx: ItemName: Material, ItemCount : 1
+[2018.10.19-10.21.55:885][616]LogFbx: ItemName: AnimationCurve, ItemCount : 9
+[2018.10.19-10.21.55:885][616]LogFbx: ItemName: AnimationCurveNode, ItemCount : 3
+[2018.10.19-10.21.55:890][616]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type2.FBX
+[2018.10.19-10.21.55:902][616]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-10.22.00:223][616]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type2.FBX
+[2018.10.19-10.22.00:232][616]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-10.22.00:232][616]LogFbx: Warning: Triangulating static mesh ST_sweet_2
+[2018.10.19-10.22.00:728][616]LogStaticMesh: Building static mesh SM_Sofa_d_type2...
+[2018.10.19-10.22.00:772][616]LogStaticMesh: Built static mesh [0.04s] /Game/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type2.SM_Sofa_d_type2
+[2018.10.19-10.22.00:793][616]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.19-10.22.00:826][616]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX)
+[2018.10.19-10.22.00:835][616]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX
+[2018.10.19-10.22.00:845][616]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-10.22.00:849][616]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material '_retopo_RetopoGroup1Default' was rename '_retopo_RetopoGroup1Default_ncl1_1' 
+[2018.10.19-10.22.00:849][616]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.10.19-10.22.00:849][616]FBXImport: Error: Could not find any node. 
+[2018.10.19-10.22.00:849][616]FBXImport: Error: Import failed. 
+[2018.10.19-10.22.01:768][616]LogAssetTools: Warning: Failed to import 'D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX'. Failed to create asset '/Game/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type3'.
+Please see Output Log for details.
+[2018.10.19-10.22.09:673][364]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX)
+[2018.10.19-10.22.09:678][364]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.10.19-10.22.09:678][364]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.10.19-10.22.09:678][364]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.10.19-10.22.09:678][364]LogFbx: ItemName: Model, ItemCount : 1
+[2018.10.19-10.22.09:678][364]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.10.19-10.22.09:678][364]LogFbx: ItemName: Material, ItemCount : 2
+[2018.10.19-10.22.09:678][364]LogFbx: ItemName: AnimationCurve, ItemCount : 9
+[2018.10.19-10.22.09:678][364]LogFbx: ItemName: AnimationCurveNode, ItemCount : 3
+[2018.10.19-10.22.09:683][364]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX
+[2018.10.19-10.22.09:692][364]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-10.22.09:694][364]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material '_retopo_RetopoGroup1Default' was rename '_retopo_RetopoGroup1Default_ncl1_1' 
+[2018.10.19-10.22.12:331][364]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX
+[2018.10.19-10.22.12:340][364]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-10.22.12:343][364]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material '_retopo_RetopoGroup1Default' was rename '_retopo_RetopoGroup1Default_ncl1_1' 
+[2018.10.19-10.22.12:343][364]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.10.19-10.22.12:343][364]FBXImport: Error: Could not find any node. 
+[2018.10.19-10.22.12:343][364]FBXImport: Error: Import failed. 
+[2018.10.19-10.22.16:023][364]LogAssetTools: Warning: Failed to import 'D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX'. Failed to create asset '/Game/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type3'.
+Please see Output Log for details.
+[2018.10.19-10.22.16:025][364]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type2.FBX)
+[2018.10.19-10.22.16:034][364]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type2.FBX
+[2018.10.19-10.22.16:044][364]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-10.22.16:045][364]LogFbx: Warning: Triangulating static mesh ST_sweet_2
+[2018.10.19-10.22.16:523][364]LogStaticMesh: Building static mesh SM_Sofa_d_type2...
+[2018.10.19-10.22.16:566][364]LogStaticMesh: Built static mesh [0.04s] /Game/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type2.SM_Sofa_d_type2
+[2018.10.19-10.22.16:584][364]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.19-10.22.24:595][313]LogActorFactory: Actor Factory created SM_Sofa_d_type2
+[2018.10.19-10.22.24:914][345]LogActorFactory: Actor Factory created SM_Sofa_d_type2
+[2018.10.19-10.22.35:527][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-10.22.35:584][515]LogSavePackage: Save=41.94ms
+[2018.10.19-10.22.35:584][515]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/StudioA84ED6BD42E03183CEBF529CAB66C201.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2018.10.19-10.22.35:586][515]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2018.10.19-10.22.35:608][515]LogFileHelpers: Saving map 'Studio' took 0.123
+[2018.10.19-10.22.35:636][515]LogSavePackage: Save=13.09ms
+[2018.10.19-10.22.35:636][515]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_Sofa_d_type2E4F1D1514AECE713AB76F0B2EE049FF5.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type2.uasset'
+[2018.10.19-10.22.35:636][515]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type2.uasset
+[2018.10.19-10.22.52:099][603]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX)
+[2018.10.19-10.22.52:107][603]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.10.19-10.22.52:108][603]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.10.19-10.22.52:108][603]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.10.19-10.22.52:108][603]LogFbx: ItemName: Model, ItemCount : 1
+[2018.10.19-10.22.52:108][603]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.10.19-10.22.52:108][603]LogFbx: ItemName: Material, ItemCount : 2
+[2018.10.19-10.22.52:108][603]LogFbx: ItemName: AnimationCurve, ItemCount : 9
+[2018.10.19-10.22.52:108][603]LogFbx: ItemName: AnimationCurveNode, ItemCount : 3
+[2018.10.19-10.22.52:116][603]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX
+[2018.10.19-10.22.52:131][603]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-10.22.52:134][603]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material '_retopo_RetopoGroup1Default' was rename '_retopo_RetopoGroup1Default_ncl1_1' 
+[2018.10.19-10.22.53:063][603]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX
+[2018.10.19-10.22.53:073][603]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-10.22.53:076][603]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material '_retopo_RetopoGroup1Default' was rename '_retopo_RetopoGroup1Default_ncl1_1' 
+[2018.10.19-10.22.53:076][603]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.10.19-10.22.53:076][603]FBXImport: Error: Could not find any node. 
+[2018.10.19-10.22.53:076][603]FBXImport: Error: Import failed. 
+[2018.10.19-10.22.55:146][603]LogAssetTools: Warning: Failed to import 'D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX'. Failed to create asset '/Game/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type3'.
+Please see Output Log for details.
+[2018.10.19-10.23.14:524][965]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type_3.FBX)
+[2018.10.19-10.23.14:539][965]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.10.19-10.23.14:539][965]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.10.19-10.23.14:539][965]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.10.19-10.23.14:539][965]LogFbx: ItemName: Model, ItemCount : 1
+[2018.10.19-10.23.14:539][965]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.10.19-10.23.14:539][965]LogFbx: ItemName: Material, ItemCount : 2
+[2018.10.19-10.23.14:539][965]LogFbx: ItemName: AnimationCurve, ItemCount : 9
+[2018.10.19-10.23.14:539][965]LogFbx: ItemName: AnimationCurveNode, ItemCount : 3
+[2018.10.19-10.23.14:546][965]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type_3.FBX
+[2018.10.19-10.23.14:561][965]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-10.23.14:566][965]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material '_retopo_RetopoGroup1Default' was rename '_retopo_RetopoGroup1Default_ncl1_1' 
+[2018.10.19-10.23.15:604][965]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type_3.FBX
+[2018.10.19-10.23.15:613][965]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-10.23.15:617][965]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material '_retopo_RetopoGroup1Default' was rename '_retopo_RetopoGroup1Default_ncl1_1' 
+[2018.10.19-10.23.15:617][965]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.10.19-10.23.15:617][965]FBXImport: Error: Could not find any node. 
+[2018.10.19-10.23.15:617][965]FBXImport: Error: Import failed. 
+[2018.10.19-10.23.16:794][965]LogAssetTools: Warning: Failed to import 'D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type_3.FBX'. Failed to create asset '/Game/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type_3'.
+Please see Output Log for details.
+[2018.10.19-10.23.59:892][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type1)
+[2018.10.19-10.24.01:266][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type2)
+[2018.10.19-10.24.01:672][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type3)
+[2018.10.19-10.24.07:243][767]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX)
+[2018.10.19-10.24.07:255][767]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.10.19-10.24.07:255][767]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.10.19-10.24.07:255][767]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.10.19-10.24.07:255][767]LogFbx: ItemName: Model, ItemCount : 1
+[2018.10.19-10.24.07:255][767]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.10.19-10.24.07:255][767]LogFbx: ItemName: Material, ItemCount : 2
+[2018.10.19-10.24.07:255][767]LogFbx: ItemName: AnimationCurve, ItemCount : 9
+[2018.10.19-10.24.07:255][767]LogFbx: ItemName: AnimationCurveNode, ItemCount : 3
+[2018.10.19-10.24.07:266][767]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX
+[2018.10.19-10.24.07:284][767]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-10.24.07:288][767]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material '_retopo_RetopoGroup1Default' was rename '_retopo_RetopoGroup1Default_ncl1_1' 
+[2018.10.19-10.24.08:141][767]LogFbx: Loading FBX Scene from D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX
+[2018.10.19-10.24.08:150][767]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-10.24.08:154][767]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material '_retopo_RetopoGroup1Default' was rename '_retopo_RetopoGroup1Default_ncl1_1' 
+[2018.10.19-10.24.08:154][767]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.10.19-10.24.08:154][767]FBXImport: Error: Could not find any node. 
+[2018.10.19-10.24.08:154][767]FBXImport: Error: Import failed. 
+[2018.10.19-10.24.14:660][767]LogAssetTools: Warning: Failed to import 'D:\PROJECT\MarketPlace\Sofas\Sweet\SM_Sofa_d_type3.FBX'. Failed to create asset '/Game/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type3'.
+Please see Output Log for details.
+[2018.10.19-10.24.21:642][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-10.24.21:691][536]LogSavePackage: Save=39.31ms
+[2018.10.19-10.24.21:691][536]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/StudioB1221AAA437741B6D1EA4790DD7CA035.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2018.10.19-10.24.21:692][536]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2018.10.19-10.24.21:714][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio_BuiltData.uasset" SILENT=true
+[2018.10.19-10.24.24:789][536]LogSavePackage: Save=3008.06ms
+[2018.10.19-10.24.24:789][536]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Studio_BuiltData15E9309740E4B5603FB4B0AD1F242BA4.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio_BuiltData.uasset'
+[2018.10.19-10.24.24:798][536]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio_BuiltData.uasset
+[2018.10.19-10.24.25:767][594]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.19-10.24.25:942][595]Cmd: QUIT_EDITOR
+[2018.10.19-10.24.25:974][595]LogExit: Preparing to exit.
+[2018.10.19-10.24.26:698][595]LogDirectoryWatcher: A directory notification for 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/' was aborted.
+[2018.10.19-10.24.26:733][595]LogExit: Editor shut down
+[2018.10.19-10.24.26:736][595]LogExit: Transaction tracking system shut down
+[2018.10.19-10.24.26:886][595]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.10.19-10.24.26:886][595]LogDirectoryWatcher: A directory notification for '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/' was aborted.
+[2018.10.19-10.24.26:886][595]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.10.19-10.24.26:886][595]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.10.19-10.24.26:886][595]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.10.19-10.24.27:121][595]LogExit: Object subsystem successfully closed.
+[2018.10.19-10.24.27:138][595]LogD3D11RHI: Shutdown
+[2018.10.19-10.24.27:138][595]LogD3D11RHI: CleanupD3DDevice
+[2018.10.19-10.24.27:145][595]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.19-10.24.27:153][595]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (536)
+[2018.10.19-10.24.27:153][595]LogModuleManager: Shutting down and abandoning module MaterialEditor (534)
+[2018.10.19-10.24.27:153][595]LogModuleManager: Shutting down and abandoning module TextureEditor (532)
+[2018.10.19-10.24.27:153][595]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.10.19-10.24.27:153][595]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.10.19-10.24.27:153][595]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.10.19-10.24.27:153][595]LogDirectoryWatcher: A directory notification for 'D:/Program Files/UE_4.17/FeaturePacks/' was aborted.
+[2018.10.19-10.24.27:186][595]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.10.19-10.24.27:186][595]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.10.19-10.24.27:186][595]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.10.19-10.24.27:186][595]LogDirectoryWatcher: A directory notification for 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Collections/' was aborted.
+[2018.10.19-10.24.27:186][595]LogDirectoryWatcher: A directory notification for 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Developers/EvgeniyNuts/Collections/' was aborted.
+[2018.10.19-10.24.27:186][595]LogDirectoryWatcher: A directory notification for 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Collections/' was aborted.
+[2018.10.19-10.24.27:186][595]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.10.19-10.24.27:186][595]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.10.19-10.24.27:186][595]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.10.19-10.24.27:186][595]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.10.19-10.24.27:186][595]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.10.19-10.24.27:186][595]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.10.19-10.24.27:186][595]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.10.19-10.24.27:187][595]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.10.19-10.24.27:565][595]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.10.19-10.24.27:565][595]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.10.19-10.24.27:565][595]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.10.19-10.24.27:565][595]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.10.19-10.24.27:565][595]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.10.19-10.24.27:565][595]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.10.19-10.24.27:565][595]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.10.19-10.24.27:565][595]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.10.19-10.24.27:565][595]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.10.19-10.24.27:565][595]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.10.19-10.24.27:565][595]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.10.19-10.24.27:565][595]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.10.19-10.24.27:566][595]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.10.19-10.24.27:566][595]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.10.19-10.24.27:566][595]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.10.19-10.24.27:566][595]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.10.19-10.24.27:566][595]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.10.19-10.24.27:566][595]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.10.19-10.24.27:566][595]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.10.19-10.24.27:566][595]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.10.19-10.24.27:566][595]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.10.19-10.24.27:566][595]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.10.19-10.24.27:566][595]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.10.19-10.24.27:566][595]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.10.19-10.24.27:621][595]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.10.19-10.24.27:622][595]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.10.19-10.24.27:622][595]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.10.19-10.24.27:622][595]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.10.19-10.24.27:630][595]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.10.19-10.24.27:631][595]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.10.19-10.24.27:632][595]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.10.19-10.24.27:632][595]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.10.19-10.24.27:632][595]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.10.19-10.24.27:632][595]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.10.19-10.24.27:632][595]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.10.19-10.24.27:632][595]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.10.19-10.24.27:632][595]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.10.19-10.24.27:632][595]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.10.19-10.24.27:733][595]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.10.19-10.24.27:834][595]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.10.19-10.24.27:834][595]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.10.19-10.24.27:834][595]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.10.19-10.24.27:834][595]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.10.19-10.24.27:834][595]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.10.19-10.24.27:834][595]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.10.19-10.24.27:835][595]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.10.19-10.24.27:835][595]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.10.19-10.24.27:835][595]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.10.19-10.24.27:835][595]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.10.19-10.24.27:836][595]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.10.19-10.24.27:836][595]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.10.19-10.24.27:836][595]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.10.19-10.24.27:837][595]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.10.19-10.24.27:839][595]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.10.19-10.24.27:840][595]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.10.19-10.24.27:864][595]LogDerivedDataCache: Shutdown
+[2018.10.19-10.24.27:864][595]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.10.19-10.24.27:864][595]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.10.19-10.24.27:864][595]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.10.19-10.24.27:864][595]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.10.19-10.24.27:864][595]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.10.19-10.24.27:864][595]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.10.19-10.24.27:864][595]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.10.19-10.24.27:864][595]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.10.19-10.24.27:864][595]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.10.19-10.24.27:864][595]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.10.19-10.24.27:864][595]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.10.19-10.24.27:864][595]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.10.19-10.24.27:865][595]LogOnline: Display: Unloading online subsystem: NULL
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.10.19-10.24.27:865][595]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.10.19-10.24.27:865][595]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.19-10.24.27:865][595]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB1ED806F-4576-1662-4A75-C3B71E3FCFD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=81a3a7394cc80e0a54320f92b5754539%7C291238a969c64ec1b264e4bc35f465be%7C72e223f3-5c56-4dd3-8272-a9e858a1b60c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.19-10.24.27:868][595]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.10.19-10.24.27:870][595]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.19-10.24.27:870][595]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.19-10.24.27:870][595]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.19-10.24.27:870][595]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.19-10.24.27:870][595]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.19-10.24.27:870][595]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.19-10.24.27:870][595]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.19-10.24.27:871][595]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.19-10.24.27:871][595]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.19-10.24.27:871][595]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.19-10.24.27:871][595]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.19-10.24.27:871][595]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.19-10.24.27:871][595]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.19-10.24.27:871][595]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.19-10.24.27:871][595]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.19-10.24.27:871][595]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.19-10.24.27:871][595]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.19-10.24.27:871][595]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.19-10.24.27:875][595]LogExit: Exiting.
+[2018.10.19-10.24.27:884][595]Log file closed, 10/19/18 13:24:27
