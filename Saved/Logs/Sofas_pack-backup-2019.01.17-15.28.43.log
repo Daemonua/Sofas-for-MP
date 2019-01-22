@@ -1,0 +1,887 @@
+﻿Log file open, 01/17/19 14:52:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Sofas_pack
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2376739) SRandInit(2376739).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.166897
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.17-12.52.14:410][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.17-12.52.14:410][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.17-12.52.14:480][  0]LogInit: Computer: EVGENIYPC
+[2019.01.17-12.52.14:480][  0]LogInit: User: EvgeniyNuts
+[2019.01.17-12.52.14:480][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.17-12.52.14:480][  0]LogInit: High frequency timer resolution =3.234382 MHz
+[2019.01.17-12.52.14:480][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2019.01.17-12.52.14:480][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.17-12.52.14:480][  0]LogMemory: Process Physical Memory: 276.95 MB used, 276.95 MB peak
+[2019.01.17-12.52.14:480][  0]LogMemory: Process Virtual Memory: 273.98 MB used, 273.98 MB peak
+[2019.01.17-12.52.14:480][  0]LogMemory: Physical Memory: 19938.11 MB used,  12782.46 MB free, 32720.57 MB total
+[2019.01.17-12.52.14:480][  0]LogMemory: Virtual Memory: 4799.28 MB used,  12782.46 MB free, 134217728.00 MB total
+[2019.01.17-12.52.14:831][  0]LogInit: Using OS detected language (ru-RU).
+[2019.01.17-12.52.14:831][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.01.17-12.52.15:049][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2019.01.17-12.52.15:050][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2019.01.17-12.52.17:807][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.17-12.52.17:865][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.01.17-12.52.17:865][  0]LogD3D11RHI:       4043/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.17-12.52.17:867][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.17-12.52.17:867][  0]LogD3D11RHI:       0/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.17-12.52.17:867][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.17-12.52.17:875][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.17-12.52.17:875][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.17-12.52.17:875][  0]LogWindows: EnumDisplayDevices:
+[2019.01.17-12.52.17:875][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.01.17-12.52.17:875][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.01.17-12.52.17:876][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.17-12.52.17:876][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.17-12.52.17:876][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.01.17-12.52.17:876][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.01.17-12.52.17:876][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.01.17-12.52.17:876][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.01.17-12.52.17:876][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2019.01.17-12.52.17:917][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.17-12.52.17:956][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.17-12.52.17:959][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Intermediate/Shaders/WorkingDirectory/16608/).
+[2019.01.17-12.52.17:959][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/EvgeniyNuts/AppData/Local/Temp/UnrealShaderWorkingDir/04A765B54DAA606E05B56B87EEED9FB9/'.
+[2019.01.17-12.52.17:959][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.17-12.52.19:909][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.17-12.52.19:997][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.17-12.52.20:090][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.17-12.52.20:166][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.17-12.52.20:292][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.17-12.52.20:372][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.17-12.52.20:461][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.17-12.52.20:519][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.17-12.52.20:564][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.17-12.52.20:627][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-12.52.20:675][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.01.17-12.52.20:721][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.01.17-12.52.20:772][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.01.17-12.52.20:820][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.01.17-12.52.20:872][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.01.17-12.52.20:979][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.01.17-12.52.20:979][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.01.17-12.52.21:024][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.17-12.52.21:180][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.17-12.52.21:217][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.17-12.52.21:335][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.17-12.52.21:394][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.17-12.52.21:494][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.17-12.52.21:589][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.17-12.52.21:589][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.17-12.52.22:867][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.17-12.52.23:440][  0]LogDerivedDataCache: Loaded boot cache 0.57s 114MB C:/Users/EvgeniyNuts/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2019.01.17-12.52.23:440][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/EvgeniyNuts/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2019.01.17-12.52.23:440][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.17-12.52.23:440][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.17-12.52.23:440][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.17-12.52.23:440][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.17-12.52.23:458][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.17-12.52.23:471][  0]LogDerivedDataCache: Using Local data cache path C:/Users/EvgeniyNuts/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.17-12.52.23:483][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.17-12.52.23:484][  0]LogSlate: Using Freetype 2.6.0
+[2019.01.17-12.52.23:563][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.17-12.52.23:563][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.17-12.52.27:280][  0]LogAssetRegistry: FAssetRegistry took 0.0305 seconds to start up
+[2019.01.17-12.52.27:396][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.17-12.52.28:277][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2019.01.17-12.52.29:124][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.17-12.52.29:179][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.17-12.52.29:179][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.17-12.52.29:179][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.17-12.52.29:179][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.01.17-12.52.29:179][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.01.17-12.52.29:539][  0]LogNetVersion: Sofas_pack , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 629342691)
+[2019.01.17-12.52.29:801][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.061311 seconds
+[2019.01.17-12.52.29:807][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2019.01.17-12.52.29:807][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2019.01.17-12.52.29:807][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.17-12.52.29:913][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.01.17-12.53.01:142][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.17-12.53.01:187][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.17-12.53.02:203][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.01.17-12.53.02:718][  0]SourceControl: Source control is disabled
+[2019.01.17-12.53.02:718][  0]SourceControl: Source control is disabled
+[2019.01.17-12.53.02:773][  0]SourceControl: Source control is disabled
+[2019.01.17-12.53.02:838][  0]SourceControl: Source control is disabled
+[2019.01.17-12.53.03:755][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.17-12.53.04:050][  0]LogOcInput: OculusInput pre-init called
+[2019.01.17-12.53.04:394][  0]LogEngine: Initializing Engine...
+[2019.01.17-12.53.04:396][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.17-12.53.04:608][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.17-12.53.04:608][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.17-12.53.04:754][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.17-12.53.04:791][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.17-12.53.04:815][  0]LogInit: FAudioDevice initialized.
+[2019.01.17-12.53.04:904][  0]LogDerivedDataCache: Saved boot cache 0.09s 114MB C:/Users/EvgeniyNuts/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2019.01.17-12.53.04:925][  0]LogInit: Texture streaming: Enabled
+[2019.01.17-12.53.05:073][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.17-12.53.05:434][  0]LogInit: Transaction tracking system initialized
+[2019.01.17-12.53.05:815][  0]BlueprintLog: New page: Editor Load
+[2019.01.17-12.53.07:026][  0]LocalizationService: Localization service is disabled
+[2019.01.17-12.53.08:075][  0]LogConsoleResponse: Display: 
+[2019.01.17-12.53.08:783][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.17-12.53.08:783][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.17-12.53.08:783][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.17-12.53.08:948][  0]LogFileCache: Scanning file cache for directory 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/' took 0.03s
+[2019.01.17-12.53.11:460][  0]SourceControl: Source control is disabled
+[2019.01.17-12.53.11:460][  0]Cmd: MAP LOAD FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.17-12.53.11:504][  0]LightingResults: New page: Lighting Build
+[2019.01.17-12.53.11:543][  0]MapCheck: New page: Map Check
+[2019.01.17-12.53.11:543][  0]LightingResults: New page: Lighting Build
+[2019.01.17-12.53.18:226][  0]LogTexture: Display: Building textures: T_Sofa_d_type3_AO (AutoDXT, 2048X2048)
+[2019.01.17-12.53.18:226][  0]LogTexture: Display: Building textures: T_Sofa_d_type3_N (BC5, 2048X2048)
+[2019.01.17-12.53.18:226][  0]LogStaticMesh: Building static mesh LP...
+[2019.01.17-12.53.18:278][  0]LogStaticMesh: Built static mesh [0.05s] /Game/LP.LP
+[2019.01.17-12.53.18:770][  0]LogTexture: Display: Building textures: T_stub_white (AutoDXT, 256X256)
+[2019.01.17-12.53.18:780][  0]LogTexture: Display: Building textures: T_stub_normal (BC5, 256X256)
+[2019.01.17-12.53.18:789][  0]LogTexture: Display: Building textures: T_stub_black (AutoDXT, 256X256)
+[2019.01.17-12.53.18:795][  0]LogMaterial: Missing cached shader map for material MM_cloth, compiling. 
+[2019.01.17-12.53.20:414][  0]LogTexture: Display: Building textures: T_Sofa_d_type2_N (BC5, 4096X4096)
+[2019.01.17-12.53.20:414][  0]LogTexture: Display: Building textures: T_velvet_b_R (AutoDXT, 4096X4096)
+[2019.01.17-12.53.45:802][  0]LogTexture: Display: Building textures: T_Sofa_d_type2_AO (AutoDXT, 4096X4096)
+[2019.01.17-12.53.45:802][  0]LogTexture: Display: Building textures: T_Sofa_d_type1_N (BC5, 4096X4096)
+[2019.01.17-12.53.45:803][  0]LogTexture: Display: Building textures: T_Sofa_d_type1_AO (AutoDXT, 4096X4096)
+[2019.01.17-12.53.45:803][  0]LogTexture: Display: Building textures: T_velvet_a_R (AutoDXT, 4096X4096)
+[2019.01.17-12.53.45:803][  0]LogTexture: Display: Building textures: T_Sofa_f_type4_N (BC5, 4096X4096)
+[2019.01.17-12.53.45:803][  0]LogTexture: Display: Building textures: T_Sofa_f_type4_AO (G8, 2048X2048)
+[2019.01.17-12.53.45:803][  0]LogTexture: Display: Building textures: T_Sofa_f_type3_N (BC5, 4096X4096)
+[2019.01.17-12.53.45:803][  0]LogTexture: Display: Building textures: T_Sofa_f_type3_AO (G8, 2048X2048)
+[2019.01.17-12.53.45:803][  0]LogTexture: Display: Building textures: T_Sofa_f_type2_N (BC5, 4096X4096)
+[2019.01.17-12.53.45:803][  0]LogTexture: Display: Building textures: T_Sofa_f_type2_AO (G8, 2048X2048)
+[2019.01.17-12.53.45:803][  0]LogTexture: Display: Building textures: T_Sofa_f_type1_N (BC5, 4096X4096)
+[2019.01.17-12.53.45:803][  0]LogTexture: Display: Building textures: T_Sofa_e_type2_N (BC5, 4096X4096)
+[2019.01.17-12.53.46:073][  0]LogTexture: Display: Building textures: T_Sofa_e_type2_AO (G8, 2048X2048)
+[2019.01.17-12.53.46:073][  0]LogTexture: Display: Building textures: T_Fabric_e_roughnes (AutoDXT, 1024X1024)
+[2019.01.17-12.53.47:970][  0]LogTexture: Display: Building textures: T_Sofa_g_type1_N (BC5, 4096X4096)
+[2019.01.17-12.53.47:970][  0]LogTexture: Display: Building textures: T_Sofa_g_type1_AO (G8, 2048X2048)
+[2019.01.17-12.53.47:970][  0]LogTexture: Display: Building textures: T_Sofa_f_type1_AO (G8, 2048X2048)
+[2019.01.17-12.53.47:970][  0]LogTexture: Display: Building textures: Fabric_e_normal (BC5, 1024X1024)
+[2019.01.17-12.53.47:987][  0]LogMaterial: Missing cached shader map for material M_white, compiling. 
+[2019.01.17-12.53.48:037][  0]LogStaticMesh: Building static mesh sphere...
+[2019.01.17-12.53.48:069][  0]LogStaticMesh: Built static mesh [0.06s] /Game/temp/sphere.sphere
+[2019.01.17-12.53.48:077][  0]LogStaticMesh: Building static mesh SM_Sofa_n...
+[2019.01.17-12.53.48:140][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Sofas_pack/Static_meshes/SM_Sofa_n.SM_Sofa_n
+[2019.01.17-12.53.48:160][  0]LogStaticMesh: Building static mesh SM_Sofa_m_type4...
+[2019.01.17-12.53.48:242][  0]LogTexture: Display: Building textures: T_Sofa_g_type3_N (BC5, 4096X4096)
+[2019.01.17-12.53.48:242][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Sofas_pack/Static_meshes/SM_Sofa_m/SM_Sofa_m_type4.SM_Sofa_m_type4
+[2019.01.17-12.53.48:267][  0]LogStaticMesh: Building static mesh SM_Sofa_m_type3...
+[2019.01.17-12.53.48:392][  0]LogStaticMesh: Built static mesh [0.13s] /Game/Sofas_pack/Static_meshes/SM_Sofa_m/SM_Sofa_m_type3.SM_Sofa_m_type3
+[2019.01.17-12.53.48:414][  0]LogStaticMesh: Building static mesh SM_Sofa_m_type2...
+[2019.01.17-12.53.48:571][  0]LogStaticMesh: Built static mesh [0.16s] /Game/Sofas_pack/Static_meshes/SM_Sofa_m/SM_Sofa_m_type2.SM_Sofa_m_type2
+[2019.01.17-12.53.48:598][  0]LogStaticMesh: Building static mesh SM_Sofa_m_type1...
+[2019.01.17-12.53.48:739][  0]LogStaticMesh: Built static mesh [0.14s] /Game/Sofas_pack/Static_meshes/SM_Sofa_m/SM_Sofa_m_type1.SM_Sofa_m_type1
+[2019.01.17-12.53.48:780][  0]LogStaticMesh: Building static mesh SM_Sofa_h...
+[2019.01.17-12.53.48:898][  0]LogStaticMesh: Built static mesh [0.12s] /Game/Sofas_pack/Static_meshes/SM_Sofa_h.SM_Sofa_h
+[2019.01.17-12.53.48:932][  0]LogStaticMesh: Building static mesh SM_Sofa_g_type3...
+[2019.01.17-12.53.49:017][  0]LogStaticMesh: Built static mesh [0.09s] /Game/Sofas_pack/Static_meshes/SM_Sofa_g/SM_Sofa_g_type3.SM_Sofa_g_type3
+[2019.01.17-12.53.49:041][  0]LogStaticMesh: Building static mesh SM_Sofa_g_type2...
+[2019.01.17-12.53.49:136][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Sofas_pack/Static_meshes/SM_Sofa_g/SM_Sofa_g_type2.SM_Sofa_g_type2
+[2019.01.17-12.53.49:158][  0]LogStaticMesh: Building static mesh SM_Sofa_g_type1...
+[2019.01.17-12.53.49:320][  0]LogStaticMesh: Built static mesh [0.16s] /Game/Sofas_pack/Static_meshes/SM_Sofa_g/SM_Sofa_g_type1.SM_Sofa_g_type1
+[2019.01.17-12.53.49:359][  0]LogStaticMesh: Building static mesh SM_Sofa_f_type4...
+[2019.01.17-12.53.49:400][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Sofas_pack/Static_meshes/SM_Sofa_f/SM_Sofa_f_type4.SM_Sofa_f_type4
+[2019.01.17-12.53.49:418][  0]LogStaticMesh: Building static mesh SM_Sofa_f_type3...
+[2019.01.17-12.53.49:485][  0]LogStaticMesh: Built static mesh [0.07s] /Game/Sofas_pack/Static_meshes/SM_Sofa_f/SM_Sofa_f_type3.SM_Sofa_f_type3
+[2019.01.17-12.53.49:510][  0]LogStaticMesh: Building static mesh SM_Sofa_f_type2...
+[2019.01.17-12.53.49:602][  0]LogStaticMesh: Built static mesh [0.09s] /Game/Sofas_pack/Static_meshes/SM_Sofa_f/SM_Sofa_f_type2.SM_Sofa_f_type2
+[2019.01.17-12.53.49:631][  0]LogStaticMesh: Building static mesh SM_Sofa_f_type1...
+[2019.01.17-12.53.49:703][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Sofas_pack/Static_meshes/SM_Sofa_f/SM_Sofa_f_type1.SM_Sofa_f_type1
+[2019.01.17-12.53.49:752][  0]LogStaticMesh: Building static mesh SM_Sofa_e_type3...
+[2019.01.17-12.53.49:791][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Sofas_pack/Static_meshes/SM_Sofa_e/SM_Sofa_e_type3.SM_Sofa_e_type3
+[2019.01.17-12.53.49:806][  0]LogStaticMesh: Building static mesh SM_Sofa_e_type2...
+[2019.01.17-12.53.49:898][  0]LogStaticMesh: Built static mesh [0.09s] /Game/Sofas_pack/Static_meshes/SM_Sofa_e/SM_Sofa_e_type2.SM_Sofa_e_type2
+[2019.01.17-12.53.49:916][  0]LogStaticMesh: Building static mesh SM_Sofa_e_type1...
+[2019.01.17-12.53.50:015][  0]LogTexture: Display: Building textures: T_Sofa_g_type3_AO (G8, 2048X2048)
+[2019.01.17-12.53.50:015][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Sofas_pack/Static_meshes/SM_Sofa_e/SM_Sofa_e_type1.SM_Sofa_e_type1
+[2019.01.17-12.53.50:046][  0]LogStaticMesh: Building static mesh SM_Sofa_d_type3...
+[2019.01.17-12.53.50:091][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type3.SM_Sofa_d_type3
+[2019.01.17-12.53.50:105][  0]LogStaticMesh: Building static mesh SM_Sofa_d_type2...
+[2019.01.17-12.53.50:153][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type2.SM_Sofa_d_type2
+[2019.01.17-12.53.50:169][  0]LogStaticMesh: Building static mesh SM_Sofa_d_type1...
+[2019.01.17-12.53.50:219][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Sofas_pack/Static_meshes/SM_Sofa_d/SM_Sofa_d_type1.SM_Sofa_d_type1
+[2019.01.17-12.53.50:244][  0]LogStaticMesh: Building static mesh SM_Sofa_b_type3...
+[2019.01.17-12.53.50:307][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Sofas_pack/Static_meshes/SM_Sofa_b/SM_Sofa_b_type3.SM_Sofa_b_type3
+[2019.01.17-12.53.50:329][  0]LogStaticMesh: Building static mesh SM_Sofa_b_type2...
+[2019.01.17-12.53.50:393][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Sofas_pack/Static_meshes/SM_Sofa_b/SM_Sofa_b_type2.SM_Sofa_b_type2
+[2019.01.17-12.53.50:420][  0]LogStaticMesh: Building static mesh SM_Sofa_b_type1...
+[2019.01.17-12.53.50:477][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Sofas_pack/Static_meshes/SM_Sofa_b/SM_Sofa_b_type1.SM_Sofa_b_type1
+[2019.01.17-12.53.50:494][  0]LogStaticMesh: Building static mesh SM_Sofa_a_type3...
+[2019.01.17-12.53.50:575][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Sofas_pack/Static_meshes/SM_Sofa_a/SM_Sofa_a_type3.SM_Sofa_a_type3
+[2019.01.17-12.53.50:604][  0]LogStaticMesh: Building static mesh SM_Sofa_a_type2...
+[2019.01.17-12.53.50:657][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Sofas_pack/Static_meshes/SM_Sofa_a/SM_Sofa_a_type2.SM_Sofa_a_type2
+[2019.01.17-12.53.50:744][  0]LogTexture: Display: Building textures: T_Sofa_g_type2_N (BC5, 4096X4096)
+[2019.01.17-12.53.50:744][  0]LogStaticMesh: Building static mesh SM_Sofa_a_type1...
+[2019.01.17-12.53.50:825][  0]LogStaticMesh: Built static mesh [0.14s] /Game/Sofas_pack/Static_meshes/SM_Sofa_a/SM_Sofa_a_type1.SM_Sofa_a_type1
+[2019.01.17-12.53.50:897][  0]LogTexture: Display: Building textures: T_Sofa_e_type3_AO (G8, 2048X2048)
+[2019.01.17-12.53.51:673][  0]LogTexture: Display: Building textures: T_Sofa_g_type2_AO (G8, 2048X2048)
+[2019.01.17-12.53.51:673][  0]LogTexture: Display: Building textures: T_Fabric_d_roughnes (AutoDXT, 2048X2048)
+[2019.01.17-12.53.58:722][  0]LogTexture: Display: Building textures: T_Sofa_e_type3_N (BC5, 4096X4096)
+[2019.01.17-12.53.58:722][  0]LogTexture: Display: Building textures: T_Sofa_m_type1_N (BC5, 4096X4096)
+[2019.01.17-12.53.58:722][  0]LogTexture: Display: Building textures: T_Sofa_m_type1_AO (G8, 2048X2048)
+[2019.01.17-12.53.58:722][  0]LogTexture: Display: Building textures: T_Fabric_a_roughness (AutoDXT, 2048X2048)
+[2019.01.17-12.53.58:722][  0]LogTexture: Display: Building textures: T_Fabric_a_normal (BC5, 2048X2048)
+[2019.01.17-12.53.59:499][  0]LogTexture: Display: Building textures: T_Fabric_d_normal (BC5, 2048X2048)
+[2019.01.17-12.54.00:709][  0]LogTexture: Display: Building textures: T_Sofa_n_normal (BC5, 4096X4096)
+[2019.01.17-12.54.00:799][  0]LogTexture: Display: Building textures: T_Sofa_m_type2_AO (G8, 2048X2048)
+[2019.01.17-12.54.03:765][  0]LogTexture: Display: Building textures: T_Fabric_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.01.17-12.54.03:765][  0]LogTexture: Display: Building textures: T_Sofa_m_type2_N (BC5, 4096X4096)
+[2019.01.17-12.54.06:845][  0]LogTexture: Display: Building textures: T_Fabric_Normal (BC5, 2048X2048)
+[2019.01.17-12.54.06:845][  0]LogTexture: Display: Building textures: T_Fabric_BaseColor_2 (AutoDXT, 2048X2048)
+[2019.01.17-12.54.06:845][  0]LogTexture: Display: Building textures: T_Sofa_m_type3_N (BC5, 4096X4096)
+[2019.01.17-12.54.07:539][  0]LogTexture: Display: Building textures: T_Sofa_m_type3_AO (G8, 2048X2048)
+[2019.01.17-12.54.07:539][  0]LogTexture: Display: Building textures: T_Sofa_m_type4_AO (G8, 2048X2048)
+[2019.01.17-12.54.08:267][  0]LogTexture: Display: Building textures: T_Sofa_m_type4_N (BC5, 4096X4096)
+[2019.01.17-12.54.11:435][  0]LogTexture: Display: Building textures: T_Sofa_b_type1_N (BC5, 4096X4096)
+[2019.01.17-12.54.11:435][  0]LogTexture: Display: Building textures: T_Sofa_b_type1_AO (G8, 2048X2048)
+[2019.01.17-12.54.11:435][  0]LogTexture: Display: Building textures: T_Fabric_c_roughnes (AutoDXT, 2048X2048)
+[2019.01.17-12.54.18:030][  0]LogTexture: Display: Building textures: T_Fabric_c_normal (BC5, 2048X2048)
+[2019.01.17-12.54.18:030][  0]LogTexture: Display: Building textures: T_Sofa_a_type3_N (BC5, 4096X4096)
+[2019.01.17-12.54.18:030][  0]LogTexture: Display: Building textures: T_Sofa_b_type3_N (BC5, 4096X4096)
+[2019.01.17-12.54.19:376][  0]LogTexture: Display: Building textures: T_Sofa_b_type3_AO (G8, 2048X2048)
+[2019.01.17-12.54.19:376][  0]LogTexture: Display: Building textures: T_Sofa_b_type2_N (BC5, 4096X4096)
+[2019.01.17-12.54.21:365][  0]LogTexture: Display: Building textures: T_Sofa_b_type2_AO (AutoDXT, 2048X2048)
+[2019.01.17-12.54.21:365][  0]LogTexture: Display: Building textures: T_Sofa_a_type3_AO (G8, 2048X2048)
+[2019.01.17-12.54.22:399][  0]LogTexture: Display: Building textures: T_Sofa_a_type2_N (BC5, 4096X4096)
+[2019.01.17-12.54.22:399][  0]LogTexture: Display: Building textures: T_Sofa_a_type2_AO (G8, 2048X2048)
+[2019.01.17-12.54.22:399][  0]LogTexture: Display: Building textures: T_Fabric_b_roughnes (AutoDXT, 2048X2048)
+[2019.01.17-12.54.31:130][  0]LogTexture: Display: Building textures: T_Sofa_a_type1_N (BC5, 4096X4096)
+[2019.01.17-12.54.31:130][  0]LogTexture: Display: Building textures: T_Sofa_e_type1_N (BC5, 4096X4096)
+[2019.01.17-12.54.31:131][  0]LogTexture: Display: Building textures: T_Sofa_e_type1_AO (G8, 2048X2048)
+[2019.01.17-12.54.31:131][  0]LogTexture: Display: Building textures: T_Sofa_a_type1_AO (G8, 2048X2048)
+[2019.01.17-12.54.31:131][  0]LogTexture: Display: Building textures: T_Fabric_b_normal (BC5, 2048X2048)
+[2019.01.17-12.54.31:131][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.01.17-12.54.31:131][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 4096X4096)
+[2019.01.17-12.54.31:131][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.01.17-12.54.41:011][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.01.17-12.54.41:011][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2019.01.17-12.54.41:011][  0]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2019.01.17-12.54.41:011][  0]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2019.01.17-12.54.41:011][  0]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2019.01.17-12.54.41:011][  0]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2019.01.17-12.54.41:011][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 4096X4096)
+[2019.01.17-12.54.42:055][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.01.17-12.54.42:055][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.01.17-12.54.42:055][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.01.17-12.54.42:055][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2019.01.17-12.54.43:532][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2019.01.17-12.54.43:532][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2019.01.17-12.54.43:532][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2019.01.17-12.54.43:532][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2019.01.17-12.54.43:532][  0]LogTexture: Display: Building textures: 5_normal (BC5, 2048X2048)
+[2019.01.17-12.54.43:532][  0]LogMaterial: Missing cached shader map for material 5_normal_Mat, compiling. 
+[2019.01.17-12.54.43:580][  0]LogMaterial: Missing cached shader map for material M_metal, compiling. 
+[2019.01.17-12.54.43:609][  0]LogAIModule: Creating AISystem for world Studio
+[2019.01.17-12.54.43:662][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.17-12.54.43:673][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.17-12.54.43:732][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.954ms to complete.
+[2019.01.17-12.54.43:732][  0]LogFileHelpers: Loading map 'Studio' took 92.272
+[2019.01.17-12.54.44:016][  0]LogCollectionManager: Loaded 0 collections in 0.000968 seconds
+[2019.01.17-12.54.44:095][  0]LogFileCache: Scanning file cache for directory 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Collections/' took 0.01s
+[2019.01.17-12.54.44:095][  0]LogFileCache: Scanning file cache for directory 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Developers/EvgeniyNuts/Collections/' took 0.01s
+[2019.01.17-12.54.44:095][  0]LogFileCache: Scanning file cache for directory 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Collections/' took 0.01s
+[2019.01.17-12.54.44:095][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.17-12.54.44:104][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2386 classes and 500 folders.
+[2019.01.17-12.54.44:166][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.01.17-12.54.45:174][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.01.17-12.54.45:232][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.01.17-12.54.45:379][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.17-12.54.45:402][  0]LogSlate: Took 0.019940 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.17-12.54.45:420][  0]LogSlate: Took 0.016125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.17-12.54.45:506][  0]LogRenderer: Reallocating scene render targets to support 1412x680 Format 10 NumSamples 1 (Frame:1).
+[2019.01.17-12.54.45:627][  0]LogSlate: Took 0.011918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.01.17-12.54.45:792][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.01.17-12.54.45:792][  0]LogLoad: (Engine Initialization) Total time: 153.49 seconds
+[2019.01.17-12.54.45:792][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.17-12.54.45:792][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2019.01.17-12.54.46:178][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.17-12.54.46:485][  1]LogAssetRegistry: Asset discovery search completed in 139.2280 seconds
+[2019.01.17-12.54.46:486][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.17-12.54.46:486][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2019.01.17-12.54.54:317][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_a_type1)
+[2019.01.17-12.54.56:039][307]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.01.17-13.07.14:605][923]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.17-13.07.14:605][923]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.17-13.07.20:951][596]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.17-13.07.20:951][596]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.17-13.07.31:704][941]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.01.17-13.07.31:715][941]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../PROJECT/MarketPlace/Sofas/Interio/SM_interio_stydio.FBX)
+[2019.01.17-13.07.31:725][941]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2019.01.17-13.07.31:725][941]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2019.01.17-13.07.31:725][941]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2019.01.17-13.07.31:725][941]LogFbx: ItemName: Model, ItemCount : 1
+[2019.01.17-13.07.31:725][941]LogFbx: ItemName: Geometry, ItemCount : 1
+[2019.01.17-13.07.31:729][941]LogFbx: Loading FBX Scene from ../../../../../PROJECT/MarketPlace/Sofas/Interio/SM_interio_stydio.FBX
+[2019.01.17-13.07.31:758][941]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.17-13.07.34:896][941]LogFbx: Loading FBX Scene from ../../../../../PROJECT/MarketPlace/Sofas/Interio/SM_interio_stydio.FBX
+[2019.01.17-13.07.34:902][941]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.17-13.07.34:917][941]LogFbx: Warning: Triangulating static mesh SM_interio_stydio
+[2019.01.17-13.07.34:933][941]LogStaticMesh: Building static mesh SM_interio_stydio...
+[2019.01.17-13.07.34:952][941]LogStaticMesh: Built static mesh [0.02s] /Game/Sofas_pack/Static_meshes/interior/SM_interio_stydio.SM_interio_stydio
+[2019.01.17-13.07.34:966][941]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.17-13.07.37:566][217]LogSavePackage: Save=14.92ms
+[2019.01.17-13.07.37:566][217]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_interio_stydio5499AD7B4AF718D97012E48776E7B605.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset'
+[2019.01.17-13.07.37:572][217]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset
+[2019.01.17-13.07.42:837][721]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.17-13.07.42:866][721]LightingResults: New page: Lighting Build
+[2019.01.17-13.07.42:867][721]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.01.17-13.07.42:869][721]MapCheck: New page: Map Check
+[2019.01.17-13.07.42:869][721]LightingResults: New page: Lighting Build
+[2019.01.17-13.07.43:254][721]LogAIModule: Creating AISystem for world Untitled_1
+[2019.01.17-13.07.43:307][721]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.17-13.07.43:329][721]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.17-13.07.43:381][721]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.599ms to complete.
+[2019.01.17-13.07.43:382][721]LogFileHelpers: Loading map 'Template_Default' took 0.544
+[2019.01.17-13.08.02:572][980]LogSavePackage: Save=26.98ms
+[2019.01.17-13.08.02:572][980]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior4CBBF66540CDBA67A8FF488326887C15.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.08.02:572][980]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.08.02:604][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-13.08.02:618][980]LogSavePackage: Save=12.39ms
+[2019.01.17-13.08.02:618][980]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltData765D55ED46F695612573838ADC5919CC.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-13.08.02:618][980]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-13.08.02:621][980]LogFileHelpers: Saving map 'Iinterior' took 1.791
+[2019.01.17-13.10.50:027][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.17-13.10.50:380][575]Cmd: DELETE
+[2019.01.17-13.10.50:380][575]Cmd: ACTOR DELETE
+[2019.01.17-13.10.50:383][575]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.17-13.10.50:409][575]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.01.17-13.10.50:586][596]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.01.17-13.10.50:656][598]Cmd: DELETE
+[2019.01.17-13.10.50:656][598]Cmd: ACTOR DELETE
+[2019.01.17-13.10.50:656][598]LogEditorActor: Deleted Actor: PlayerStart
+[2019.01.17-13.10.50:664][598]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2019.01.17-13.10.51:736][709]LogSavePackage: Save=18.30ms
+[2019.01.17-13.10.51:736][709]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior98E8F83D4E92CA83CD27BA948CC5E009.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.10.51:738][709]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.10.51:762][709]LogFileHelpers: Saving map 'Iinterior' took 0.138
+[2019.01.17-13.10.52:677][814]LogActorFactory: Actor Factory created SM_interio_stydio
+[2019.01.17-13.10.52:833][827]LogActorFactory: Actor Factory created SM_interio_stydio
+[2019.01.17-13.10.53:162][858]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.17-13.10.55:529][121]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.17-13.10.59:685][538]LogRenderer: Reallocating scene render targets to support 1412x892 Format 10 NumSamples 1 (Frame:1).
+[2019.01.17-13.11.02:596][828]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.01.17-13.11.05:197][ 40]LogSavePackage: Save=14.44ms
+[2019.01.17-13.11.05:197][ 40]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_interio_stydio758753624F8E4839419C0FAD56E118C7.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset'
+[2019.01.17-13.11.05:199][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset
+[2019.01.17-13.11.09:624][485]LogSavePackage: Save=15.16ms
+[2019.01.17-13.11.09:624][485]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_interio_stydio424A8D6E465DDC5B6330EFB387CEDC22.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset'
+[2019.01.17-13.11.09:626][485]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset
+[2019.01.17-13.11.12:913][805]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2019.01.17-13.11.13:669][876]Cmd: DELETE
+[2019.01.17-13.11.13:669][876]Cmd: ACTOR DELETE
+[2019.01.17-13.11.13:669][876]LogEditorActor: Deleted Actor: AtmosphericFog
+[2019.01.17-13.11.13:680][876]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2019.01.17-13.11.13:927][904]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.17-13.11.22:062][767]LogSavePackage: Save=17.28ms
+[2019.01.17-13.11.22:062][767]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior94AC5ECC42A2E298CDA5B885A44D480F.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.11.22:064][767]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.11.22:089][767]LogFileHelpers: Saving map 'Iinterior' took 0.105
+[2019.01.17-13.11.23:775][942]LogSavePackage: Save=15.84ms
+[2019.01.17-13.11.23:775][942]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorBBE7237D42B555C8EA5A15AF6EEDAB68.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.11.23:777][942]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.11.23:802][942]LogFileHelpers: Saving map 'Iinterior' took 0.105
+[2019.01.17-13.11.35:425][247]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.17-13.11.42:676][ 89]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.17-13.11.48:921][757]LogSavePackage: Save=17.48ms
+[2019.01.17-13.11.48:921][757]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior5D18177545F7EB82B2E528B690F10E0A.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.11.48:922][757]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.11.48:947][757]LogFileHelpers: Saving map 'Iinterior' took 0.105
+[2019.01.17-13.11.50:822][973]LogEditor: Attempting to add actor of class 'LightmassPortal' to level at 110.00,-180.00,170.00
+[2019.01.17-13.11.51:198][  9]LogEditor: Attempting to add actor of class 'LightmassPortal' to level at -440.00,-180.00,10.00
+[2019.01.17-13.12.09:973][ 39]Cmd: MODE GRID=0
+[2019.01.17-13.12.39:002][159]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.17-13.12.52:866][715]LogSavePackage: Save=23.28ms
+[2019.01.17-13.12.52:866][715]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior96AC73C7475C6B101F7145B4826495DF.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.12.52:868][715]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.12.52:893][715]LogFileHelpers: Saving map 'Iinterior' took 0.111
+[2019.01.17-13.13.07:925][464]LogSavePackage: Save=23.41ms
+[2019.01.17-13.13.07:925][464]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorEAC2DE424706640F601643BB6536A724.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.13.07:926][464]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.13.07:951][464]LogFileHelpers: Saving map 'Iinterior' took 0.111
+[2019.01.17-13.13.08:178][487]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.17-13.13.14:942][252]LogSavePackage: Save=23.98ms
+[2019.01.17-13.13.14:942][252]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior57D51CFD46A4C5DF294202909F4B2DD2.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.13.14:944][252]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.13.14:969][252]LogFileHelpers: Saving map 'Iinterior' took 0.116
+[2019.01.17-13.13.27:871][743]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.17-13.13.28:133][768]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.01.17-13.13.42:701][438]LogSavePackage: Save=24.72ms
+[2019.01.17-13.13.42:701][438]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior95FA812F4CF1865B17766F922857136C.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.13.42:703][438]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.13.42:728][438]LogFileHelpers: Saving map 'Iinterior' took 0.112
+[2019.01.17-13.13.49:659][203]LogActorFactory: Actor Factory created SM_Sofa_a_type1
+[2019.01.17-13.13.49:968][234]LogActorFactory: Actor Factory created SM_Sofa_a_type1
+[2019.01.17-13.13.52:312][495]LogActorFactory: Actor Factory created SM_Sofa_a_type2
+[2019.01.17-13.13.52:476][510]LogActorFactory: Actor Factory created SM_Sofa_a_type2
+[2019.01.17-13.13.53:569][635]Cmd: DELETE
+[2019.01.17-13.13.53:569][635]Cmd: ACTOR DELETE
+[2019.01.17-13.13.53:570][635]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.17-13.13.53:578][635]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2019.01.17-13.13.53:800][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_a_type1)
+[2019.01.17-13.13.54:824][768]Cmd: DELETE
+[2019.01.17-13.13.54:824][768]Cmd: ACTOR DELETE
+[2019.01.17-13.13.54:824][768]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.17-13.13.54:832][768]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2019.01.17-13.14.01:744][293]LogSavePackage: Save=25.02ms
+[2019.01.17-13.14.01:744][293]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorED2C5E76435D1BF9C85EC28D6DB768F4.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.14.01:746][293]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.14.01:770][293]LogFileHelpers: Saving map 'Iinterior' took 0.112
+[2019.01.17-13.14.08:062][ 33]LogStaticMesh: Building static mesh SM_Sofa_n_type1...
+[2019.01.17-13.14.08:161][ 33]LogStaticMesh: Built static mesh [0.10s] /Game/Sofas_pack/Static_meshes/SM_Sofa_n/SM_Sofa_n_type1.SM_Sofa_n_type1
+[2019.01.17-13.14.08:197][ 33]LogActorFactory: Actor Factory created SM_Sofa_n_type1
+[2019.01.17-13.14.08:465][ 62]LogActorFactory: Actor Factory created SM_Sofa_n_type1
+[2019.01.17-13.14.12:961][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio)
+[2019.01.17-13.15.15:980][191]LogSavePackage: Save=32.53ms
+[2019.01.17-13.15.15:980][191]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorE07D45C84C5276909FEEDE972F46A393.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.15.15:982][191]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.15.16:006][191]LogFileHelpers: Saving map 'Iinterior' took 0.122
+[2019.01.17-13.15.17:212][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_n_type1)
+[2019.01.17-13.15.23:040][938]LogAIModule: Creating AISystem for world Studio
+[2019.01.17-13.15.23:052][938]Cmd: MAP LOAD FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.17-13.15.23:052][938]LightingResults: New page: Lighting Build
+[2019.01.17-13.15.23:052][938]LoadErrors: New page: Loading map: Studio.umap
+[2019.01.17-13.15.23:053][938]MapCheck: New page: Map Check
+[2019.01.17-13.15.23:053][938]LightingResults: New page: Lighting Build
+[2019.01.17-13.15.23:113][938]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.17-13.15.23:147][938]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.17-13.15.23:200][938]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.592ms to complete.
+[2019.01.17-13.15.23:200][938]LogFileHelpers: Loading map 'Studio' took 0.149
+[2019.01.17-13.15.23:948][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type1)
+[2019.01.17-13.15.25:467][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_f_type1)
+[2019.01.17-13.15.26:887][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_c_type1)
+[2019.01.17-13.15.30:108][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_c_type2)
+[2019.01.17-13.15.31:430][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_f_type2)
+[2019.01.17-13.15.31:912][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_f_type3)
+[2019.01.17-13.15.32:941][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_g_type1)
+[2019.01.17-13.15.33:592][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_g_type2)
+[2019.01.17-13.15.34:272][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_m_type1)
+[2019.01.17-13.15.34:921][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_m_type5)
+[2019.01.17-13.15.35:314][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_m_type5)
+[2019.01.17-13.15.35:969][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_h)
+[2019.01.17-13.15.37:090][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_n)
+[2019.01.17-13.15.38:470][438]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.17-13.15.43:741][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.17-13.15.43:811][ 32]LogSavePackage: Save=55.95ms
+[2019.01.17-13.15.43:811][ 32]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/StudioEE4D9DCB45DDB83FD0B21A90A68954A3.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2019.01.17-13.15.43:813][ 32]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2019.01.17-13.15.43:837][ 32]LogFileHelpers: Saving map 'Studio' took 0.148
+[2019.01.17-13.15.44:209][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_f_type3)
+[2019.01.17-13.15.45:377][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_b_type1)
+[2019.01.17-13.15.46:151][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_f_type1)
+[2019.01.17-13.15.56:602][210]LogSavePackage: Save=14.79ms
+[2019.01.17-13.15.56:602][210]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_Sofa_f_type18445676F44D572DCB6CFF390759B7A86.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_f/SM_Sofa_f_type1.uasset'
+[2019.01.17-13.15.56:619][210]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/SM_Sofa_f/SM_Sofa_f_type1.uasset
+[2019.01.17-13.16.02:326][861]LogAIModule: Creating AISystem for world Iinterior
+[2019.01.17-13.16.02:338][861]Cmd: MAP LOAD FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.17-13.16.02:338][861]LightingResults: New page: Lighting Build
+[2019.01.17-13.16.02:339][861]LoadErrors: New page: Loading map: Iinterior.umap
+[2019.01.17-13.16.02:340][861]MapCheck: New page: Map Check
+[2019.01.17-13.16.02:340][861]LightingResults: New page: Lighting Build
+[2019.01.17-13.16.02:405][861]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.17-13.16.02:436][861]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.17-13.16.02:488][861]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.407ms to complete.
+[2019.01.17-13.16.02:488][861]LogFileHelpers: Loading map 'Iinterior' took 0.151
+[2019.01.17-13.16.03:276][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_n_type1)
+[2019.01.17-13.16.17:311][472]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.01.17-13.16.17:875][515]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight3)
+[2019.01.17-13.16.18:326][564]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight)
+[2019.01.17-13.16.22:129][986]LogSavePackage: Save=32.38ms
+[2019.01.17-13.16.22:129][986]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorE2404A11423E41FE48C5BF975D08A305.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.16.22:131][986]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.16.22:156][986]LogFileHelpers: Saving map 'Iinterior' took 0.122
+[2019.01.17-13.16.29:816][521]Cmd: QUIT_EDITOR
+[2019.01.17-13.16.30:189][521]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.17-13.16.30:227][521]LogExit: Preparing to exit.
+[2019.01.17-13.16.31:300][521]LogDirectoryWatcher: A directory notification for 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/' was aborted.
+[2019.01.17-13.16.31:397][521]LogExit: Editor shut down
+[2019.01.17-13.16.31:443][521]LogExit: Transaction tracking system shut down
+[2019.01.17-13.16.31:786][521]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.01.17-13.16.31:786][521]LogDirectoryWatcher: A directory notification for '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/' was aborted.
+[2019.01.17-13.16.31:786][521]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2019.01.17-13.16.31:786][521]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.01.17-13.16.31:786][521]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.01.17-13.16.33:275][521]LogExit: Object subsystem successfully closed.
+[2019.01.17-13.16.33:412][521]LogD3D11RHI: Shutdown
+[2019.01.17-13.16.33:423][521]LogD3D11RHI: CleanupD3DDevice
+[2019.01.17-13.16.33:653][521]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.17-13.16.34:619][521]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (536)
+[2019.01.17-13.16.34:619][521]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (534)
+[2019.01.17-13.16.34:619][521]LogModuleManager: Shutting down and abandoning module NewLevelDialog (532)
+[2019.01.17-13.16.34:619][521]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2019.01.17-13.16.34:619][521]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2019.01.17-13.16.34:628][521]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2019.01.17-13.16.34:701][521]LogDirectoryWatcher: A directory notification for 'D:/Program Files/UE_4.17/FeaturePacks/' was aborted.
+[2019.01.17-13.16.34:727][521]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2019.01.17-13.16.34:727][521]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2019.01.17-13.16.34:727][521]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2019.01.17-13.16.34:742][521]LogDirectoryWatcher: A directory notification for 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Collections/' was aborted.
+[2019.01.17-13.16.34:742][521]LogDirectoryWatcher: A directory notification for 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Developers/EvgeniyNuts/Collections/' was aborted.
+[2019.01.17-13.16.34:742][521]LogDirectoryWatcher: A directory notification for 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Collections/' was aborted.
+[2019.01.17-13.16.34:742][521]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2019.01.17-13.16.34:759][521]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2019.01.17-13.16.34:760][521]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2019.01.17-13.16.34:785][521]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2019.01.17-13.16.34:785][521]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2019.01.17-13.16.34:785][521]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2019.01.17-13.16.34:785][521]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2019.01.17-13.16.34:785][521]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2019.01.17-13.16.34:785][521]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2019.01.17-13.16.34:797][521]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2019.01.17-13.16.34:797][521]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2019.01.17-13.16.34:797][521]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2019.01.17-13.16.34:810][521]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2019.01.17-13.16.34:822][521]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2019.01.17-13.16.34:847][521]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2019.01.17-13.16.34:885][521]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2019.01.17-13.16.34:886][521]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2019.01.17-13.16.34:886][521]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2019.01.17-13.16.34:886][521]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2019.01.17-13.16.34:886][521]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2019.01.17-13.16.34:886][521]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2019.01.17-13.16.34:886][521]LogModuleManager: Shutting down and abandoning module Media (477)
+[2019.01.17-13.16.34:886][521]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2019.01.17-13.16.34:886][521]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2019.01.17-13.16.34:886][521]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2019.01.17-13.16.34:886][521]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2019.01.17-13.16.34:887][521]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2019.01.17-13.16.34:887][521]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2019.01.17-13.16.34:888][521]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2019.01.17-13.16.34:888][521]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2019.01.17-13.16.34:888][521]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2019.01.17-13.16.34:913][521]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2019.01.17-13.16.34:914][521]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2019.01.17-13.16.34:929][521]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2019.01.17-13.16.34:940][521]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2019.01.17-13.16.34:956][521]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2019.01.17-13.16.34:956][521]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2019.01.17-13.16.34:956][521]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2019.01.17-13.16.35:020][521]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2019.01.17-13.16.35:020][521]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2019.01.17-13.16.35:020][521]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2019.01.17-13.16.35:020][521]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2019.01.17-13.16.35:031][521]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2019.01.17-13.16.35:032][521]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2019.01.17-13.16.35:032][521]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2019.01.17-13.16.35:054][521]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2019.01.17-13.16.35:054][521]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2019.01.17-13.16.35:069][521]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2019.01.17-13.16.35:079][521]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2019.01.17-13.16.35:079][521]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2019.01.17-13.16.35:096][521]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2019.01.17-13.16.35:097][521]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2019.01.17-13.16.35:120][521]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2019.01.17-13.16.35:120][521]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2019.01.17-13.16.35:120][521]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2019.01.17-13.16.35:120][521]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2019.01.17-13.16.35:120][521]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2019.01.17-13.16.35:153][521]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2019.01.17-13.16.35:165][521]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2019.01.17-13.16.35:178][521]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2019.01.17-13.16.35:188][521]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2019.01.17-13.16.35:200][521]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2019.01.17-13.16.35:256][521]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2019.01.17-13.16.35:312][521]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2019.01.17-13.16.35:322][521]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2019.01.17-13.16.35:345][521]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2019.01.17-13.16.35:345][521]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2019.01.17-13.16.35:345][521]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2019.01.17-13.16.35:345][521]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2019.01.17-13.16.35:371][521]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2019.01.17-13.16.35:371][521]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2019.01.17-13.16.35:387][521]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2019.01.17-13.16.35:401][521]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2019.01.17-13.16.35:401][521]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2019.01.17-13.16.35:401][521]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2019.01.17-13.16.35:411][521]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2019.01.17-13.16.35:433][521]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2019.01.17-13.16.35:444][521]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2019.01.17-13.16.35:458][521]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2019.01.17-13.16.35:459][521]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2019.01.17-13.16.35:459][521]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2019.01.17-13.16.35:459][521]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2019.01.17-13.16.35:459][521]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2019.01.17-13.16.35:506][521]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2019.01.17-13.16.35:506][521]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2019.01.17-13.16.35:506][521]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2019.01.17-13.16.35:506][521]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2019.01.17-13.16.35:506][521]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2019.01.17-13.16.35:506][521]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2019.01.17-13.16.35:506][521]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2019.01.17-13.16.35:519][521]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2019.01.17-13.16.35:520][521]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2019.01.17-13.16.35:532][521]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2019.01.17-13.16.35:771][521]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2019.01.17-13.16.35:786][521]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2019.01.17-13.16.35:786][521]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2019.01.17-13.16.35:786][521]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2019.01.17-13.16.35:786][521]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2019.01.17-13.16.35:800][521]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2019.01.17-13.16.35:800][521]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2019.01.17-13.16.35:800][521]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2019.01.17-13.16.35:815][521]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2019.01.17-13.16.35:815][521]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2019.01.17-13.16.35:815][521]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2019.01.17-13.16.35:843][521]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2019.01.17-13.16.35:843][521]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2019.01.17-13.16.35:859][521]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2019.01.17-13.16.35:859][521]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2019.01.17-13.16.35:859][521]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2019.01.17-13.16.35:859][521]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2019.01.17-13.16.35:859][521]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2019.01.17-13.16.35:874][521]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2019.01.17-13.16.35:884][521]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2019.01.17-13.16.35:899][521]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2019.01.17-13.16.35:911][521]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2019.01.17-13.16.35:911][521]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2019.01.17-13.16.35:920][521]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2019.01.17-13.16.35:931][521]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2019.01.17-13.16.35:940][521]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2019.01.17-13.16.35:949][521]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2019.01.17-13.16.35:949][521]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2019.01.17-13.16.35:949][521]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2019.01.17-13.16.35:949][521]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2019.01.17-13.16.35:962][521]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2019.01.17-13.16.35:975][521]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.01.17-13.16.35:985][521]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.01.17-13.16.36:013][521]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2019.01.17-13.16.36:013][521]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2019.01.17-13.16.36:022][521]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2019.01.17-13.16.36:023][521]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2019.01.17-13.16.36:023][521]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2019.01.17-13.16.36:023][521]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2019.01.17-13.16.36:023][521]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2019.01.17-13.16.36:023][521]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2019.01.17-13.16.36:023][521]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2019.01.17-13.16.36:030][521]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2019.01.17-13.16.36:132][521]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2019.01.17-13.16.36:246][521]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2019.01.17-13.16.36:259][521]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2019.01.17-13.16.36:259][521]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2019.01.17-13.16.36:259][521]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2019.01.17-13.16.36:272][521]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2019.01.17-13.16.36:319][521]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2019.01.17-13.16.36:320][521]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2019.01.17-13.16.36:320][521]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2019.01.17-13.16.36:328][521]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2019.01.17-13.16.36:333][521]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2019.01.17-13.16.36:349][521]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2019.01.17-13.16.36:349][521]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2019.01.17-13.16.36:359][521]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2019.01.17-13.16.36:374][521]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2019.01.17-13.16.36:374][521]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2019.01.17-13.16.36:374][521]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2019.01.17-13.16.36:374][521]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2019.01.17-13.16.36:392][521]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2019.01.17-13.16.36:401][521]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2019.01.17-13.16.36:401][521]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2019.01.17-13.16.36:418][521]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2019.01.17-13.16.36:418][521]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2019.01.17-13.16.36:435][521]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2019.01.17-13.16.36:435][521]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2019.01.17-13.16.36:453][521]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2019.01.17-13.16.36:491][521]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2019.01.17-13.16.36:509][521]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2019.01.17-13.16.36:509][521]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2019.01.17-13.16.36:537][521]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2019.01.17-13.16.36:537][521]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2019.01.17-13.16.36:538][521]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2019.01.17-13.16.36:538][521]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2019.01.17-13.16.36:538][521]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2019.01.17-13.16.36:538][521]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2019.01.17-13.16.36:539][521]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2019.01.17-13.16.36:539][521]LogModuleManager: Shutting down and abandoning module Core (168)
+[2019.01.17-13.16.36:539][521]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2019.01.17-13.16.36:539][521]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2019.01.17-13.16.36:539][521]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2019.01.17-13.16.36:553][521]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2019.01.17-13.16.36:568][521]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2019.01.17-13.16.36:568][521]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2019.01.17-13.16.36:584][521]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2019.01.17-13.16.36:584][521]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2019.01.17-13.16.36:597][521]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2019.01.17-13.16.36:602][521]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2019.01.17-13.16.36:602][521]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2019.01.17-13.16.36:657][521]LogDerivedDataCache: Shutdown
+[2019.01.17-13.16.36:657][521]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2019.01.17-13.16.36:657][521]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2019.01.17-13.16.36:694][521]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2019.01.17-13.16.36:707][521]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2019.01.17-13.16.36:712][521]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2019.01.17-13.16.36:723][521]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2019.01.17-13.16.36:742][521]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2019.01.17-13.16.36:742][521]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2019.01.17-13.16.36:742][521]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2019.01.17-13.16.36:742][521]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2019.01.17-13.16.36:751][521]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2019.01.17-13.16.36:759][521]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2019.01.17-13.16.36:759][521]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.01.17-13.16.36:760][521]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.01.17-13.16.36:760][521]LogOnline: Display: Unloading online subsystem: NULL
+[2019.01.17-13.16.36:779][521]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.01.17-13.16.36:788][521]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.01.17-13.16.36:788][521]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.17-13.16.36:801][521]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73EA9800-4257-0635-3ED0-C7AD9483F72D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=81a3a7394cc80e0a54320f92b5754539%7C291238a969c64ec1b264e4bc35f465be%7C72e223f3-5c56-4dd3-8272-a9e858a1b60c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.17-13.16.36:815][521]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.01.17-13.16.36:826][521]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.17-13.16.36:830][521]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.17-13.16.36:830][521]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.17-13.16.36:849][521]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.17-13.16.36:849][521]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.17-13.16.36:849][521]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.17-13.16.36:849][521]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.17-13.16.36:865][521]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.17-13.16.36:874][521]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.17-13.16.36:874][521]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.17-13.16.36:882][521]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.17-13.16.36:882][521]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.17-13.16.36:882][521]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.17-13.16.36:882][521]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.17-13.16.36:889][521]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.17-13.16.36:889][521]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.17-13.16.36:890][521]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.17-13.16.36:894][521]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.17-13.16.36:914][521]LogExit: Exiting.
+[2019.01.17-13.16.36:931][521]Log file closed, 01/17/19 15:16:36

@@ -1,0 +1,1851 @@
+﻿Log file open, 01/17/19 15:28:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Sofas_pack
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1502211764) SRandInit(-1502211763).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.167515
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.17-13.28.44:370][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.17-13.28.44:370][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.17-13.28.44:381][  0]LogInit: Computer: EVGENIYPC
+[2019.01.17-13.28.44:381][  0]LogInit: User: EvgeniyNuts
+[2019.01.17-13.28.44:381][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.17-13.28.44:381][  0]LogInit: High frequency timer resolution =3.234382 MHz
+[2019.01.17-13.28.44:381][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2019.01.17-13.28.44:381][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.17-13.28.44:381][  0]LogMemory: Process Physical Memory: 277.05 MB used, 277.05 MB peak
+[2019.01.17-13.28.44:381][  0]LogMemory: Process Virtual Memory: 274.14 MB used, 274.14 MB peak
+[2019.01.17-13.28.44:381][  0]LogMemory: Physical Memory: 12323.80 MB used,  20396.77 MB free, 32720.57 MB total
+[2019.01.17-13.28.44:381][  0]LogMemory: Virtual Memory: 4799.28 MB used,  20396.77 MB free, 134217728.00 MB total
+[2019.01.17-13.28.44:528][  0]LogInit: Using OS detected language (ru-RU).
+[2019.01.17-13.28.44:528][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.01.17-13.28.44:530][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2019.01.17-13.28.44:534][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2019.01.17-13.28.45:230][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.17-13.28.45:299][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.01.17-13.28.45:299][  0]LogD3D11RHI:       4043/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.17-13.28.45:302][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.17-13.28.45:302][  0]LogD3D11RHI:       0/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.17-13.28.45:302][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.17-13.28.45:310][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.17-13.28.45:310][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.17-13.28.45:310][  0]LogWindows: EnumDisplayDevices:
+[2019.01.17-13.28.45:310][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.01.17-13.28.45:310][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.01.17-13.28.45:310][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.17-13.28.45:310][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.17-13.28.45:310][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.01.17-13.28.45:310][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.01.17-13.28.45:310][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.01.17-13.28.45:310][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.01.17-13.28.45:310][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2019.01.17-13.28.45:348][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.17-13.28.45:388][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.17-13.28.45:390][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Intermediate/Shaders/WorkingDirectory/13036/).
+[2019.01.17-13.28.45:391][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/EvgeniyNuts/AppData/Local/Temp/UnrealShaderWorkingDir/AFD582514DC0EBDFA7E074923FC16C88/'.
+[2019.01.17-13.28.45:391][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.17-13.28.46:269][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.17-13.28.46:318][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.17-13.28.46:365][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.17-13.28.46:416][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.17-13.28.46:464][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.17-13.28.46:514][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.17-13.28.46:563][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.17-13.28.46:616][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.17-13.28.46:660][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.17-13.28.46:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.17-13.28.46:759][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.01.17-13.28.46:810][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.01.17-13.28.46:857][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.01.17-13.28.46:904][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.01.17-13.28.46:954][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.01.17-13.28.47:058][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.01.17-13.28.47:058][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.01.17-13.28.47:097][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.17-13.28.47:188][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.17-13.28.47:215][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.17-13.28.47:272][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.17-13.28.47:321][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.17-13.28.47:369][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.17-13.28.47:415][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.17-13.28.47:415][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.17-13.28.47:877][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.17-13.28.47:977][  0]LogDerivedDataCache: Loaded boot cache 0.10s 114MB C:/Users/EvgeniyNuts/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2019.01.17-13.28.47:977][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/EvgeniyNuts/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2019.01.17-13.28.47:977][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.17-13.28.47:977][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.17-13.28.47:977][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.17-13.28.47:977][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.17-13.28.47:992][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.17-13.28.48:004][  0]LogDerivedDataCache: Using Local data cache path C:/Users/EvgeniyNuts/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.17-13.28.48:013][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.17-13.28.48:013][  0]LogSlate: Using Freetype 2.6.0
+[2019.01.17-13.28.48:014][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.17-13.28.48:014][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.17-13.28.48:271][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2019.01.17-13.28.48:380][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.17-13.28.48:501][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2019.01.17-13.28.48:781][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.17-13.28.48:824][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.17-13.28.48:824][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.17-13.28.48:824][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.17-13.28.48:824][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.01.17-13.28.48:824][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.01.17-13.28.49:151][  0]LogNetVersion: Sofas_pack , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 629342691)
+[2019.01.17-13.28.49:329][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.019375 seconds
+[2019.01.17-13.28.49:336][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2019.01.17-13.28.49:336][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2019.01.17-13.28.49:336][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.17-13.28.49:393][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.01.17-13.28.51:914][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.17-13.28.51:952][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.17-13.28.52:552][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.01.17-13.28.52:929][  0]SourceControl: Source control is disabled
+[2019.01.17-13.28.52:929][  0]SourceControl: Source control is disabled
+[2019.01.17-13.28.52:980][  0]SourceControl: Source control is disabled
+[2019.01.17-13.28.53:026][  0]SourceControl: Source control is disabled
+[2019.01.17-13.28.53:637][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.17-13.28.53:886][  0]LogOcInput: OculusInput pre-init called
+[2019.01.17-13.28.54:150][  0]LogEngine: Initializing Engine...
+[2019.01.17-13.28.54:151][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.17-13.28.54:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.17-13.28.54:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.17-13.28.54:499][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.17-13.28.54:522][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.17-13.28.54:548][  0]LogInit: FAudioDevice initialized.
+[2019.01.17-13.28.54:646][  0]LogDerivedDataCache: Saved boot cache 0.10s 114MB C:/Users/EvgeniyNuts/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2019.01.17-13.28.54:667][  0]LogInit: Texture streaming: Enabled
+[2019.01.17-13.28.54:783][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.17-13.28.55:002][  0]LogInit: Transaction tracking system initialized
+[2019.01.17-13.28.55:325][  0]BlueprintLog: New page: Editor Load
+[2019.01.17-13.28.56:240][  0]LocalizationService: Localization service is disabled
+[2019.01.17-13.28.56:895][  0]LogConsoleResponse: Display: 
+[2019.01.17-13.28.57:062][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.17-13.28.57:062][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.17-13.28.57:062][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.17-13.28.57:206][  0]LogFileCache: Scanning file cache for directory 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/' took 0.01s
+[2019.01.17-13.28.58:101][  0]SourceControl: Source control is disabled
+[2019.01.17-13.28.58:101][  0]Cmd: MAP LOAD FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.17-13.28.58:102][  0]LightingResults: New page: Lighting Build
+[2019.01.17-13.28.58:148][  0]MapCheck: New page: Map Check
+[2019.01.17-13.28.58:148][  0]LightingResults: New page: Lighting Build
+[2019.01.17-13.28.58:614][  0]LogAIModule: Creating AISystem for world Studio
+[2019.01.17-13.28.58:619][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.17-13.28.58:635][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.17-13.28.58:691][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.423ms to complete.
+[2019.01.17-13.28.58:691][  0]LogFileHelpers: Loading map 'Studio' took 0.589
+[2019.01.17-13.28.58:844][  0]LogCollectionManager: Loaded 0 collections in 0.001985 seconds
+[2019.01.17-13.28.58:929][  0]LogFileCache: Scanning file cache for directory 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Collections/' took 0.01s
+[2019.01.17-13.28.58:929][  0]LogFileCache: Scanning file cache for directory 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Developers/EvgeniyNuts/Collections/' took 0.01s
+[2019.01.17-13.28.58:929][  0]LogFileCache: Scanning file cache for directory 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Collections/' took 0.01s
+[2019.01.17-13.28.58:929][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.17-13.28.58:937][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2386 classes and 500 folders.
+[2019.01.17-13.28.59:003][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.01.17-13.28.59:053][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.17-13.28.59:097][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.01.17-13.28.59:178][  0]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.17-13.28.59:181][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.17-13.28.59:183][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.17-13.28.59:268][  0]LogRenderer: Reallocating scene render targets to support 1412x848 Format 10 NumSamples 1 (Frame:1).
+[2019.01.17-13.28.59:322][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.01.17-13.28.59:451][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.01.17-13.28.59:452][  0]LogLoad: (Engine Initialization) Total time: 16.52 seconds
+[2019.01.17-13.28.59:452][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.17-13.28.59:452][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2019.01.17-13.28.59:818][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.17-13.29.00:147][  1]LogAssetRegistry: Asset discovery search completed in 11.8987 seconds
+[2019.01.17-13.29.00:149][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.17-13.29.00:149][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2019.01.17-13.29.41:463][535]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.01.17-13.29.41:618][535]LogAIModule: Creating AISystem for world Iinterior
+[2019.01.17-13.29.41:634][535]Cmd: MAP LOAD FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.17-13.29.41:634][535]LightingResults: New page: Lighting Build
+[2019.01.17-13.29.41:634][535]LoadErrors: New page: Loading map: Iinterior.umap
+[2019.01.17-13.29.41:635][535]MapCheck: New page: Map Check
+[2019.01.17-13.29.41:635][535]LightingResults: New page: Lighting Build
+[2019.01.17-13.29.41:691][535]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.17-13.29.41:724][535]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.17-13.29.41:775][535]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.89ms to complete.
+[2019.01.17-13.29.41:775][535]LogFileHelpers: Loading map 'Iinterior' took 0.142
+[2019.01.17-13.29.44:810][877]MapCheck: New page: Map Check
+[2019.01.17-13.29.44:824][877]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-13.29.44:824][877]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-13.29.44:942][877]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-13.29.44:949][877]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2019.01.17-13.29.44:955][877]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-13.29.44:961][877]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-13.29.44:968][877]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-13.29.45:506][877]TextureStreamingBuild: Display: Compiling optional shaders took 0.570 seconds.
+[2019.01.17-13.29.45:515][877]LogLevel: Display: Export Material TexCoord Scales took 0.009 seconds.
+[2019.01.17-13.29.45:519][877]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-13.29.45:527][877]LightingResults: New page: Lighting Build - Jan 17, 2019, 5:29:45 PM
+[2019.01.17-13.29.45:555][877]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-13.29.45:625][877]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-13.29.45:635][877]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-13.29.46:144][877]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-13.29.46:144][877]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-13.29.55:315][877]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-13.29.55:315][877]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-13.29.55:315][877]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-13.29.55:315][877]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-13.29.55:315][877]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-13.29.55:468][877]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-13.29.55:469][877]MapCheck: New page: Iinterior - Jan 17, 2019, 5:29:55 PM
+[2019.01.17-13.29.55:483][877]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.29.55:483][877]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-13.29.55:539][877]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 69.992ms to complete.
+[2019.01.17-13.29.55:562][877]LogEditorBuildUtils: Build time 0:10
+[2019.01.17-13.30.11:070][ 38]LogHttp: Warning: 000001D19473DF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.17-13.30.11:070][ 38]LogHttp: Warning: 000001D19473DF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.17-13.30.11:070][ 38]LogHttp: Warning: 000001D19473DF00: libcurl info message cache 1 (Closing connection 0)
+[2019.01.17-13.30.28:556][570]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.17-13.30.36:271][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio)
+[2019.01.17-13.30.37:435][290]LogRenderer: Reallocating scene render targets to support 1412x892 Format 10 NumSamples 1 (Frame:1).
+[2019.01.17-13.31.17:576][917]Job is a success!
+[2019.01.17-13.31.18:232][918]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.01.17-13.31.18:232][918]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.01.17-13.31.18:232][918]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.01.17-13.31.18:232][918]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.01.17-13.31.18:269][918]Lightmass on EVGENIYPC: 1:21 min total, 145 ms importing, 21 ms setup, 4.50 sec photons, 1:17 min processing, 0 ms extra exporting [3/3 mappings]. Threads: 5:07 min total, 2:23 min processing.
+[2019.01.17-13.31.18:277][918]LogStaticLightingSystem: Illumination: 1:32 min (545 ms encoding lightmaps, 5 ms encoding shadowmaps)
+[2019.01.17-13.31.18:277][918]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.01.17-13.31.18:277][918]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-13.31.18:378][918]DumpUnbuiltLightIteractions
+[2019.01.17-13.31.18:378][918]Lights with unbuilt interactions: 0
+[2019.01.17-13.31.18:378][918]
+[2019.01.17-13.31.18:378][918]Primitives with unbuilt interactions: 0
+[2019.01.17-13.31.18:384][919]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-13.31.18:384][919]MapCheck: New page: Iinterior - Jan 17, 2019, 5:31:18 PM
+[2019.01.17-13.31.18:384][919]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.31.18:436][919]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 51.936ms to complete.
+[2019.01.17-13.32.11:104][234]LogHttp: Warning: 000001D1948D4400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.17-13.32.11:104][234]LogHttp: Warning: 000001D1948D4400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.17-13.32.11:104][234]LogHttp: Warning: 000001D1948D4400: libcurl info message cache 1 (Closing connection 1)
+[2019.01.17-13.32.50:870][941]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.17-13.33.05:386][267]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.01.17-13.33.05:998][317]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight3)
+[2019.01.17-13.33.06:864][411]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight)
+[2019.01.17-13.33.18:647][772]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.01.17-13.33.21:687][107]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.17-13.33.31:656][240]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-13.33.47:761][ 68]Cmd: TRANSACTION UNDO
+[2019.01.17-13.33.47:761][ 68]LogEditorTransaction: Undo Rotate Actors
+[2019.01.17-13.33.47:781][ 68]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.01.17-13.34.05:712][132]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-13.34.06:830][259]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2019.01.17-13.34.08:480][434]LogSavePackage: Save=34.75ms
+[2019.01.17-13.34.08:480][434]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior353FFFA2469ADACA360DE98DCA830000.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.34.08:482][434]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.34.08:506][434]LogFileHelpers: Saving map 'Iinterior' took 0.129
+[2019.01.17-13.34.08:508][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-13.34.08:600][434]LogSavePackage: Save=85.61ms
+[2019.01.17-13.34.08:600][434]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltDataB11647134E03532B95E2769A7F7B09D8.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-13.34.08:601][434]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-13.34.14:068][ 69]MapCheck: New page: Map Check
+[2019.01.17-13.34.14:082][ 69]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-13.34.14:082][ 69]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-13.34.14:142][ 69]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-13.34.14:147][ 69]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2019.01.17-13.34.14:153][ 69]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-13.34.14:159][ 69]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-13.34.14:165][ 69]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-13.34.14:686][ 69]TextureStreamingBuild: Display: Compiling optional shaders took 0.548 seconds.
+[2019.01.17-13.34.14:689][ 69]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2019.01.17-13.34.14:693][ 69]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-13.34.14:703][ 69]LightingResults: New page: Lighting Build - Jan 17, 2019, 5:34:14 PM
+[2019.01.17-13.34.14:711][ 69]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-13.34.14:713][ 69]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-13.34.14:713][ 69]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-13.34.14:714][ 69]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-13.34.14:714][ 69]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-13.34.19:290][ 69]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-13.34.19:290][ 69]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-13.34.19:290][ 69]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-13.34.19:290][ 69]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-13.34.19:290][ 69]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-13.34.19:385][ 69]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-13.34.19:386][ 69]MapCheck: New page: Iinterior - Jan 17, 2019, 5:34:19 PM
+[2019.01.17-13.34.19:386][ 69]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.34.19:386][ 69]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-13.34.19:436][ 69]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 50.94ms to complete.
+[2019.01.17-13.34.19:458][ 69]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-13.34.46:926][535]Job is a success!
+[2019.01.17-13.34.47:581][536]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.17-13.34.47:581][536]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.17-13.34.47:581][536]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.01.17-13.34.47:581][536]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.01.17-13.34.47:607][536]Lightmass on EVGENIYPC: 27.5 sec total, 126 ms importing, 26 ms setup, 3.16 sec photons, 24.1 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 1:36 min total, 45.5 sec processing.
+[2019.01.17-13.34.47:612][536]LogStaticLightingSystem: Illumination: 32.8 sec (589 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-13.34.47:612][536]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.01.17-13.34.47:612][536]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-13.34.48:311][536]DumpUnbuiltLightIteractions
+[2019.01.17-13.34.48:311][536]Lights with unbuilt interactions: 0
+[2019.01.17-13.34.48:311][536]
+[2019.01.17-13.34.48:311][536]Primitives with unbuilt interactions: 0
+[2019.01.17-13.34.48:317][537]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-13.34.48:318][537]MapCheck: New page: Iinterior - Jan 17, 2019, 5:34:48 PM
+[2019.01.17-13.34.48:339][537]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.34.48:388][537]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 70.115ms to complete.
+[2019.01.17-13.35.11:646][295]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.17-13.35.19:951][206]LogSavePackage: Save=34.23ms
+[2019.01.17-13.35.19:951][206]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior47CEECDF4CEC62E244836CBD0B0DFD0F.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.35.19:954][206]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.35.19:977][206]LogFileHelpers: Saving map 'Iinterior' took 0.123
+[2019.01.17-13.35.19:979][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-13.35.20:066][206]LogSavePackage: Save=86.07ms
+[2019.01.17-13.35.20:066][206]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltDataDD1EEBC74547CEDD6E0D7889263C6DB8.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-13.35.20:069][206]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-13.35.22:207][461]MapCheck: New page: Map Check
+[2019.01.17-13.35.22:224][461]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-13.35.22:224][461]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-13.35.22:284][461]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-13.35.22:289][461]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_4, compiling. 
+[2019.01.17-13.35.22:295][461]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-13.35.22:300][461]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-13.35.22:306][461]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-13.35.22:840][461]TextureStreamingBuild: Display: Compiling optional shaders took 0.560 seconds.
+[2019.01.17-13.35.22:843][461]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2019.01.17-13.35.22:847][461]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-13.35.22:855][461]LightingResults: New page: Lighting Build - Jan 17, 2019, 5:35:22 PM
+[2019.01.17-13.35.22:860][461]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-13.35.22:862][461]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-13.35.22:862][461]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-13.35.22:863][461]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-13.35.22:863][461]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-13.35.27:429][461]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-13.35.27:429][461]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-13.35.27:429][461]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-13.35.27:429][461]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-13.35.27:429][461]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-13.35.27:493][461]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-13.35.27:494][461]MapCheck: New page: Iinterior - Jan 17, 2019, 5:35:27 PM
+[2019.01.17-13.35.27:494][461]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.35.27:494][461]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-13.35.27:544][461]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 50.077ms to complete.
+[2019.01.17-13.35.27:567][461]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-13.35.55:233][950]Job is a success!
+[2019.01.17-13.35.55:865][951]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.01.17-13.35.55:866][951]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.01.17-13.35.55:866][951]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.01.17-13.35.55:866][951]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.01.17-13.35.55:891][951]LogStaticLightingSystem: Illumination: 33.0 sec (567 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-13.35.55:891][951]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.01.17-13.35.55:892][951]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-13.35.56:450][951]Lightmass on EVGENIYPC: 27.6 sec total, 122 ms importing, 26 ms setup, 3.29 sec photons, 24.1 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 1:36 min total, 46.0 sec processing.
+[2019.01.17-13.35.56:451][951]DumpUnbuiltLightIteractions
+[2019.01.17-13.35.56:451][951]Lights with unbuilt interactions: 0
+[2019.01.17-13.35.56:451][951]
+[2019.01.17-13.35.56:451][951]Primitives with unbuilt interactions: 0
+[2019.01.17-13.35.56:457][952]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-13.35.56:458][952]MapCheck: New page: Iinterior - Jan 17, 2019, 5:35:56 PM
+[2019.01.17-13.35.56:478][952]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.35.56:528][952]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 70.124ms to complete.
+[2019.01.17-13.36.31:917][147]LogSavePackage: Save=35.52ms
+[2019.01.17-13.36.31:917][147]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior1D075D4644EC4559082508A3CE77BC5C.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.36.31:919][147]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.36.31:944][147]LogFileHelpers: Saving map 'Iinterior' took 0.124
+[2019.01.17-13.36.31:945][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-13.36.32:029][147]LogSavePackage: Save=81.46ms
+[2019.01.17-13.36.32:029][147]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltData8305C1A04C3FCFA139438393FE5B94DB.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-13.36.32:031][147]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-13.36.32:377][187]MapCheck: New page: Map Check
+[2019.01.17-13.36.32:390][187]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-13.36.32:390][187]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-13.36.32:461][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-13.36.32:466][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_5, compiling. 
+[2019.01.17-13.36.32:472][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-13.36.32:478][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-13.36.32:484][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-13.36.33:012][187]TextureStreamingBuild: Display: Compiling optional shaders took 0.556 seconds.
+[2019.01.17-13.36.33:018][187]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2019.01.17-13.36.33:027][187]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2019.01.17-13.36.33:034][187]LightingResults: New page: Lighting Build - Jan 17, 2019, 5:36:33 PM
+[2019.01.17-13.36.33:040][187]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-13.36.33:043][187]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-13.36.33:044][187]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-13.36.33:044][187]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-13.36.33:044][187]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-13.36.37:623][187]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-13.36.37:623][187]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-13.36.37:623][187]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-13.36.37:623][187]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-13.36.37:623][187]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-13.36.37:686][187]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-13.36.37:686][187]MapCheck: New page: Iinterior - Jan 17, 2019, 5:36:37 PM
+[2019.01.17-13.36.37:686][187]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.36.37:686][187]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-13.36.37:740][187]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 54.047ms to complete.
+[2019.01.17-13.36.37:763][187]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-13.36.51:805][383]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-13.36.53:893][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio)
+[2019.01.17-13.36.54:492][602]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.01.17-13.37.05:854][613]Job is a success!
+[2019.01.17-13.37.06:498][614]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.17-13.37.06:498][614]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.17-13.37.06:498][614]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.01.17-13.37.06:498][614]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.01.17-13.37.06:525][614]LogStaticLightingSystem: Illumination: 33.4 sec (572 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-13.37.06:525][614]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.01.17-13.37.06:525][614]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-13.37.06:643][614]Lightmass on EVGENIYPC: 28.1 sec total, 126 ms importing, 24 ms setup, 3.30 sec photons, 24.6 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 1:38 min total, 46.9 sec processing.
+[2019.01.17-13.37.06:643][614]DumpUnbuiltLightIteractions
+[2019.01.17-13.37.06:643][614]Lights with unbuilt interactions: 0
+[2019.01.17-13.37.06:643][614]
+[2019.01.17-13.37.06:643][614]Primitives with unbuilt interactions: 0
+[2019.01.17-13.37.06:650][615]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-13.37.06:650][615]MapCheck: New page: Iinterior - Jan 17, 2019, 5:37:06 PM
+[2019.01.17-13.37.06:650][615]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.37.06:703][615]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 53.186ms to complete.
+[2019.01.17-13.37.10:955][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_n_type1)
+[2019.01.17-13.37.11:975][187]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2019.01.17-13.37.11:977][187]LogMaterial: Missing cached shader map for material M_metal, compiling. 
+[2019.01.17-13.37.12:166][187]LogMaterial: Missing cached shader map for material M_metal, compiling. 
+[2019.01.17-13.37.12:193][187]LogMaterial: Missing cached shader map for material M_metal, compiling. 
+[2019.01.17-13.37.12:237][187]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.17-13.37.12:259][187]LogSlate: Took 0.015013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.17-13.37.15:234][428]MaterialEditorStats: Base pass shader: 85 instructions
+[2019.01.17-13.37.15:234][428]MaterialEditorStats: Vertex shader: 29 instructions
+[2019.01.17-13.37.15:234][428]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.17-13.37.20:946][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio)
+[2019.01.17-13.37.25:488][350]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.01.17-13.37.26:019][402]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight4)
+[2019.01.17-13.37.26:339][436]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_interio_stydio)
+[2019.01.17-13.37.26:709][477]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight)
+[2019.01.17-13.37.27:362][552]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-13.37.28:124][639]Cmd: TRANSACTION UNDO
+[2019.01.17-13.37.28:124][639]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.17-13.37.28:414][669]Cmd: TRANSACTION UNDO
+[2019.01.17-13.37.28:414][669]LogEditorTransaction: Undo Move Actors
+[2019.01.17-13.37.29:665][815]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-13.37.30:144][868]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight4)
+[2019.01.17-13.37.30:482][904]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight2)
+[2019.01.17-13.37.31:079][971]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight)
+[2019.01.17-13.37.32:771][167]Cmd: DELETE
+[2019.01.17-13.37.32:771][167]Cmd: ACTOR DELETE
+[2019.01.17-13.37.32:771][167]LogEditorActor: Deleted Actor: SpotLight
+[2019.01.17-13.37.32:772][167]LogEditorActor: Deleted Actor: SpotLight
+[2019.01.17-13.37.32:772][167]LogEditorActor: Deleted Actor: SpotLight
+[2019.01.17-13.37.32:773][167]LogEditorActor: Deleted Actor: SpotLight
+[2019.01.17-13.37.32:781][167]LogEditorActor: Deleted 4 Actors (0.010 secs)
+[2019.01.17-13.37.36:048][540]LogSavePackage: Save=27.13ms
+[2019.01.17-13.37.36:048][540]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorA640955E43416D92136800BF57202C11.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.37.36:050][540]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.37.36:075][540]LogFileHelpers: Saving map 'Iinterior' took 0.115
+[2019.01.17-13.37.36:077][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-13.37.36:161][540]LogSavePackage: Save=82.30ms
+[2019.01.17-13.37.36:161][540]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltData125306BC46B82AEF6296419DE0690B44.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-13.37.36:163][540]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-13.37.39:062][869]LogActorFactory: Actor Factory created Cube
+[2019.01.17-13.37.39:325][895]LogActorFactory: Actor Factory created Cube
+[2019.01.17-13.37.52:683][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio)
+[2019.01.17-13.37.58:488][963]LogSavePackage: Save=14.35ms
+[2019.01.17-13.37.58:488][963]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_interio_stydioF048155B4BCBB41234125585AC893B26.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset'
+[2019.01.17-13.37.58:490][963]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset
+[2019.01.17-13.38.00:679][190]LogSavePackage: Save=29.20ms
+[2019.01.17-13.38.00:679][190]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior8DB0E925441134CF334F2CBB670C09AF.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.38.00:681][190]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.38.00:704][190]LogFileHelpers: Saving map 'Iinterior' took 0.117
+[2019.01.17-13.38.02:170][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio)
+[2019.01.17-13.38.03:810][497]MapCheck: New page: Map Check
+[2019.01.17-13.38.03:823][497]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-13.38.03:823][497]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-13.38.03:907][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-13.38.03:913][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_6, compiling. 
+[2019.01.17-13.38.03:919][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-13.38.03:925][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-13.38.03:932][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-13.38.03:937][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.17-13.38.04:434][497]TextureStreamingBuild: Display: Compiling optional shaders took 0.531 seconds.
+[2019.01.17-13.38.04:436][497]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2019.01.17-13.38.04:440][497]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-13.38.04:448][497]LightingResults: New page: Lighting Build - Jan 17, 2019, 5:38:04 PM
+[2019.01.17-13.38.04:454][497]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-13.38.04:456][497]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-13.38.04:456][497]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-13.38.04:456][497]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-13.38.04:456][497]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-13.38.08:974][497]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-13.38.08:974][497]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-13.38.08:974][497]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-13.38.08:974][497]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-13.38.08:974][497]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-13.38.09:073][497]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-13.38.09:073][497]MapCheck: New page: Iinterior - Jan 17, 2019, 5:38:09 PM
+[2019.01.17-13.38.09:074][497]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.38.09:074][497]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-13.38.09:124][497]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 50.812ms to complete.
+[2019.01.17-13.38.09:147][497]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-13.38.47:514][966]Job is a success!
+[2019.01.17-13.38.48:309][968]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.01.17-13.38.48:309][968]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.01.17-13.38.48:309][968]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2019.01.17-13.38.48:309][968]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2019.01.17-13.38.48:309][968]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.01.17-13.38.48:309][968]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.01.17-13.38.48:332][968]LogStaticLightingSystem: Illumination: 43.8 sec (718 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-13.38.48:332][968]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.01.17-13.38.48:332][968]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-13.38.49:003][968]Lightmass on EVGENIYPC: 38.6 sec total, 122 ms importing, 24 ms setup, 7.82 sec photons, 30.5 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 2:02 min total, 52.3 sec processing.
+[2019.01.17-13.38.49:004][968]DumpUnbuiltLightIteractions
+[2019.01.17-13.38.49:004][968]Lights with unbuilt interactions: 0
+[2019.01.17-13.38.49:004][968]
+[2019.01.17-13.38.49:004][968]Primitives with unbuilt interactions: 0
+[2019.01.17-13.38.49:010][969]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-13.38.49:010][969]MapCheck: New page: Iinterior - Jan 17, 2019, 5:38:49 PM
+[2019.01.17-13.38.49:031][969]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.38.49:080][969]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 70.973ms to complete.
+[2019.01.17-13.39.24:822][212]LogSavePackage: Save=28.67ms
+[2019.01.17-13.39.24:822][212]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior2EEDFC2A4D3D4C0F2ED3E0B0C110923F.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.39.24:824][212]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.39.24:848][212]LogFileHelpers: Saving map 'Iinterior' took 0.121
+[2019.01.17-13.39.24:850][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-13.39.24:967][212]LogSavePackage: Save=108.67ms
+[2019.01.17-13.39.24:967][212]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltData85B63EEA4F9334D69DA0BA976DF55F2F.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-13.39.24:969][212]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-13.39.41:612][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio)
+[2019.01.17-13.39.44:456][714]LogEditorFactories: Performing atomic reimport of [D:/PROJECT/MarketPlace/Sofas/Interio/SM_interio_stydio.FBX]
+[2019.01.17-13.39.44:481][714]LogFbx: Loading FBX Scene from D:/PROJECT/MarketPlace/Sofas/Interio/SM_interio_stydio.FBX
+[2019.01.17-13.39.44:486][714]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.17-13.39.44:500][714]LogFbx: Warning: Triangulating static mesh SM_interio_stydio
+[2019.01.17-13.39.44:555][714]LogStaticMesh: Building static mesh SM_interio_stydio...
+[2019.01.17-13.39.44:562][714]LogStaticMesh: Built static mesh [0.01s] /Game/Sofas_pack/Static_meshes/interior/SM_interio_stydio.SM_interio_stydio
+[2019.01.17-13.39.44:570][714]LogEditorFactories: -- imported successfully
+[2019.01.17-13.39.44:585][714]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.17-13.39.47:105][991]LogSavePackage: Save=28.48ms
+[2019.01.17-13.39.47:105][991]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior2031A91445D19ED25FA4E7B15CAA5FC2.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.39.47:109][991]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.39.47:134][991]LogFileHelpers: Saving map 'Iinterior' took 0.117
+[2019.01.17-13.39.47:163][991]LogSavePackage: Save=13.62ms
+[2019.01.17-13.39.47:163][991]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_interio_stydio2924BF3045704294ABF0D3BF263FAC90.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset'
+[2019.01.17-13.39.47:165][991]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset
+[2019.01.17-13.40.01:522][435]LogStaticMesh: Building static mesh SM_interio_stydio...
+[2019.01.17-13.40.01:534][435]LogStaticMesh: Built static mesh [0.01s] /Game/Sofas_pack/Static_meshes/interior/SM_interio_stydio.SM_interio_stydio
+[2019.01.17-13.40.04:676][783]LogSavePackage: Save=13.88ms
+[2019.01.17-13.40.04:676][783]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_interio_stydio4168B0094B963DE0159C90A469123DF1.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset'
+[2019.01.17-13.40.04:678][783]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset
+[2019.01.17-13.40.06:291][959]MapCheck: New page: Map Check
+[2019.01.17-13.40.06:304][959]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-13.40.06:304][959]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-13.40.06:400][959]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-13.40.06:406][959]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_7, compiling. 
+[2019.01.17-13.40.06:412][959]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-13.40.06:418][959]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-13.40.06:425][959]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-13.40.06:431][959]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.17-13.40.06:948][959]TextureStreamingBuild: Display: Compiling optional shaders took 0.550 seconds.
+[2019.01.17-13.40.06:951][959]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2019.01.17-13.40.06:955][959]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-13.40.06:963][959]LightingResults: New page: Lighting Build - Jan 17, 2019, 5:40:06 PM
+[2019.01.17-13.40.06:969][959]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-13.40.06:970][959]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-13.40.06:970][959]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-13.40.06:971][959]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-13.40.06:971][959]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-13.40.11:509][959]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-13.40.11:509][959]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-13.40.11:509][959]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-13.40.11:509][959]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-13.40.11:509][959]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-13.40.11:620][959]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-13.40.11:620][959]MapCheck: New page: Iinterior - Jan 17, 2019, 5:40:11 PM
+[2019.01.17-13.40.11:620][959]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.40.11:620][959]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-13.40.11:670][959]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 50.022ms to complete.
+[2019.01.17-13.40.11:693][959]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-13.40.38:519][367]LightingResults: Warning: SM_interio_stydio Object has overlapping UVs.
+[2019.01.17-13.40.38:519][367]LightingResults: SM_interio_stydio Lightmap UV are overlapping by 12.6%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.17-13.40.38:774][391]Job is a success!
+[2019.01.17-13.40.39:547][392]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.17-13.40.39:547][392]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.17-13.40.39:547][392]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2019.01.17-13.40.39:547][392]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2019.01.17-13.40.39:547][392]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.01.17-13.40.39:547][392]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.01.17-13.40.39:571][392]Lightmass on EVGENIYPC: 27.2 sec total, 125 ms importing, 30 ms setup, 2.59 sec photons, 24.4 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 1:37 min total, 42.2 sec processing.
+[2019.01.17-13.40.39:575][392]LogStaticLightingSystem: Illumination: 32.5 sec (698 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-13.40.39:575][392]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.01.17-13.40.39:575][392]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-13.40.40:530][392]DumpUnbuiltLightIteractions
+[2019.01.17-13.40.40:530][392]Lights with unbuilt interactions: 0
+[2019.01.17-13.40.40:530][392]
+[2019.01.17-13.40.40:530][392]Primitives with unbuilt interactions: 0
+[2019.01.17-13.40.40:537][393]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-13.40.40:538][393]MapCheck: New page: Iinterior - Jan 17, 2019, 5:40:40 PM
+[2019.01.17-13.40.40:558][393]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.40.40:609][393]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 71.639ms to complete.
+[2019.01.17-13.40.48:960][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio)
+[2019.01.17-13.40.50:596][564]LogSavePackage: Save=27.79ms
+[2019.01.17-13.40.50:596][564]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorFEBC3F7C4EB2E048084E61AD5AC57712.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.40.50:598][564]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.40.50:624][564]LogFileHelpers: Saving map 'Iinterior' took 0.115
+[2019.01.17-13.40.50:628][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-13.40.50:741][564]LogSavePackage: Save=110.08ms
+[2019.01.17-13.40.50:741][564]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltDataB0D6924844A95C171AB2D784860987C6.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-13.40.50:743][564]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-13.40.51:075][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio)
+[2019.01.17-13.40.53:172][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio)
+[2019.01.17-13.40.53:296][847]Cmd: DELETE
+[2019.01.17-13.40.53:296][847]Cmd: ACTOR DELETE
+[2019.01.17-13.40.53:296][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.17-13.40.53:304][847]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2019.01.17-13.40.59:411][ 34]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../PROJECT/MarketPlace/Sofas/Interio/SM_interio_stydio.FBX)
+[2019.01.17-13.40.59:418][ 34]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2019.01.17-13.40.59:418][ 34]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2019.01.17-13.40.59:418][ 34]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2019.01.17-13.40.59:418][ 34]LogFbx: ItemName: Model, ItemCount : 1
+[2019.01.17-13.40.59:418][ 34]LogFbx: ItemName: Geometry, ItemCount : 1
+[2019.01.17-13.40.59:423][ 34]LogFbx: Loading FBX Scene from ../../../../../PROJECT/MarketPlace/Sofas/Interio/SM_interio_stydio.FBX
+[2019.01.17-13.40.59:429][ 34]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.17-13.41.01:670][ 34]LogFbx: Loading FBX Scene from ../../../../../PROJECT/MarketPlace/Sofas/Interio/SM_interio_stydio.FBX
+[2019.01.17-13.41.01:675][ 34]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.17-13.41.01:675][ 34]LogFbx: Warning: Triangulating static mesh SM_interio_stydio
+[2019.01.17-13.41.01:703][ 34]LogStaticMesh: Building static mesh SM_interio_stydio...
+[2019.01.17-13.41.01:711][ 34]LogStaticMesh: Built static mesh [0.01s] /Game/Sofas_pack/Static_meshes/interior/SM_interio_stydio.SM_interio_stydio
+[2019.01.17-13.41.01:718][ 34]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.17-13.41.02:478][119]LogActorFactory: Actor Factory created SM_interio_stydio
+[2019.01.17-13.41.02:607][134]LogActorFactory: Actor Factory created SM_interio_stydio
+[2019.01.17-13.41.10:361][984]LogSavePackage: Save=13.40ms
+[2019.01.17-13.41.10:361][984]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_interio_stydio54678B244D11C670DF5DF8AF0DEF07FB.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset'
+[2019.01.17-13.41.10:363][984]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset
+[2019.01.17-13.41.12:178][185]MapCheck: New page: Map Check
+[2019.01.17-13.41.12:191][185]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-13.41.12:192][185]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-13.41.12:305][185]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-13.41.12:310][185]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_8, compiling. 
+[2019.01.17-13.41.12:316][185]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-13.41.12:323][185]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-13.41.12:328][185]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.17-13.41.12:828][185]TextureStreamingBuild: Display: Compiling optional shaders took 0.527 seconds.
+[2019.01.17-13.41.12:831][185]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2019.01.17-13.41.12:840][185]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2019.01.17-13.41.12:849][185]LightingResults: New page: Lighting Build - Jan 17, 2019, 5:41:12 PM
+[2019.01.17-13.41.12:856][185]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-13.41.12:858][185]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-13.41.12:858][185]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-13.41.12:859][185]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-13.41.12:859][185]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-13.41.17:431][185]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-13.41.17:431][185]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-13.41.17:431][185]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-13.41.17:431][185]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-13.41.17:431][185]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-13.41.17:501][185]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-13.41.17:501][185]MapCheck: New page: Iinterior - Jan 17, 2019, 5:41:17 PM
+[2019.01.17-13.41.17:501][185]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.41.17:502][185]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-13.41.17:557][185]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 56.603ms to complete.
+[2019.01.17-13.41.17:580][185]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-13.41.21:220][472]LightingResults: Warning: SM_interio_stydio Object has overlapping UVs.
+[2019.01.17-13.41.21:220][472]LightingResults: SM_interio_stydio Lightmap UV are overlapping by 12.0%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.17-13.41.26:294][887]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.17-13.41.26:787][931]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.17-13.41.28:955][126]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.17-13.41.33:410][513]Job is a success!
+[2019.01.17-13.41.33:960][515]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.01.17-13.41.33:960][515]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.01.17-13.41.33:960][515]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.01.17-13.41.33:961][515]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.01.17-13.41.33:984][515]LogStaticLightingSystem: Illumination: 21.1 sec (494 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-13.41.33:984][515]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.01.17-13.41.33:984][515]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-13.41.34:445][515]Lightmass on EVGENIYPC: 15.8 sec total, 123 ms importing, 26 ms setup, 1.88 sec photons, 13.7 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 54.9 sec total, 14.5 sec processing.
+[2019.01.17-13.41.34:446][515]DumpUnbuiltLightIteractions
+[2019.01.17-13.41.34:446][515]Lights with unbuilt interactions: 0
+[2019.01.17-13.41.34:446][515]
+[2019.01.17-13.41.34:446][515]Primitives with unbuilt interactions: 0
+[2019.01.17-13.41.34:455][516]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-13.41.34:455][516]MapCheck: New page: Iinterior - Jan 17, 2019, 5:41:34 PM
+[2019.01.17-13.41.34:480][516]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.41.34:536][516]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 80.814ms to complete.
+[2019.01.17-13.41.44:090][525]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.17-13.41.45:869][729]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.17-13.41.46:086][755]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.17-13.41.57:668][ 84]LogSavePackage: Save=106.15ms
+[2019.01.17-13.41.57:668][ 84]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior883CA2734C7FBE8B1766F6A4574AD502.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.41.57:669][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.41.57:695][ 84]LogFileHelpers: Saving map 'Iinterior' took 0.199
+[2019.01.17-13.41.57:697][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-13.41.57:787][ 84]LogSavePackage: Save=88.35ms
+[2019.01.17-13.41.57:788][ 84]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltData85BA6E044BC26AC7196AECA7FF13EA2E.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-13.41.57:790][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-13.44.01:093][618]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../PROJECT/MarketPlace/Sofas/Interio/sss.FBX)
+[2019.01.17-13.44.01:097][618]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2019.01.17-13.44.01:098][618]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2019.01.17-13.44.01:098][618]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2019.01.17-13.44.01:098][618]LogFbx: ItemName: Model, ItemCount : 1
+[2019.01.17-13.44.01:098][618]LogFbx: ItemName: Geometry, ItemCount : 1
+[2019.01.17-13.44.01:102][618]LogFbx: Loading FBX Scene from ../../../../../PROJECT/MarketPlace/Sofas/Interio/sss.FBX
+[2019.01.17-13.44.01:107][618]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.17-13.44.02:020][618]LogFbx: Loading FBX Scene from ../../../../../PROJECT/MarketPlace/Sofas/Interio/sss.FBX
+[2019.01.17-13.44.02:025][618]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.17-13.44.02:025][618]LogFbx: Warning: Triangulating static mesh sss
+[2019.01.17-13.44.02:040][618]LogStaticMesh: Building static mesh sss...
+[2019.01.17-13.44.02:044][618]LogStaticMesh: Built static mesh [0.01s] /Game/Sofas_pack/Static_meshes/interior/sss.sss
+[2019.01.17-13.44.02:051][618]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.17-13.44.03:025][729]LogActorFactory: Actor Factory created sss
+[2019.01.17-13.44.03:170][742]LogActorFactory: Actor Factory created sss
+[2019.01.17-13.44.21:000][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Static_meshes/interior/sss" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/sss.uasset" SILENT=true
+[2019.01.17-13.44.21:017][415]LogSavePackage: Save=13.80ms
+[2019.01.17-13.44.21:017][415]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/sssD6FF83FD40683E0A9A70F78AE03AD869.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/sss.uasset'
+[2019.01.17-13.44.21:018][415]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/sss.uasset
+[2019.01.17-13.44.22:589][563]LogSavePackage: Save=103.61ms
+[2019.01.17-13.44.22:589][563]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorCA6209184685DC3FB26980823911B3B6.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.44.22:590][563]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.44.22:616][563]LogFileHelpers: Saving map 'Iinterior' took 0.197
+[2019.01.17-13.47.14:275][172]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../PROJECT/MarketPlace/Sofas/Interio/SM_interio_stydio.FBX)
+[2019.01.17-13.47.14:279][172]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2019.01.17-13.47.14:279][172]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2019.01.17-13.47.14:279][172]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2019.01.17-13.47.14:279][172]LogFbx: ItemName: Model, ItemCount : 1
+[2019.01.17-13.47.14:279][172]LogFbx: ItemName: Geometry, ItemCount : 1
+[2019.01.17-13.47.14:284][172]LogFbx: Loading FBX Scene from ../../../../../PROJECT/MarketPlace/Sofas/Interio/SM_interio_stydio.FBX
+[2019.01.17-13.47.14:289][172]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.17-13.47.15:181][172]LogFbx: Loading FBX Scene from ../../../../../PROJECT/MarketPlace/Sofas/Interio/SM_interio_stydio.FBX
+[2019.01.17-13.47.15:187][172]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.17-13.47.15:187][172]LogFbx: Warning: Triangulating static mesh SM_interio_stydio
+[2019.01.17-13.47.15:203][172]LogStaticMesh: Building static mesh SM_interio_stydio...
+[2019.01.17-13.47.15:207][172]LogStaticMesh: Built static mesh [0.00s] /Game/Sofas_pack/Static_meshes/interior/SM_interio_stydio.SM_interio_stydio
+[2019.01.17-13.47.15:215][172]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.17-13.47.17:016][379]LogActorFactory: Actor Factory created SM_interio_stydio
+[2019.01.17-13.47.17:143][393]LogActorFactory: Actor Factory created SM_interio_stydio
+[2019.01.17-13.47.27:308][496]LogSavePackage: Save=13.16ms
+[2019.01.17-13.47.27:308][496]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_interio_stydio7CE833B24EF044D659604097C67264E6.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset'
+[2019.01.17-13.47.27:312][496]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset
+[2019.01.17-13.47.47:440][701]LogSavePackage: Save=13.24ms
+[2019.01.17-13.47.47:440][701]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/SM_interio_stydio792F3772402AC1F8742F2BADAD0C9980.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset'
+[2019.01.17-13.47.47:442][701]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Static_meshes/interior/SM_interio_stydio.uasset
+[2019.01.17-13.47.48:879][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_n_type1)
+[2019.01.17-13.47.54:315][330]LogSavePackage: Save=102.30ms
+[2019.01.17-13.47.54:315][330]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorAAED9D114A3664F8AE39858D08E6E980.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.47.54:317][330]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.47.54:342][330]LogFileHelpers: Saving map 'Iinterior' took 0.864
+[2019.01.17-13.47.54:730][376]MapCheck: New page: Map Check
+[2019.01.17-13.47.54:743][376]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-13.47.54:743][376]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-13.47.54:857][376]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-13.47.54:862][376]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_9, compiling. 
+[2019.01.17-13.47.54:868][376]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-13.47.54:874][376]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-13.47.54:879][376]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.17-13.47.54:885][376]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-13.47.55:447][376]TextureStreamingBuild: Display: Compiling optional shaders took 0.594 seconds.
+[2019.01.17-13.47.55:451][376]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2019.01.17-13.47.55:456][376]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-13.47.55:465][376]LightingResults: New page: Lighting Build - Jan 17, 2019, 5:47:55 PM
+[2019.01.17-13.47.55:474][376]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-13.47.55:476][376]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-13.47.55:476][376]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-13.47.55:477][376]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-13.47.55:477][376]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-13.47.59:993][376]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-13.47.59:993][376]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-13.47.59:993][376]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-13.47.59:993][376]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-13.47.59:993][376]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-13.48.00:122][376]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-13.48.00:122][376]MapCheck: New page: Iinterior - Jan 17, 2019, 5:48:00 PM
+[2019.01.17-13.48.00:124][376]MapCheck: Warning: SM_interio_stydio_5 Static mesh actor has NULL StaticMesh property 
+[2019.01.17-13.48.00:124][376]MapCheck: Warning: SM_interio_stydio_5 Static mesh actor has NULL StaticMesh property 
+[2019.01.17-13.48.00:124][376]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.48.00:124][376]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-13.48.00:201][376]MapCheck: Map check complete: 2 Error(s), 2 Warning(s), took 79.565ms to complete.
+[2019.01.17-13.48.00:225][376]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-13.48.30:798][469]Job is a success!
+[2019.01.17-13.48.32:071][470]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.17-13.48.32:071][470]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.17-13.48.32:071][470]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2019.01.17-13.48.32:072][470]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2019.01.17-13.48.32:072][470]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.01.17-13.48.32:072][470]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.01.17-13.48.32:102][470]Lightmass on EVGENIYPC: 30.8 sec total, 179 ms importing, 31 ms setup, 2.62 sec photons, 27.9 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 1:51 min total, 45.7 sec processing.
+[2019.01.17-13.48.32:108][470]LogStaticLightingSystem: Illumination: 36.2 sec (846 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-13.48.32:108][470]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.01.17-13.48.32:108][470]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-13.48.33:014][470]DumpUnbuiltLightIteractions
+[2019.01.17-13.48.33:014][470]Lights with unbuilt interactions: 0
+[2019.01.17-13.48.33:014][470]
+[2019.01.17-13.48.33:014][470]Primitives with unbuilt interactions: 0
+[2019.01.17-13.48.33:023][471]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-13.48.33:024][471]MapCheck: New page: Iinterior - Jan 17, 2019, 5:48:33 PM
+[2019.01.17-13.48.33:149][471]MapCheck: Warning: SM_interio_stydio_5 Static mesh actor has NULL StaticMesh property 
+[2019.01.17-13.48.33:149][471]MapCheck: Warning: SM_interio_stydio_5 Static mesh actor has NULL StaticMesh property 
+[2019.01.17-13.48.33:149][471]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.48.33:209][471]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 186.24ms to complete.
+[2019.01.17-13.48.42:844][ 98]Cmd: TRANSACTION UNDO
+[2019.01.17-13.48.42:844][ 98]LogEditorTransaction: Undo Move Actors
+[2019.01.17-13.48.43:600][183]Cmd: DELETE
+[2019.01.17-13.48.43:600][183]Cmd: ACTOR DELETE
+[2019.01.17-13.48.43:601][183]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.17-13.48.43:609][183]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2019.01.17-13.48.44:953][319]LogSavePackage: Save=109.14ms
+[2019.01.17-13.48.44:953][319]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior7FA4CF7E4FE1D4F15234CA9754CF3D1D.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-13.48.44:956][319]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-13.48.44:983][319]LogFileHelpers: Saving map 'Iinterior' took 0.205
+[2019.01.17-13.48.44:986][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-13.48.45:168][319]LogSavePackage: Save=150.61ms
+[2019.01.17-13.48.45:168][319]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltData48521460400B7DAA379D84813379D236.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-13.48.45:170][319]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-13.48.51:739][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.17-13.57.38:501][737]Cmd: DELETE
+[2019.01.17-13.57.38:501][737]Cmd: ACTOR DELETE
+[2019.01.17-13.57.38:502][737]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.01.17-13.57.38:511][737]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2019.01.17-13.58.19:466][394]Cmd: TRANSACTION UNDO
+[2019.01.17-13.58.19:466][394]LogEditorTransaction: Undo Move Actors
+[2019.01.17-13.58.56:564][623]MapCheck: New page: Map Check
+[2019.01.17-13.58.56:580][623]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-13.58.56:580][623]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-13.58.56:715][623]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-13.58.56:721][623]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_10, compiling. 
+[2019.01.17-13.58.56:727][623]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-13.58.56:733][623]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-13.58.56:739][623]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.17-13.58.56:745][623]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-13.58.57:251][623]TextureStreamingBuild: Display: Compiling optional shaders took 0.539 seconds.
+[2019.01.17-13.58.57:254][623]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2019.01.17-13.58.57:258][623]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-13.58.57:267][623]LightingResults: New page: Lighting Build - Jan 17, 2019, 5:58:57 PM
+[2019.01.17-13.58.57:272][623]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-13.58.57:274][623]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-13.58.57:274][623]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-13.58.57:275][623]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-13.58.57:275][623]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-13.59.01:825][623]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-13.59.01:825][623]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-13.59.01:825][623]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-13.59.01:825][623]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-13.59.01:825][623]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-13.59.01:922][623]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-13.59.01:922][623]MapCheck: New page: Iinterior - Jan 17, 2019, 5:59:01 PM
+[2019.01.17-13.59.01:922][623]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.59.01:922][623]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-13.59.01:977][623]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 54.743ms to complete.
+[2019.01.17-13.59.02:000][623]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-13.59.38:259][891]Job is a success!
+[2019.01.17-13.59.39:147][893]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.01.17-13.59.39:147][893]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.01.17-13.59.39:147][893]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2019.01.17-13.59.39:147][893]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2019.01.17-13.59.39:147][893]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.01.17-13.59.39:147][893]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.01.17-13.59.39:171][893]LogStaticLightingSystem: Illumination: 41.8 sec (808 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-13.59.39:171][893]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.01.17-13.59.39:171][893]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-13.59.39:848][893]Lightmass on EVGENIYPC: 36.5 sec total, 143 ms importing, 25 ms setup, 3.72 sec photons, 32.6 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 2:10 min total, 55.0 sec processing.
+[2019.01.17-13.59.39:849][893]DumpUnbuiltLightIteractions
+[2019.01.17-13.59.39:849][893]Lights with unbuilt interactions: 0
+[2019.01.17-13.59.39:849][893]
+[2019.01.17-13.59.39:849][893]Primitives with unbuilt interactions: 0
+[2019.01.17-13.59.39:855][894]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-13.59.39:855][894]MapCheck: New page: Iinterior - Jan 17, 2019, 5:59:39 PM
+[2019.01.17-13.59.39:885][894]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-13.59.39:940][894]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 85.297ms to complete.
+[2019.01.17-14.00.05:126][890]LogSavePackage: Save=109.15ms
+[2019.01.17-14.00.05:126][890]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_Auto1772B85C34B18FD904BBF99B80D8247A4.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/Sofas_pack/Maps/Iinterior_Auto1.umap'
+[2019.01.17-14.00.05:126][890]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/Sofas_pack/Maps/Iinterior_Auto1.umap
+[2019.01.17-14.00.05:128][890]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Sofas_pack/Maps/Iinterior' took 0.128
+[2019.01.17-14.00.05:128][890]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.128
+[2019.01.17-14.00.05:145][890]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sofas_pack/Maps/Iinterior_BuiltData] ([1] browsable assets)...
+[2019.01.17-14.00.05:146][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sofas_pack/Maps/Iinterior_BuiltData]
+[2019.01.17-14.00.05:199][890]LogSavePackage: Save=10.84ms
+[2019.01.17-14.00.05:199][890]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltData_Auto1E7106FAA45A7634F7B7A94A089A1C66B.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/Sofas_pack/Maps/Iinterior_BuiltData_Auto1.uasset'
+[2019.01.17-14.00.05:200][890]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Autosaves/Game/Sofas_pack/Maps/Iinterior_BuiltData_Auto1.uasset
+[2019.01.17-14.00.05:200][890]LogFileHelpers: Auto-saving content packages took 0.070
+[2019.01.17-14.03.19:448][192]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight2)
+[2019.01.17-14.03.20:026][257]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight)
+[2019.01.17-14.03.35:998][123]LogSavePackage: Save=113.18ms
+[2019.01.17-14.03.35:999][123]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorD854F50D4DB7A8030EF78BA8549B379B.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-14.03.36:003][123]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-14.03.36:029][123]LogFileHelpers: Saving map 'Iinterior' took 0.212
+[2019.01.17-14.03.36:032][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-14.03.36:147][123]LogSavePackage: Save=111.77ms
+[2019.01.17-14.03.36:147][123]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltDataC03C17C24212B80CB9F3AC9E90391704.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-14.03.36:149][123]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-14.03.37:234][234]MapCheck: New page: Map Check
+[2019.01.17-14.03.37:252][234]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-14.03.37:252][234]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-14.03.37:398][234]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-14.03.37:403][234]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_11, compiling. 
+[2019.01.17-14.03.37:409][234]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-14.03.37:416][234]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-14.03.37:421][234]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.17-14.03.37:427][234]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-14.03.37:956][234]TextureStreamingBuild: Display: Compiling optional shaders took 0.562 seconds.
+[2019.01.17-14.03.37:958][234]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2019.01.17-14.03.37:963][234]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-14.03.37:971][234]LightingResults: New page: Lighting Build - Jan 17, 2019, 6:03:37 PM
+[2019.01.17-14.03.37:976][234]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-14.03.37:978][234]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-14.03.37:978][234]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-14.03.37:979][234]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-14.03.37:979][234]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-14.03.42:556][234]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-14.03.42:556][234]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-14.03.42:556][234]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-14.03.42:557][234]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-14.03.42:557][234]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-14.03.42:652][234]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-14.03.42:652][234]MapCheck: New page: Iinterior - Jan 17, 2019, 6:03:42 PM
+[2019.01.17-14.03.42:652][234]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-14.03.42:653][234]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-14.03.42:707][234]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 55.029ms to complete.
+[2019.01.17-14.03.42:731][234]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-14.04.19:301][541]Job is a success!
+[2019.01.17-14.04.20:217][542]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.17-14.04.20:217][542]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.17-14.04.20:217][542]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2019.01.17-14.04.20:217][542]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2019.01.17-14.04.20:217][542]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.01.17-14.04.20:217][542]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.01.17-14.04.20:240][542]Lightmass on EVGENIYPC: 36.9 sec total, 130 ms importing, 26 ms setup, 4.32 sec photons, 32.4 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 2:09 min total, 52.6 sec processing.
+[2019.01.17-14.04.20:243][542]LogStaticLightingSystem: Illumination: 42.2 sec (833 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-14.04.20:243][542]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.01.17-14.04.20:243][542]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-14.04.20:586][542]DumpUnbuiltLightIteractions
+[2019.01.17-14.04.20:586][542]Lights with unbuilt interactions: 0
+[2019.01.17-14.04.20:586][542]
+[2019.01.17-14.04.20:586][542]Primitives with unbuilt interactions: 0
+[2019.01.17-14.04.20:593][543]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-14.04.20:593][543]MapCheck: New page: Iinterior - Jan 17, 2019, 6:04:20 PM
+[2019.01.17-14.04.20:621][543]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-14.04.20:675][543]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 82.473ms to complete.
+[2019.01.17-14.04.45:432][399]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.01.17-14.04.54:013][357]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.01.17-14.04.55:044][447]Cmd: DELETE
+[2019.01.17-14.04.55:044][447]Cmd: ACTOR DELETE
+[2019.01.17-14.04.55:044][447]LogEditorActor: Deleted Actor: SpotLight
+[2019.01.17-14.04.55:053][447]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2019.01.17-14.04.55:216][465]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.01.17-14.05.03:188][383]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-14.05.23:991][678]LogSavePackage: Save=113.15ms
+[2019.01.17-14.05.23:991][678]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorAD5D222943653D4D6B01EEAF79853B30.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-14.05.23:992][678]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-14.05.24:018][678]LogFileHelpers: Saving map 'Iinterior' took 0.212
+[2019.01.17-14.05.24:020][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-14.05.24:146][678]LogSavePackage: Save=116.58ms
+[2019.01.17-14.05.24:146][678]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltDataD9D4ECA242E38E0BB11CB193E4D73E39.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-14.05.24:149][678]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-14.05.24:951][752]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2019.01.17-14.05.26:229][877]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.01.17-14.05.27:535][  8]MapCheck: New page: Map Check
+[2019.01.17-14.05.27:547][  8]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-14.05.27:547][  8]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-14.05.27:706][  8]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-14.05.27:711][  8]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_12, compiling. 
+[2019.01.17-14.05.27:717][  8]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-14.05.27:724][  8]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-14.05.27:730][  8]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.17-14.05.27:736][  8]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-14.05.28:278][  8]TextureStreamingBuild: Display: Compiling optional shaders took 0.576 seconds.
+[2019.01.17-14.05.28:280][  8]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2019.01.17-14.05.28:284][  8]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-14.05.28:301][  8]LightingResults: New page: Lighting Build - Jan 17, 2019, 6:05:28 PM
+[2019.01.17-14.05.28:310][  8]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-14.05.28:313][  8]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-14.05.28:313][  8]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-14.05.28:313][  8]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-14.05.28:313][  8]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-14.05.32:837][  8]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-14.05.32:837][  8]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-14.05.32:837][  8]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-14.05.32:837][  8]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-14.05.32:837][  8]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-14.05.32:946][  8]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-14.05.32:946][  8]MapCheck: New page: Iinterior - Jan 17, 2019, 6:05:32 PM
+[2019.01.17-14.05.32:946][  8]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-14.05.32:946][  8]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-14.05.32:999][  8]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 52.964ms to complete.
+[2019.01.17-14.05.33:021][  8]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-14.06.08:505][115]Job is a success!
+[2019.01.17-14.06.10:175][116]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.01.17-14.06.10:175][116]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.01.17-14.06.10:175][116]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2019.01.17-14.06.10:175][116]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2019.01.17-14.06.10:175][116]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.01.17-14.06.10:175][116]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.01.17-14.06.10:259][116]Lightmass on EVGENIYPC: 36.3 sec total, 107 ms importing, 21 ms setup, 5.49 sec photons, 30.6 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 2:02 min total, 48.6 sec processing.
+[2019.01.17-14.06.10:262][116]LogStaticLightingSystem: Illumination: 41.6 sec (1.26 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-14.06.10:263][116]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.01.17-14.06.10:263][116]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-14.06.10:928][116]DumpUnbuiltLightIteractions
+[2019.01.17-14.06.10:928][116]Lights with unbuilt interactions: 0
+[2019.01.17-14.06.10:928][116]
+[2019.01.17-14.06.10:928][116]Primitives with unbuilt interactions: 0
+[2019.01.17-14.06.10:963][117]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-14.06.10:963][117]MapCheck: New page: Iinterior - Jan 17, 2019, 6:06:10 PM
+[2019.01.17-14.06.10:964][117]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-14.06.11:112][117]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 149.082ms to complete.
+[2019.01.17-14.07.21:345][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio2)
+[2019.01.17-14.07.27:033][369]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-14.07.31:465][831]LogSavePackage: Save=108.98ms
+[2019.01.17-14.07.31:466][831]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorAC947E1E478C2FB627FC9C8F18704320.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-14.07.31:467][831]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-14.07.31:491][831]LogFileHelpers: Saving map 'Iinterior' took 0.202
+[2019.01.17-14.07.31:494][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-14.07.31:606][831]LogSavePackage: Save=109.62ms
+[2019.01.17-14.07.31:606][831]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltData6107A1D645BACF1D6301A3A43796F577.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-14.07.31:608][831]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-14.11.09:684][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_n_type1)
+[2019.01.17-14.11.13:030][316]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-14.11.13:831][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio2)
+[2019.01.17-14.11.14:308][429]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.01.17-14.11.15:414][525]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2019.01.17-14.11.16:797][656]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.01.17-14.11.41:743][477]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight3)
+[2019.01.17-14.11.42:145][506]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight4)
+[2019.01.17-14.12.03:752][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio2)
+[2019.01.17-14.12.04:999][157]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-14.12.10:029][755]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2019.01.17-14.12.12:578][ 56]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-14.12.16:562][528]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.01.17-14.12.18:311][733]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-14.12.27:749][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio2)
+[2019.01.17-14.12.28:917][991]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-14.12.30:777][209]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.01.17-14.12.31:917][341]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-14.12.33:077][474]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2019.01.17-14.12.35:868][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio2)
+[2019.01.17-14.12.37:041][937]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2019.01.17-14.12.39:201][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio2)
+[2019.01.17-14.12.40:200][304]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2019.01.17-14.12.51:588][498]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.01.17-14.13.04:267][824]LogAIModule: Creating AISystem for world Studio
+[2019.01.17-14.13.05:702][824]LogSavePackage: Save=114.28ms
+[2019.01.17-14.13.05:702][824]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior2F8EFB164336EF2FC8D5D0A7B2814010.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-14.13.05:704][824]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-14.13.05:730][824]LogFileHelpers: Saving map 'Iinterior' took 0.214
+[2019.01.17-14.13.05:731][824]Cmd: MAP LOAD FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.17-14.13.05:731][824]LightingResults: New page: Lighting Build
+[2019.01.17-14.13.05:731][824]LoadErrors: New page: Loading map: Studio.umap
+[2019.01.17-14.13.05:732][824]MapCheck: New page: Map Check
+[2019.01.17-14.13.05:732][824]LightingResults: New page: Lighting Build
+[2019.01.17-14.13.05:930][824]LogSlate: Took 0.000533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.17-14.13.05:935][824]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.17-14.13.05:968][824]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.17-14.13.06:022][824]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.112ms to complete.
+[2019.01.17-14.13.06:022][824]LogFileHelpers: Loading map 'Studio' took 0.292
+[2019.01.17-14.13.07:496][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sphere)
+[2019.01.17-14.13.11:141][381]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.01.17-14.13.12:208][503]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.17-14.13.23:293][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Studio" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.17-14.13.23:365][653]LogSavePackage: Save=56.11ms
+[2019.01.17-14.13.23:365][653]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/StudioEA480F7A4F5A0336A2F1F78ABD5AAA9B.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap'
+[2019.01.17-14.13.23:367][653]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap
+[2019.01.17-14.13.23:392][653]LogFileHelpers: Saving map 'Studio' took 0.155
+[2019.01.17-14.13.23:949][712]LogAIModule: Creating AISystem for world Iinterior
+[2019.01.17-14.13.23:962][712]Cmd: MAP LOAD FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.17-14.13.23:962][712]LightingResults: New page: Lighting Build
+[2019.01.17-14.13.23:962][712]LoadErrors: New page: Loading map: Iinterior.umap
+[2019.01.17-14.13.23:963][712]MapCheck: New page: Map Check
+[2019.01.17-14.13.23:963][712]LightingResults: New page: Lighting Build
+[2019.01.17-14.13.24:136][712]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.17-14.13.24:168][712]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.17-14.13.24:225][712]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.37ms to complete.
+[2019.01.17-14.13.24:225][712]LogFileHelpers: Loading map 'Iinterior' took 0.264
+[2019.01.17-14.13.29:847][375]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.01.17-14.13.32:462][657]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2019.01.17-14.13.36:285][ 78]LogSavePackage: Save=41.70ms
+[2019.01.17-14.13.36:285][ 78]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior44F147674A1E5A3AE72E21A37DEC0F03.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-14.13.36:287][ 78]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-14.13.36:311][ 78]LogFileHelpers: Saving map 'Iinterior' took 0.134
+[2019.01.17-14.13.50:532][715]LogAIModule: Creating AISystem for world Studio
+[2019.01.17-14.13.50:544][715]Cmd: MAP LOAD FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Studio.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.17-14.13.50:545][715]LightingResults: New page: Lighting Build
+[2019.01.17-14.13.50:545][715]LoadErrors: New page: Loading map: Studio.umap
+[2019.01.17-14.13.50:546][715]MapCheck: New page: Map Check
+[2019.01.17-14.13.50:546][715]LightingResults: New page: Lighting Build
+[2019.01.17-14.13.50:767][715]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.17-14.13.50:801][715]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.17-14.13.50:857][715]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.388ms to complete.
+[2019.01.17-14.13.50:857][715]LogFileHelpers: Loading map 'Studio' took 0.313
+[2019.01.17-14.13.52:823][927]LogRenderer: Reallocating scene render targets to support 1672x1000 Format 10 NumSamples 1 (Frame:220).
+[2019.01.17-14.13.52:878][928]LogRenderer: Reallocating scene render targets to support 1920x1160 Format 10 NumSamples 1 (Frame:222).
+[2019.01.17-14.14.09:650][804]LogAIModule: Creating AISystem for world Iinterior
+[2019.01.17-14.14.09:665][804]Cmd: MAP LOAD FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.17-14.14.09:665][804]LightingResults: New page: Lighting Build
+[2019.01.17-14.14.09:665][804]LoadErrors: New page: Loading map: Iinterior.umap
+[2019.01.17-14.14.09:666][804]MapCheck: New page: Map Check
+[2019.01.17-14.14.09:666][804]LightingResults: New page: Lighting Build
+[2019.01.17-14.14.09:865][804]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.17-14.14.09:898][804]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.17-14.14.09:954][804]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.219ms to complete.
+[2019.01.17-14.14.09:954][804]LogFileHelpers: Loading map 'Iinterior' took 0.289
+[2019.01.17-14.14.13:202][181]MapCheck: New page: Map Check
+[2019.01.17-14.14.13:216][181]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-14.14.13:216][181]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-14.14.13:447][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-14.14.13:452][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2019.01.17-14.14.13:458][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-14.14.13:464][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-14.14.13:471][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.17-14.14.13:476][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-14.14.13:985][181]TextureStreamingBuild: Display: Compiling optional shaders took 0.542 seconds.
+[2019.01.17-14.14.13:987][181]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2019.01.17-14.14.13:991][181]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-14.14.14:000][181]LightingResults: New page: Lighting Build - Jan 17, 2019, 6:14:14 PM
+[2019.01.17-14.14.14:006][181]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-14.14.14:008][181]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-14.14.14:008][181]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-14.14.14:008][181]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-14.14.14:008][181]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-14.14.18:531][181]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-14.14.18:531][181]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-14.14.18:531][181]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-14.14.18:531][181]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-14.14.18:532][181]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-14.14.18:628][181]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-14.14.18:628][181]MapCheck: New page: Iinterior - Jan 17, 2019, 6:14:18 PM
+[2019.01.17-14.14.18:628][181]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-14.14.18:628][181]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-14.14.18:681][181]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 53.446ms to complete.
+[2019.01.17-14.14.18:704][181]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-14.14.54:533][490]Job is a success!
+[2019.01.17-14.14.55:822][491]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.17-14.14.55:822][491]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.17-14.14.55:822][491]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2019.01.17-14.14.55:822][491]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2019.01.17-14.14.55:822][491]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.01.17-14.14.55:822][491]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.01.17-14.14.55:849][491]Lightmass on EVGENIYPC: 36.4 sec total, 123 ms importing, 25 ms setup, 6.02 sec photons, 30.2 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 2:01 min total, 49.3 sec processing.
+[2019.01.17-14.14.55:851][491]LogStaticLightingSystem: Illumination: 41.5 sec (875 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-14.14.55:851][491]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.01.17-14.14.55:851][491]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-14.14.56:555][491]DumpUnbuiltLightIteractions
+[2019.01.17-14.14.56:555][491]Lights with unbuilt interactions: 0
+[2019.01.17-14.14.56:555][491]
+[2019.01.17-14.14.56:555][491]Primitives with unbuilt interactions: 0
+[2019.01.17-14.14.56:560][492]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-14.14.56:560][492]MapCheck: New page: Iinterior - Jan 17, 2019, 6:14:56 PM
+[2019.01.17-14.14.56:590][492]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-14.14.56:644][492]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 83.457ms to complete.
+[2019.01.17-14.14.57:106][546]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.17-14.15.02:785][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sofa_n_type1)
+[2019.01.17-14.15.03:239][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_interio_stydio2)
+[2019.01.17-14.15.11:733][ 17]LogEditorViewport: Clicking on Actor (LMB): BoxReflectionCapture (BoxReflectionCapture)
+[2019.01.17-14.15.13:764][197]Cmd: DELETE
+[2019.01.17-14.15.13:765][197]Cmd: ACTOR DELETE
+[2019.01.17-14.15.13:765][197]LogEditorActor: Deleted Actor: BoxReflectionCapture
+[2019.01.17-14.15.13:774][197]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2019.01.17-14.15.14:465][277]Cmd: TRANSACTION UNDO
+[2019.01.17-14.15.14:465][277]LogEditorTransaction: Undo Delete Actors
+[2019.01.17-14.15.15:755][403]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-14.15.18:857][722]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2019.01.17-14.15.20:922][943]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.01.17-14.15.26:380][591]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2019.01.17-14.15.31:617][198]Cmd: TRANSACTION UNDO
+[2019.01.17-14.15.31:617][198]LogEditorTransaction: Undo Edit Attenuation Radius
+[2019.01.17-14.15.47:202][909]Cmd: DELETE
+[2019.01.17-14.15.47:202][909]Cmd: ACTOR DELETE
+[2019.01.17-14.15.47:202][909]LogEditorActor: Deleted Actor: PointLight
+[2019.01.17-14.15.47:211][909]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2019.01.17-14.15.47:573][943]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2019.01.17-14.15.52:803][529]LogSavePackage: Save=115.77ms
+[2019.01.17-14.15.52:803][529]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior7623E52F439A783690F17CB08B22BFBD.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-14.15.52:805][529]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-14.15.52:830][529]LogFileHelpers: Saving map 'Iinterior' took 0.206
+[2019.01.17-14.15.52:832][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-14.15.52:956][529]LogSavePackage: Save=114.49ms
+[2019.01.17-14.15.52:956][529]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltData95AD472E46391EA8870778A7A916CC16.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-14.15.52:958][529]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-14.16.22:210][ 36]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight3)
+[2019.01.17-14.16.22:746][ 96]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight2)
+[2019.01.17-14.16.29:096][823]LogSavePackage: Save=119.21ms
+[2019.01.17-14.16.29:096][823]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior7A357B5E479D058F5F330489ECA9D625.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-14.16.29:098][823]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-14.16.29:122][823]LogFileHelpers: Saving map 'Iinterior' took 0.210
+[2019.01.17-14.16.29:694][890]MapCheck: New page: Map Check
+[2019.01.17-14.16.29:709][890]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-14.16.29:709][890]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-14.16.29:933][890]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-14.16.29:939][890]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2019.01.17-14.16.29:944][890]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-14.16.29:950][890]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-14.16.29:956][890]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.17-14.16.29:961][890]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-14.16.30:479][890]TextureStreamingBuild: Display: Compiling optional shaders took 0.550 seconds.
+[2019.01.17-14.16.30:481][890]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2019.01.17-14.16.30:485][890]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-14.16.30:494][890]LightingResults: New page: Lighting Build - Jan 17, 2019, 6:16:30 PM
+[2019.01.17-14.16.30:499][890]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-14.16.30:502][890]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-14.16.30:502][890]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-14.16.30:503][890]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-14.16.30:503][890]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-14.16.35:047][890]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-14.16.35:047][890]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-14.16.35:047][890]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-14.16.35:047][890]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-14.16.35:047][890]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-14.16.35:142][890]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-14.16.35:143][890]MapCheck: New page: Iinterior - Jan 17, 2019, 6:16:35 PM
+[2019.01.17-14.16.35:143][890]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-14.16.35:143][890]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-14.16.35:196][890]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 53.857ms to complete.
+[2019.01.17-14.16.35:219][890]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-14.17.13:115][297]Job is a success!
+[2019.01.17-14.17.14:029][299]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.01.17-14.17.14:029][299]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.01.17-14.17.14:029][299]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2019.01.17-14.17.14:029][299]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2019.01.17-14.17.14:029][299]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.01.17-14.17.14:029][299]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.01.17-14.17.14:053][299]LogStaticLightingSystem: Illumination: 43.5 sec (831 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-14.17.14:053][299]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.01.17-14.17.14:053][299]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-14.17.19:076][299]Lightmass on EVGENIYPC: 38.2 sec total, 131 ms importing, 26 ms setup, 5.13 sec photons, 32.9 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 2:11 min total, 53.8 sec processing.
+[2019.01.17-14.17.19:077][299]DumpUnbuiltLightIteractions
+[2019.01.17-14.17.19:077][299]Lights with unbuilt interactions: 0
+[2019.01.17-14.17.19:077][299]
+[2019.01.17-14.17.19:077][299]Primitives with unbuilt interactions: 0
+[2019.01.17-14.17.19:083][300]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-14.17.19:083][300]MapCheck: New page: Iinterior - Jan 17, 2019, 6:17:19 PM
+[2019.01.17-14.17.19:113][300]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-14.17.19:166][300]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 83.222ms to complete.
+[2019.01.17-14.17.25:376][ 16]LogSavePackage: Save=111.52ms
+[2019.01.17-14.17.25:376][ 16]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior616D3C52478FA58E408264A877FDF5E1.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-14.17.25:381][ 16]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-14.17.25:406][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-14.17.25:554][ 16]LogSavePackage: Save=145.49ms
+[2019.01.17-14.17.25:554][ 16]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltData2E401CC043FBF58F793B47B975C60418.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-14.17.25:556][ 16]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-14.17.39:112][545]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.17-14.17.45:656][279]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.01.17-14.17.53:208][127]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2019.01.17-14.17.55:217][318]LogSavePackage: Save=112.84ms
+[2019.01.17-14.17.55:217][318]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorE61735934FE766AB8A6D468CB219C2BE.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-14.17.55:220][318]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-14.17.55:245][318]LogFileHelpers: Saving map 'Iinterior' took 0.204
+[2019.01.17-14.17.56:610][468]MapCheck: New page: Map Check
+[2019.01.17-14.17.56:622][468]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-14.17.56:622][468]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-14.17.56:860][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-14.17.56:866][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_4, compiling. 
+[2019.01.17-14.17.56:871][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-14.17.56:878][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-14.17.56:883][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.17-14.17.56:889][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-14.17.57:418][468]TextureStreamingBuild: Display: Compiling optional shaders took 0.562 seconds.
+[2019.01.17-14.17.57:420][468]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2019.01.17-14.17.57:424][468]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-14.17.57:433][468]LightingResults: New page: Lighting Build - Jan 17, 2019, 6:17:57 PM
+[2019.01.17-14.17.57:438][468]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-14.17.57:440][468]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-14.17.57:440][468]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-14.17.57:440][468]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-14.17.57:440][468]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-14.18.01:955][468]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-14.18.01:955][468]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-14.18.01:955][468]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-14.18.01:955][468]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-14.18.01:955][468]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-14.18.02:023][468]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-14.18.02:023][468]MapCheck: New page: Iinterior - Jan 17, 2019, 6:18:02 PM
+[2019.01.17-14.18.02:023][468]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-14.18.02:024][468]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-14.18.02:079][468]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 55.575ms to complete.
+[2019.01.17-14.18.02:102][468]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-14.18.40:228][902]Job is a success!
+[2019.01.17-14.18.41:139][904]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.17-14.18.41:139][904]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.17-14.18.41:139][904]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2019.01.17-14.18.41:139][904]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2019.01.17-14.18.41:139][904]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.01.17-14.18.41:139][904]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.01.17-14.18.41:162][904]LogStaticLightingSystem: Illumination: 43.7 sec (830 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-14.18.41:162][904]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.01.17-14.18.41:162][904]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-14.18.41:978][904]Lightmass on EVGENIYPC: 38.4 sec total, 126 ms importing, 26 ms setup, 4.99 sec photons, 33.2 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 2:13 min total, 53.3 sec processing.
+[2019.01.17-14.18.41:979][904]DumpUnbuiltLightIteractions
+[2019.01.17-14.18.41:979][904]Lights with unbuilt interactions: 0
+[2019.01.17-14.18.41:979][904]
+[2019.01.17-14.18.41:979][904]Primitives with unbuilt interactions: 0
+[2019.01.17-14.18.41:985][905]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-14.18.41:985][905]MapCheck: New page: Iinterior - Jan 17, 2019, 6:18:41 PM
+[2019.01.17-14.18.42:014][905]MapCheck: Error: SkyLight_1 SkyLight_1 : Invalid DrawScale/DrawScale3D 
+[2019.01.17-14.18.42:066][905]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 80.802ms to complete.
+[2019.01.17-14.18.55:034][440]Cmd: DELETE
+[2019.01.17-14.18.55:034][440]Cmd: ACTOR DELETE
+[2019.01.17-14.18.55:034][440]LogEditorActor: Deleted Actor: SkyLight
+[2019.01.17-14.18.55:043][440]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2019.01.17-14.18.56:000][530]LogSavePackage: Save=106.75ms
+[2019.01.17-14.18.56:000][530]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior741D17974AB167596DC099AF95EE7CB0.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-14.18.56:002][530]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-14.18.56:026][530]LogFileHelpers: Saving map 'Iinterior' took 0.201
+[2019.01.17-14.18.56:028][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-14.18.56:143][530]LogSavePackage: Save=112.58ms
+[2019.01.17-14.18.56:143][530]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltData09A6C50C44F2CBDB9F2852B716E14389.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-14.18.56:146][530]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-14.18.57:082][642]MapCheck: New page: Map Check
+[2019.01.17-14.18.57:100][642]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-14.18.57:100][642]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-14.18.57:341][642]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-14.18.57:346][642]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_5, compiling. 
+[2019.01.17-14.18.57:352][642]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-14.18.57:359][642]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-14.18.57:364][642]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.17-14.18.57:370][642]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-14.18.57:876][642]TextureStreamingBuild: Display: Compiling optional shaders took 0.539 seconds.
+[2019.01.17-14.18.57:878][642]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2019.01.17-14.18.57:883][642]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-14.18.57:891][642]LightingResults: New page: Lighting Build - Jan 17, 2019, 6:18:57 PM
+[2019.01.17-14.18.57:897][642]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-14.18.57:898][642]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-14.18.57:898][642]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-14.18.57:899][642]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-14.18.57:899][642]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-14.19.02:425][642]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-14.19.02:425][642]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-14.19.02:425][642]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-14.19.02:425][642]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-14.19.02:425][642]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-14.19.02:480][642]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-14.19.02:480][642]MapCheck: New page: Iinterior - Jan 17, 2019, 6:19:02 PM
+[2019.01.17-14.19.02:534][642]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.325ms to complete.
+[2019.01.17-14.19.02:557][642]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-14.19.37:548][799]Job is a success!
+[2019.01.17-14.19.38:433][800]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.01.17-14.19.38:433][800]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.01.17-14.19.38:433][800]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2019.01.17-14.19.38:433][800]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2019.01.17-14.19.38:433][800]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.01.17-14.19.38:433][800]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.01.17-14.19.38:463][800]LogStaticLightingSystem: Illumination: 40.5 sec (806 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-14.19.38:463][800]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.01.17-14.19.38:463][800]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-14.19.39:452][800]Lightmass on EVGENIYPC: 35.2 sec total, 116 ms importing, 23 ms setup, 4.47 sec photons, 30.6 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 2:02 min total, 51.3 sec processing.
+[2019.01.17-14.19.39:452][800]DumpUnbuiltLightIteractions
+[2019.01.17-14.19.39:452][800]Lights with unbuilt interactions: 0
+[2019.01.17-14.19.39:452][800]
+[2019.01.17-14.19.39:452][800]Primitives with unbuilt interactions: 0
+[2019.01.17-14.19.39:457][801]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-14.19.39:457][801]MapCheck: New page: Iinterior - Jan 17, 2019, 6:19:39 PM
+[2019.01.17-14.19.39:516][801]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.046ms to complete.
+[2019.01.17-14.23.00:654][905]LogSavePackage: Save=108.88ms
+[2019.01.17-14.23.00:654][905]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior0487D41E4AB9BD8B523EEA9980DDD02C.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-14.23.00:655][905]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-14.23.00:680][905]LogFileHelpers: Saving map 'Iinterior' took 0.201
+[2019.01.17-14.23.00:682][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-14.23.00:816][905]LogSavePackage: Save=124.98ms
+[2019.01.17-14.23.00:816][905]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltDataCDA1A88A4C43DEF5D823538334EB81F4.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-14.23.00:819][905]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-14.25.58:631][747]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2019.01.17-14.26.01:338][ 30]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight2)
+[2019.01.17-14.26.02:048][ 85]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight4)
+[2019.01.17-14.26.06:818][606]LogSavePackage: Save=108.18ms
+[2019.01.17-14.26.06:818][606]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorEAA681154378AD95A79B288E992D5E07.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-14.26.06:820][606]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-14.26.06:846][606]LogFileHelpers: Saving map 'Iinterior' took 0.205
+[2019.01.17-14.26.11:267][123]MapCheck: New page: Map Check
+[2019.01.17-14.26.11:282][123]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-14.26.11:282][123]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-14.26.11:543][123]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-14.26.11:548][123]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_6, compiling. 
+[2019.01.17-14.26.11:554][123]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-14.26.11:559][123]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-14.26.11:566][123]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.17-14.26.11:572][123]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-14.26.12:089][123]TextureStreamingBuild: Display: Compiling optional shaders took 0.550 seconds.
+[2019.01.17-14.26.12:091][123]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2019.01.17-14.26.12:095][123]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-14.26.12:104][123]LightingResults: New page: Lighting Build - Jan 17, 2019, 6:26:12 PM
+[2019.01.17-14.26.12:110][123]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-14.26.12:111][123]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-14.26.12:111][123]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-14.26.12:112][123]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-14.26.12:112][123]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-14.26.16:717][123]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-14.26.16:717][123]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-14.26.16:717][123]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-14.26.16:717][123]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-14.26.16:717][123]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-14.26.16:808][123]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-14.26.16:808][123]MapCheck: New page: Iinterior - Jan 17, 2019, 6:26:16 PM
+[2019.01.17-14.26.16:808][123]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-14.26.16:860][123]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 52.276ms to complete.
+[2019.01.17-14.26.16:883][123]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-14.26.28:811][158]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.17-14.26.32:908][497]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.17-14.26.33:634][557]Job is a success!
+[2019.01.17-14.26.34:511][558]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.17-14.26.34:511][558]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.17-14.26.34:511][558]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2019.01.17-14.26.34:511][558]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2019.01.17-14.26.34:512][558]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.01.17-14.26.34:512][558]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.01.17-14.26.34:531][558]LogStaticLightingSystem: Illumination: 22.4 sec (798 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-14.26.34:531][558]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.01.17-14.26.34:531][558]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-14.26.39:735][558]Lightmass on EVGENIYPC: 17.0 sec total, 138 ms importing, 24 ms setup, 3.73 sec photons, 13.1 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 52.5 sec total, 22.0 sec processing.
+[2019.01.17-14.26.39:735][558]DumpUnbuiltLightIteractions
+[2019.01.17-14.26.39:735][558]Lights with unbuilt interactions: 0
+[2019.01.17-14.26.39:735][558]
+[2019.01.17-14.26.39:735][558]Primitives with unbuilt interactions: 0
+[2019.01.17-14.26.39:741][559]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-14.26.39:741][559]MapCheck: New page: Iinterior - Jan 17, 2019, 6:26:39 PM
+[2019.01.17-14.26.39:805][559]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.379ms to complete.
+[2019.01.17-14.26.39:815][559]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.17-14.26.41:477][748]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.17-14.26.48:895][595]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.01.17-14.26.49:478][644]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight3)
+[2019.01.17-14.26.50:203][721]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight4)
+[2019.01.17-14.27.00:813][921]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.17-14.27.06:017][518]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.17-14.27.10:479][  7]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.01.17-14.27.14:072][389]LogSavePackage: Save=112.54ms
+[2019.01.17-14.27.14:072][389]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/IinteriorCFE25F4948161B972FC71A9A32525B92.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-14.27.14:074][389]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-14.27.14:099][389]LogFileHelpers: Saving map 'Iinterior' took 0.206
+[2019.01.17-14.27.14:101][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-14.27.14:215][389]LogSavePackage: Save=110.58ms
+[2019.01.17-14.27.14:215][389]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltDataCBAC90244DBFB327E0567293E127EBFA.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-14.27.14:217][389]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-14.27.15:353][501]MapCheck: New page: Map Check
+[2019.01.17-14.27.15:365][501]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.17-14.27.15:365][501]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.17-14.27.15:634][501]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.17-14.27.15:639][501]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_8, compiling. 
+[2019.01.17-14.27.15:644][501]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_fabrick_e1, compiling. 
+[2019.01.17-14.27.15:651][501]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_metal, compiling. 
+[2019.01.17-14.27.15:656][501]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.17-14.27.15:662][501]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_white, compiling. 
+[2019.01.17-14.27.16:180][501]TextureStreamingBuild: Display: Compiling optional shaders took 0.549 seconds.
+[2019.01.17-14.27.16:182][501]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2019.01.17-14.27.16:186][501]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2019.01.17-14.27.16:196][501]LightingResults: New page: Lighting Build - Jan 17, 2019, 6:27:16 PM
+[2019.01.17-14.27.16:201][501]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.17-14.27.16:203][501]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.17-14.27.16:203][501]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.17-14.27.16:204][501]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.17-14.27.16:204][501]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13036
+[2019.01.17-14.27.20:773][501]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.17-14.27.20:773][501]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.17-14.27.20:773][501]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.17-14.27.20:773][501]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.17-14.27.20:773][501]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.17-14.27.20:831][501]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.17-14.27.20:832][501]MapCheck: New page: Iinterior - Jan 17, 2019, 6:27:20 PM
+[2019.01.17-14.27.20:832][501]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.17-14.27.20:884][501]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 53.601ms to complete.
+[2019.01.17-14.27.20:907][501]LogEditorBuildUtils: Build time 0:05
+[2019.01.17-14.27.41:195][809]Job is a success!
+[2019.01.17-14.27.42:603][810]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.01.17-14.27.42:603][810]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.01.17-14.27.42:603][810]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2019.01.17-14.27.42:603][810]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2019.01.17-14.27.42:603][810]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.01.17-14.27.42:603][810]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.01.17-14.27.42:631][810]Lightmass on EVGENIYPC: 21.1 sec total, 122 ms importing, 30 ms setup, 5.11 sec photons, 15.8 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 1:03 min total, 24.9 sec processing.
+[2019.01.17-14.27.42:634][810]LogStaticLightingSystem: Illumination: 26.1 sec (974 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.17-14.27.42:634][810]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.01.17-14.27.42:634][810]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.17-14.27.47:792][810]DumpUnbuiltLightIteractions
+[2019.01.17-14.27.47:792][810]Lights with unbuilt interactions: 0
+[2019.01.17-14.27.47:792][810]
+[2019.01.17-14.27.47:792][810]Primitives with unbuilt interactions: 0
+[2019.01.17-14.27.47:802][811]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.17-14.27.47:802][811]MapCheck: New page: Iinterior - Jan 17, 2019, 6:27:47 PM
+[2019.01.17-14.27.47:942][811]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 140.325ms to complete.
+[2019.01.17-14.28.03:543][441]LogSavePackage: Save=115.27ms
+[2019.01.17-14.28.03:543][441]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior90149C2C40B1886A8ED599B562135368.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap'
+[2019.01.17-14.28.03:544][441]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior.umap
+[2019.01.17-14.28.03:570][441]LogFileHelpers: Saving map 'Iinterior' took 0.206
+[2019.01.17-14.28.03:572][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sofas_pack/Maps/Iinterior_BuiltData" FILE="../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset" SILENT=true
+[2019.01.17-14.28.03:695][441]LogSavePackage: Save=113.86ms
+[2019.01.17-14.28.03:695][441]LogSavePackage: Moving '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Iinterior_BuiltData50CAA1A947B61DAF80EE849ACC9BFA5C.tmp' to '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset'
+[2019.01.17-14.28.03:697][441]LogSavePackage: Display: Finished SavePackage ../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Sofas_pack/Maps/Iinterior_BuiltData.uasset
+[2019.01.17-14.28.05:997][666]Cmd: QUIT_EDITOR
+[2019.01.17-14.28.06:045][666]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.17-14.28.06:061][666]LogExit: Preparing to exit.
+[2019.01.17-14.28.06:902][666]LogDirectoryWatcher: A directory notification for 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/' was aborted.
+[2019.01.17-14.28.06:925][666]LogExit: Editor shut down
+[2019.01.17-14.28.06:928][666]LogExit: Transaction tracking system shut down
+[2019.01.17-14.28.07:146][666]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.01.17-14.28.07:146][666]LogDirectoryWatcher: A directory notification for '../../../../../PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/' was aborted.
+[2019.01.17-14.28.07:146][666]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2019.01.17-14.28.07:146][666]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.01.17-14.28.07:146][666]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.01.17-14.28.07:296][666]LogExit: Object subsystem successfully closed.
+[2019.01.17-14.28.07:310][666]LogD3D11RHI: Shutdown
+[2019.01.17-14.28.07:310][666]LogD3D11RHI: CleanupD3DDevice
+[2019.01.17-14.28.07:313][666]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.17-14.28.07:322][666]LogModuleManager: Shutting down and abandoning module MaterialEditor (536)
+[2019.01.17-14.28.07:322][666]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (534)
+[2019.01.17-14.28.07:322][666]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (532)
+[2019.01.17-14.28.07:322][666]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2019.01.17-14.28.07:322][666]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2019.01.17-14.28.07:322][666]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2019.01.17-14.28.07:322][666]LogDirectoryWatcher: A directory notification for 'D:/Program Files/UE_4.17/FeaturePacks/' was aborted.
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2019.01.17-14.28.07:323][666]LogDirectoryWatcher: A directory notification for 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Collections/' was aborted.
+[2019.01.17-14.28.07:323][666]LogDirectoryWatcher: A directory notification for 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Content/Developers/EvgeniyNuts/Collections/' was aborted.
+[2019.01.17-14.28.07:323][666]LogDirectoryWatcher: A directory notification for 'D:/PROJECT/MarketPlace/Sofas/Sofas-for-MP/Saved/Collections/' was aborted.
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2019.01.17-14.28.07:323][666]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module Media (477)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2019.01.17-14.28.07:324][666]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2019.01.17-14.28.07:325][666]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2019.01.17-14.28.07:325][666]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2019.01.17-14.28.07:325][666]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2019.01.17-14.28.07:325][666]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2019.01.17-14.28.07:588][666]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2019.01.17-14.28.07:588][666]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2019.01.17-14.28.07:588][666]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2019.01.17-14.28.07:588][666]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2019.01.17-14.28.07:588][666]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2019.01.17-14.28.07:588][666]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2019.01.17-14.28.07:588][666]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2019.01.17-14.28.07:588][666]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2019.01.17-14.28.07:588][666]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2019.01.17-14.28.07:589][666]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2019.01.17-14.28.07:643][666]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2019.01.17-14.28.07:643][666]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2019.01.17-14.28.07:643][666]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2019.01.17-14.28.07:643][666]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2019.01.17-14.28.07:643][666]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2019.01.17-14.28.07:643][666]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2019.01.17-14.28.07:643][666]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2019.01.17-14.28.07:643][666]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2019.01.17-14.28.07:643][666]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2019.01.17-14.28.07:643][666]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2019.01.17-14.28.07:644][666]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2019.01.17-14.28.07:814][666]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2019.01.17-14.28.07:814][666]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2019.01.17-14.28.07:814][666]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2019.01.17-14.28.07:814][666]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2019.01.17-14.28.07:814][666]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2019.01.17-14.28.07:814][666]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2019.01.17-14.28.07:814][666]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2019.01.17-14.28.07:814][666]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2019.01.17-14.28.07:814][666]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2019.01.17-14.28.07:815][666]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2019.01.17-14.28.07:816][666]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2019.01.17-14.28.07:816][666]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2019.01.17-14.28.07:816][666]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2019.01.17-14.28.07:816][666]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2019.01.17-14.28.07:816][666]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2019.01.17-14.28.07:816][666]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2019.01.17-14.28.07:816][666]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2019.01.17-14.28.07:816][666]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.01.17-14.28.07:817][666]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.01.17-14.28.07:817][666]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2019.01.17-14.28.07:817][666]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2019.01.17-14.28.07:817][666]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2019.01.17-14.28.07:817][666]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2019.01.17-14.28.07:817][666]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2019.01.17-14.28.07:817][666]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2019.01.17-14.28.07:817][666]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2019.01.17-14.28.07:817][666]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2019.01.17-14.28.07:817][666]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2019.01.17-14.28.07:817][666]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2019.01.17-14.28.07:919][666]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2019.01.17-14.28.08:020][666]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2019.01.17-14.28.08:020][666]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2019.01.17-14.28.08:020][666]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2019.01.17-14.28.08:020][666]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2019.01.17-14.28.08:020][666]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2019.01.17-14.28.08:020][666]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2019.01.17-14.28.08:021][666]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2019.01.17-14.28.08:021][666]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2019.01.17-14.28.08:021][666]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2019.01.17-14.28.08:021][666]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2019.01.17-14.28.08:024][666]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2019.01.17-14.28.08:025][666]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2019.01.17-14.28.08:025][666]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2019.01.17-14.28.08:025][666]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2019.01.17-14.28.08:025][666]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2019.01.17-14.28.08:025][666]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2019.01.17-14.28.08:026][666]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2019.01.17-14.28.08:026][666]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module Core (168)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2019.01.17-14.28.08:027][666]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2019.01.17-14.28.08:028][666]LogDerivedDataCache: Shutdown
+[2019.01.17-14.28.08:028][666]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2019.01.17-14.28.08:028][666]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2019.01.17-14.28.08:028][666]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2019.01.17-14.28.08:028][666]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2019.01.17-14.28.08:028][666]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2019.01.17-14.28.08:028][666]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2019.01.17-14.28.08:028][666]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2019.01.17-14.28.08:028][666]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.01.17-14.28.08:029][666]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.01.17-14.28.08:030][666]LogOnline: Display: Unloading online subsystem: NULL
+[2019.01.17-14.28.08:030][666]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.01.17-14.28.08:030][666]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.01.17-14.28.08:030][666]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.17-14.28.08:030][666]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B998BDC08-4CD6-6153-F05E-1B92A82790DE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=81a3a7394cc80e0a54320f92b5754539%7C291238a969c64ec1b264e4bc35f465be%7C72e223f3-5c56-4dd3-8272-a9e858a1b60c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.17-14.28.08:052][666]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.01.17-14.28.08:053][666]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.17-14.28.08:053][666]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.17-14.28.08:053][666]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.17-14.28.08:053][666]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.17-14.28.08:053][666]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.17-14.28.08:053][666]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.17-14.28.08:053][666]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.17-14.28.08:054][666]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.17-14.28.08:054][666]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.17-14.28.08:054][666]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.17-14.28.08:054][666]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.17-14.28.08:054][666]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.17-14.28.08:054][666]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.17-14.28.08:054][666]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.17-14.28.08:054][666]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.17-14.28.08:054][666]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.17-14.28.08:054][666]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.17-14.28.08:054][666]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.17-14.28.08:057][666]LogExit: Exiting.
+[2019.01.17-14.28.08:070][666]Log file closed, 01/17/19 16:28:08
